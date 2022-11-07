@@ -1,0 +1,1430 @@
+[
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Águas Claras",
+    "endereco": "Av. Pau Brasil, 6 – Águas Claras – DF CEP: 70297-400",
+    "telefone": "(61) 3548-3060",
+    "dentistaResponsavel": "Layane Xavier – CRO-DF 12.213"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Americana – Ipiranga",
+    "endereco": "R. Iacanga, 631 – Vila Molon, Americana – SP, 13468-590",
+    "telefone": "(19) 3601-0152",
+    "dentistaResponsavel": "Karen Ballan Sega – CRO-SP 54.246"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Americana – São Vito",
+    "endereco": "Av. Paschoal Ardito, 970 – Jardim Sao Vito, Americana – SP, 13472-130",
+    "telefone": "1936454555",
+    "dentistaResponsavel": "Galiano Rodrigues de Oliveira Netto CRO-86992"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Amparo",
+    "endereco": "Av. Bernardino de Campos, 166 – Centro, Amparo – SP, 13900-400",
+    "telefone": "(19) 3817-3880",
+    "dentistaResponsavel": "Mrco César Chimello – CRO-SP 68.298"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Apucarana",
+    "endereco": "Rua Osório Ribas de Paula -344 – Sala 02 Centro Apucarana – PR, 86800-140",
+    "telefone": "(43) 3048-2294",
+    "dentistaResponsavel": "Bianca Mardegan Benatatti CROPR 25.548"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Arapongas – Centro",
+    "endereco": "R. Uirapuru, 725 – Centro, Arapongas – PR, 86700-060",
+    "telefone": "(43) 98868-4774",
+    "dentistaResponsavel": "Kaliane Aparecida Lima Pilon – CRO-PR 33037"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Araraquara",
+    "endereco": "Av. D. Pedro II, 246. Centro. Araraquara – SP. CEP: 14801-040",
+    "telefone": "(16) 3114-1707",
+    "dentistaResponsavel": "Dr. Fábio Rezende Nogueira – CRO-SP 75.018"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Araras",
+    "endereco": "R. Benedita Nogueira, 627 – Centro, Araras – SP, 13600-120",
+    "telefone": "(19)3321-2070",
+    "dentistaResponsavel": "Oberdan Jorge de Carvalho CRO-SP 11913"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Artur Alvim",
+    "endereco": "R. Maria Eugênia Célso, 225 – Parque Artur Alvim, São Paulo – SP, 03568-050",
+    "telefone": "(11) 2384-7853",
+    "dentistaResponsavel": "Patrícia Midori Massuda Oliveira – CRO-SP 126.555"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Artur Nogueira",
+    "endereco": "Av. Dr. Fernando Arens, 564 – Centro, Artur Nogueira – SP, 13160-000",
+    "telefone": "(19) 3204 -2022",
+    "dentistaResponsavel": "Lauro Henrico Donizetti Panza CRO-SP 20385"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Asa Norte",
+    "endereco": "BL B – SCRN 708/709, Loja 18B – Asa Norte, Brasília – DF, 70741-620",
+    "telefone": "(61) 3546-3871",
+    "dentistaResponsavel": "Dalila de Souza Marques – CRO-DF 12.360"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Bauru",
+    "endereco": "R. Treze de Maio, 4-42 – Centro, Bauru – SP, 17010-230",
+    "telefone": "(14) 3245-7624",
+    "dentistaResponsavel": "Natalia Carolina Leme Margonato – CRO-SP 141.643"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Belém – Nazaré",
+    "endereco": "Av. Cmte. Brás de Águiar, 783 – Nazaré, Belém – PA",
+    "telefone": "(91) 3118-1497",
+    "dentistaResponsavel": "Camila Freitas Silva – CRO-PA-CD 7062"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Belo Horizonte – Centro",
+    "endereco": "Rua Guajajaras, 375 – Centro – Belo Horizonte – MG. CEP: 30180-101",
+    "telefone": "(31) 3347-2333",
+    "dentistaResponsavel": "Thiago Motta Rego – CROMG 34196"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Belo Horizonte – Dona Clara",
+    "endereco": "Avenida Sebastião de Brito, 98 – Belo Horizonte – MG CEP: 31260-000",
+    "telefone": "(31) 3047-3370",
+    "dentistaResponsavel": "Dra. Elienai Cristina dos Santos – CRO-MG 58494"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Belo Horizonte – Padre Eustáquio",
+    "endereco": "R. Padre Eustáquio, 2151 – Padre Eustáquio, Belo Horizonte – MG, 30720-100",
+    "telefone": "(31) 3309-5101",
+    "dentistaResponsavel": "Yasmin Loise de Souza CRO-MG 52076"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Belo Horizonte – Savassi",
+    "endereco": "Av. do Contorno, 6675 – Savassi, Belo Horizonte – MG, 30110-043",
+    "telefone": "(31) 3564-2688",
+    "dentistaResponsavel": "Gabriela Geo Quick Arêas – CRO-MG 41.955"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Biguaçu Centro",
+    "endereco": "Rua Prefeito Leopoldo Freiberger, 381 – Centro, Biguaçu – SC, 88160-144",
+    "telefone": "48 3067-1144",
+    "dentistaResponsavel": "Tadeu Wanderlei Teixeira Dutra CRO- 588- SC"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Blumenau",
+    "endereco": "R. XV de Novembro, 456 – Centro, Blumenau – SC, 89010-000",
+    "telefone": "(47) 3513-5676",
+    "dentistaResponsavel": "RT: Dr. João Luiz Basei – CRO: 17.928 – EPAO: 2897"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Boa Vista",
+    "endereco": "Avenida Major Williams, 1055, A – Centro, Boa Vista – RR, 69301-110",
+    "telefone": "(95) 3194-6003",
+    "dentistaResponsavel": "Francilma Sousa – CRO-RR 763"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Boituva – Centro",
+    "endereco": "Rua Coronel Arruda Botelho, 351 – Jardim Nova Boituva, Boituva – SP, 18550-101",
+    "telefone": "(15) 3415-8301",
+    "dentistaResponsavel": "RT: Valéria da Silva Ramos – CRO: 118418"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Bonsucesso",
+    "endereco": "Av. Nova York, 158 – Bonsucesso, Rio de Janeiro – RJ, 21041-040",
+    "telefone": "(021) 3439-0843",
+    "dentistaResponsavel": "Paulo César Barbosa Ferreira CRO RJ: 34163"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Botucatu",
+    "endereco": "Av. Dom Lúcio, 378 – Centro, Botucatu – SP, 18602-092",
+    "telefone": "(14) 3440-2364",
+    "dentistaResponsavel": "Tatiana Maria Lopes Justo Brosco CROSP 86186"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Bragança Paulista",
+    "endereco": "Praça Nove de Julho, 133 – Taboão, Bragança Paulista – SP, 12900-280",
+    "telefone": "(11) 4032-6740",
+    "dentistaResponsavel": "Isadora Andrade Da Costa – CRO-SP 101.209"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Cajamar",
+    "endereco": "R. Avelino Tolêdo de Lima, 174 – Jardim Nova Jordanésia, Cajamar – SP, 07750-000",
+    "telefone": "(011) 4447-5697",
+    "dentistaResponsavel": "Dr. Daniel Cássio O. Castro CRO SP 110.027"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Cambuci",
+    "endereco": "Av. Lins de Vasconcelos, 297 – Cambuci, São Paulo – SP, 01537-000",
+    "telefone": "(11) 2373-1080",
+    "dentistaResponsavel": "Dr. Reinaldo Honda – CRO-SP 48.888"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Cambuí -Praça da Cultura",
+    "endereco": "Rua Major Higino César, 173, R. São Benedito, Cambuí – MG, 37600-000",
+    "telefone": "(35) 3431-4164",
+    "dentistaResponsavel": "Heitor Marques Menezes – CRO-MG CD 28.712"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Cambuí Centro",
+    "endereco": "Rua João Moreira Sales 378 Centro Cambuí – MG, 37600-000",
+    "telefone": "(35) 3431-4164",
+    "dentistaResponsavel": "RT: Rayssa de Melo Cássia Bortoleto CRO/MG: 56306"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campinas – Amoreiras",
+    "endereco": "Av. das Amoreiras, 3130 – Jardim do Lago, Campinas – SP, 13050-035",
+    "telefone": "(19) 3342-7000",
+    "dentistaResponsavel": "Dr Francisco Carlos Bomtorin – CRO/SP 105792"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campinas – Campo Grande",
+    "endereco": "R. Edson Luiz Rigonatto, 1401 – Jardim Santa Clara, Campinas – SP, 13058-310",
+    "telefone": "(019) 3383-0575",
+    "dentistaResponsavel": "Dra. Adriana Barros CRO-SP 86268"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campinas – Ouro Verde",
+    "endereco": "Av. Suaçuna, 624 – Vila Aeroporto, Campinas – SP, 13054-105",
+    "telefone": "(19) 3766-7000",
+    "dentistaResponsavel": "Christiane Nascimento Batista Oliveira CRO-SP 79.544"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campinas – Barão Geraldo",
+    "endereco": "Rua Benedito Alves Aranha, 55. Barão Geraldo. Campinas – SP. CEP: 13084-090",
+    "telefone": "(19) 3749-7500",
+    "dentistaResponsavel": "Mateus Henrique Marino CROSP – 118305"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campinas – Guanabara",
+    "endereco": "R. Santo Antônio Claret, 242 – Jardim Chapadão, Campinas – SP, 13070-145",
+    "telefone": "(19) 3741-7000",
+    "dentistaResponsavel": "Thaisy Cristina Paviotti Pedroni – CRO-SP 122.759"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campinas – Parque Prado",
+    "endereco": "Av. Dr. Ângelo Simões, 1086 – Jardim Leonor, Campinas – SP, 13041-150",
+    "telefone": "(19) 3365-7002",
+    "dentistaResponsavel": "Lucas Silveira Guimarães- CRO-SP 83.149"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campinas – Vila Teixeira",
+    "endereco": "R. Joaquim Vilac, 791 – Vila Teixeira, Campinas – SP, 13032-385",
+    "telefone": "(19) 3243-2335",
+    "dentistaResponsavel": "Adiel da Silva Maia – CRO-SP-CD 132037"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campo Belo",
+    "endereco": "R. Vieira de Morais, 1088 – Campo Belo, São Paulo – SP, 04617-003",
+    "telefone": "(11) 5096-0221",
+    "dentistaResponsavel": "Ari Akerman Sadetsky – CRO-SP 39.686"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campo Grande – Bandeirantes",
+    "endereco": "Av. Mal. Deodoro, 934 – Jardim Leblon, Campo Grande – MS, 79094-000",
+    "telefone": "(67) 3045-3030",
+    "dentistaResponsavel": "Dra Ana Silvia Rapp Cavalheiros CRO-MS 4036"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campo Grande – Cel. Antonino",
+    "endereco": "Av. Mascarenhas de Moraes, 3571 – Monte Castelo, Campo Grande – MS, 79010-500",
+    "telefone": "(67) 3351-7777",
+    "dentistaResponsavel": "Dra. Caroline Garcia de Lima CRO-MS 3757"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campo Grande – Centro",
+    "endereco": "R. Tv. Lydia Baís, 38 – Centro, Campo Grande – MS, 79002-120",
+    "telefone": "(67) 3027-2222",
+    "dentistaResponsavel": "Dr. Paulo Roberto Silveira da Silva – CRO-MS nº 1360"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campo Grande – Kids",
+    "endereco": "Av. Afonso Pena, 593 – Amambai, Campo Grande – MS, 79005-000",
+    "telefone": "(067) 3043-0777",
+    "dentistaResponsavel": "Dar. Eigla Guerrieri Martins Souza CRO-MS nº 3976"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campo Limpo",
+    "endereco": "Estr. do Campo Limpo, 4650 – Vila Pirajussara, São Paulo – SP, 05787-000",
+    "telefone": "(11)5843-8543",
+    "dentistaResponsavel": "Luís Henrique Fessel CRO-SP 83633"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Campo Mourão",
+    "endereco": "Rua Mato Grosso, 1966. Esquina, Av. Cap. Índio Bandeira – Centro, Campo Mourão – PR, 87300-400",
+    "telefone": "(44) 99846-8577",
+    "dentistaResponsavel": "Paulo Ricardo Fernandes – CROPR 25895"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Capivari",
+    "endereco": "R. Padre Fabiano, 299 – Centro, Capivari – SP, 13360-000",
+    "telefone": "(019) 3491-5056",
+    "dentistaResponsavel": "Dra. Rute Sobral Luz Soares CRO-SP 90.744"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Carapicuíba",
+    "endereco": "Av. Miriam, 432. Centro. Carapicuíba – SP. CEP: 06320-060",
+    "telefone": "(11) 4184-4321",
+    "dentistaResponsavel": "Dra. Tiane Alexandrow Valentin – CRO-SP 60.832"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Casa Verde",
+    "endereco": "Av. Imirim, 1490 – Imirim, São Paulo – SP, 02464-200",
+    "telefone": "(11) 2236-2582",
+    "dentistaResponsavel": "Dr. Victor Sakata Tomoda – CRO-SP 112.391"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Cascavel",
+    "endereco": "Rua Souza Naves, 3931 salas 04 e 05 – Centro – Cascavel – PR. CEP: 85810-070",
+    "telefone": "(45) 3039-4666",
+    "dentistaResponsavel": "Hussein Ali Mehanna – CRO-PR: 13321"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Caxias do Sul – Exposição",
+    "endereco": "R. Tronca, 2656 – Exposição, Caxias do Sul – RS, 95010-100",
+    "telefone": "(54) 3698-4419",
+    "dentistaResponsavel": "Dra. Milena Panazzolo CRO/RS 27982"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Ceilândia",
+    "endereco": "QNN 01 conjunto F lote 04 loja 01 – Ceilândia Norte CEP: 72225-016",
+    "telefone": "(61) 3060-0001",
+    "dentistaResponsavel": "Marta Iza Marazzini CRO-12435"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Cerquilho",
+    "endereco": "Rua Engenheiro Urbano de Pádua Araújo, 120. Centro. Cerquilho – SP. CEP 18520-970",
+    "telefone": "(15) 99871-7072",
+    "dentistaResponsavel": "Dr . Tomas Salomão Muniz – CRO 108020"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Chácara Santo Antônio",
+    "endereco": "R. Américo Brasiliense, 1857 – Chácara Santo Antônio, São Paulo – SP, 04715-005",
+    "telefone": "(11) 5183-6033",
+    "dentistaResponsavel": "Dra Breda Gabriella de Oliveira CRO RT SP: 105 585"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Cidade Ademar",
+    "endereco": "Av. Cupecê, 2745. Jd. Prudência. São Paulo – SP. CEP: 04365-000",
+    "telefone": "(11) 5565-6388",
+    "dentistaResponsavel": "Mariana Paragis Sanchez – CRO-SP 88.851"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Colatina",
+    "endereco": "Praça Ademar Tavora, 11 – Letra B Térreo – Centro, Colatina/ES. CEP: 29700-012",
+    "telefone": "(27) 3122-2499",
+    "dentistaResponsavel": "Dra. Mariane Ramalho Novelli – CRO-ES-CD-7249"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Cosmópolis",
+    "endereco": "Av. Estér, 58 – Centro, Cosmópolis – SP, 13150-029",
+    "telefone": "(019) 3812-2998",
+    "dentistaResponsavel": "Dra. Naiara Pinheiro CRO-SP 10315"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Cotia",
+    "endereco": "Av. Prof. Manoel José Pedroso, 281 – Parque Bahia, Cotia – SP, 06717-100",
+    "telefone": "(11) 4148-0918",
+    "dentistaResponsavel": "Dra. Camilla Kamada CRO-SP 110.325"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Curitiba – Centro",
+    "endereco": "Rua Emiliano Perneta, 493 – Centro, Curitiba – PR, 80420-080",
+    "telefone": "(41) 3598-2264",
+    "dentistaResponsavel": "Rafael Ricardo Pereira – CRO-PR 23.039"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Divisão",
+    "endereco": "R. da Divisão, 863 – Jardim Parati, Campo Grande – MS, 79081-650",
+    "telefone": "(67) 3028-2230",
+    "dentistaResponsavel": "–"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Divisão Kids",
+    "endereco": "R. da Divisão, 863 – Jardim Parati, Campo Grande – MS, 79081-650",
+    "telefone": "(67) 3028-2230",
+    "dentistaResponsavel": "–"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Espírito Santo do Pinhal – Centro",
+    "endereco": "R. XV de Novembro, 55 – Centro, Espírito Santo do Pinhal – SP, 13990-000",
+    "telefone": "(19) 3668-4100",
+    "dentistaResponsavel": "Dr° Diego Alberto Rosalin CRO:103373"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Extrema",
+    "endereco": "R. Gov. Valadares, 117 – Centro, Extrema – MG, 37640-000",
+    "telefone": "(35)99926 -1477",
+    "dentistaResponsavel": "Camila CRO-MG 55322"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Feira de Santana",
+    "endereco": "Rua Barão de Cotegipe, 913. Centro. Feira de Santana – BA. CEP: 44001-555",
+    "telefone": "(075) 3624-0396",
+    "dentistaResponsavel": "Dr. Moisés da Silva Suzart CRO: CRO-BA 8180"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Flores da Cunha",
+    "endereco": "Rua Frei Eugênio, 311, sala 05 Centro Flores da Cunha – RS, 95270-000",
+    "telefone": "(54) 99605-8585",
+    "dentistaResponsavel": "Juliana Siqueira CRO – 28829"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Florianópolis",
+    "endereco": "Rua Padre Roma, 431 – Centro, Florianópolis – SC, 88010-090",
+    "telefone": "(48) 3030-1515",
+    "dentistaResponsavel": "Jessica Teles Cozeti Tambellini – CRO-SC16.881"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Florianópolis – Estreito",
+    "endereco": "R. Gen. Liberato Bitencourt, 1460 – Canto, Florianópolis – SC, 88070-800",
+    "telefone": "(48) 3112-3007",
+    "dentistaResponsavel": "Andrea Marinho Rauen CRO- 8991-SC"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Foz do Iguaçu",
+    "endereco": "R. Alm. Barroso, 1712 – Centro, Foz do Iguaçu – PR, 85851-010",
+    "telefone": "(45) 3523-1214",
+    "dentistaResponsavel": "Dra. Ariane Reina Sucupira Rabelo – CRO-PR 18.127"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Franca",
+    "endereco": "R. Dr. Júlio Cardoso, 1440 – Centro, Franca – SP, 14400-730",
+    "telefone": "(16) 3703 2244",
+    "dentistaResponsavel": "RT Alvaro Augusto Dutra – CRO- SP 66373"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Gama Setor Industrial Sul",
+    "endereco": "QUADRA 01 LOTES 1700/1780 LOJA 11 E 12 – Gama, Brasília – DF, 72445-010",
+    "telefone": "(61) 3976-7856",
+    "dentistaResponsavel": "RT Wanessa Severo CRODF- 9935"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Governador Valadares",
+    "endereco": "Rua Barão do Rio Branco, 144 – Centro. Governador Valadares-MG. CEP:35010-030",
+    "telefone": "(33) 3021-2838",
+    "dentistaResponsavel": "Fabiano Rodrigues Teixeira – CRO-MG 47.312 EPAO 5306"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Granja Viana",
+    "endereco": "R. dos Manacás, 557 – Jardim da Gloria, Cotia – SP, 06711-500",
+    "telefone": "(011) 2690-2992",
+    "dentistaResponsavel": "Caroline Ferreira da Silva CRO-SP: 126308"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Guaianases",
+    "endereco": "R. Hipólito de Camargo, 142 – Guaianases, São Paulo – SP, 05363-000",
+    "telefone": "(11) 2554-8933",
+    "dentistaResponsavel": "RT Adriana Gomes De Oliveira CRO SP 126398"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Guarulhos – Picanço",
+    "endereco": "Rua Cachoeira, 615 – Picanço, Guarulhos – SP, 07080-000",
+    "telefone": "(11) 2358-1219",
+    "dentistaResponsavel": "GABRIELLE DE SOUZA GUTIERRE – CRO 93922-SP"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Guarulhos – Vila Galvão",
+    "endereco": "Avenida Sete de Setembro, 1555 – Vila Galvão, Guarulhos – SP, 07064-002",
+    "telefone": "(11) 2497-1084",
+    "dentistaResponsavel": "Moises Walison Rodrigues Cunha CROSP-140645"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Guarulhos – Centro",
+    "endereco": "R. José Maurício, 266 – Centro, Guarulhos – SP, 07011-060",
+    "telefone": "(11) 2443-4243",
+    "dentistaResponsavel": "Dra. Dandara Teodoro de Oliveira – CRO-SP 137.608"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Horto",
+    "endereco": "Av. Silviano Brandão, 2009 – Horto, Belo Horizonte – MG, 31030-035",
+    "telefone": "(31) 3504-0600",
+    "dentistaResponsavel": "Wanessa Regina Fiorita Pereira de Faria CROMG – 12315"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Hortolândia",
+    "endereco": "Rua Zacharias Costa Camargo, 92 – Remanso Campineiro. 13184-280 Hortolândia, SP",
+    "telefone": "(19) 3199-1447",
+    "dentistaResponsavel": "Isadora Gioso Moraes – CRO – 113688"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Indaiatuba",
+    "endereco": "R. Pedro de Toledo, 472 – Centro, Indaiatuba – SP, 13330-090",
+    "telefone": "(19) 3394-1727",
+    "dentistaResponsavel": "Dra. Bruna RIbeiro de Castro Nunes – CRO-SP 85936"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Interlagos",
+    "endereco": "Av. Nossa Sra. de Sabará, 2603 – Campo Grande, São Paulo – SP, 04685-006",
+    "telefone": "(11)56311198",
+    "dentistaResponsavel": "Ricardo Reda Ahmad Hayek CRO: 52988"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Ipiranga",
+    "endereco": "Av. Nossa Senhora das Mercês, 1275. Vila das Mercês. São Paulo – SP. CEP: 04165-001",
+    "telefone": "(11) 2264-0550",
+    "dentistaResponsavel": "Dra. Katia de Lacquila – CRO-SP 39794"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Itaim Paulista",
+    "endereco": "Rua Tibúrcio de Sousa, 309 – Itaim Paulista, São Paulo – SP, 08140-000",
+    "telefone": "(11) 2568-8054",
+    "dentistaResponsavel": "Dr Diogo Mendes Silva – CRO-SP 99.833"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Itajaí",
+    "endereco": "Rua Dr Jose Bonifácio Malburg, 105",
+    "telefone": "(47) 3515-5600",
+    "dentistaResponsavel": "Luiza Pellenz – CROSC – 20412"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Itapetininga",
+    "endereco": "R. Dom Joaquim, 493 – Centro, Itapetininga – SP, 18200-090",
+    "telefone": "(15) 3537-3900",
+    "dentistaResponsavel": "Roberta Seiga CRO: SP-68809"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Itapevi",
+    "endereco": "R. Pedro Luís García, 91 – Centro, Itapevi – SP, 06653-087",
+    "telefone": "(11) 4141-2339",
+    "dentistaResponsavel": "RT: Aline Caetano Ramalho CROSP: 11.3994"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Itapira",
+    "endereco": "R. Comendador Joao Cintra, 433 – Itapira – SP. CEP: 13970-160",
+    "telefone": "(19) 3863-2400",
+    "dentistaResponsavel": "Ana Carolina Costa – CRO-SP 129.090"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Itatiba",
+    "endereco": "Av. Mal. Deodoro, 46 – Centro, Itatiba – SP, 13250-370",
+    "telefone": "(011) 4538-8100",
+    "dentistaResponsavel": "Dr. Marcus Rodrigues Martins Passos CRO: 92187"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Itu – Centro",
+    "endereco": "R. Santa Cruz, 805 – Centro, Itu – SP, 13300-090",
+    "telefone": "(11) 4022-6690",
+    "dentistaResponsavel": "Felipe da Rocha Camargo CROCD-99034"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Itupeva",
+    "endereco": "Av. Brasil, 567 – Jardim Nova Itupeva. Itupeva – SP. CEP: 13295-140",
+    "telefone": "(11) 4496-5350",
+    "dentistaResponsavel": "RT: Joao Paulo Gonçalves Alves CRO:125852"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Jabaquara",
+    "endereco": "Av Engenheiro George Corbisier, 1159 Jabaquara São Paulo – SP, 04345-001",
+    "telefone": "(11) 5017-1429",
+    "dentistaResponsavel": "RT :Dra.Franciele Vieira Caller -CRO/SP:123764"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Jacareí",
+    "endereco": "R. Bernardino de Campos, 181 – Centro, Jacareí – SP, 12308-040",
+    "telefone": "(12) 3959-4409",
+    "dentistaResponsavel": "Thayla Tessa Scarabel Maciel – CRO-SP 95.795"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Jaguariúna",
+    "endereco": "R. Cândido Bueno, 1191 – Centro, Jaguariúna – SP, 13910-033",
+    "telefone": "(19) 3837-5656",
+    "dentistaResponsavel": "Dra. Marcela Fernandes – CRO-SP 90.738"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Jandira",
+    "endereco": "Praça Anielo Gragnano, 32. Centro. Jandira – SP. CEP: 06600-050",
+    "telefone": "(11) 4789-2081",
+    "dentistaResponsavel": "Marina Meneghini Amaral Sampaio Coelho​ – CRO-SP 61.810"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Jardim Bonfiglioli",
+    "endereco": "Av. Comendador Alberto Bonfiglioli, 734 São Paulo – SP. CEP: 05593-001",
+    "telefone": "(11) 3733-1201",
+    "dentistaResponsavel": "Marianna Ferrari – CRO-SP: 118108"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Jaú",
+    "endereco": "Rua Álvaro Floret 445 – Vila Hilst. Jaú – SP. CEP: 17207-020",
+    "telefone": "(14) 2104-0004",
+    "dentistaResponsavel": "Lourdes Carolina Tapia de Freitas – CRO-SP 74315"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "João Pessoa – Mangabeira",
+    "endereco": "R. Josefa Taveira, 673 – Mangabeira I, João Pessoa – PB, 58055-000",
+    "telefone": "(83) 3576-1819",
+    "dentistaResponsavel": "Dr. Francisco Rufino CRO-PB 5214"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Joinville – Centro",
+    "endereco": "R. Mário Lobo, 221 – Joinville – SC CEP: 89201-330",
+    "telefone": "(47) 3026-4860",
+    "dentistaResponsavel": "Roberta Guimarães de Sá – CRO-SC 19587"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Juiz de Fora – Floriano",
+    "endereco": "R. Mal. Floriano Peixoto, 362 – Centro, Juiz de Fora – MG, 36013-080",
+    "telefone": "(032) 3025-5588",
+    "dentistaResponsavel": "Thais Carvalho dos Santos CRO-MG 31119"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Juiz de Fora – Centro Halfeld",
+    "endereco": "R. Halfeld, 373 – Centro, Juiz de Fora – MG, 36010-000",
+    "telefone": "(32) 3512-8423",
+    "dentistaResponsavel": "Mariane Cristina Santos Cardoso – CRO-MG-CD 53.796"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Júlio de Castilho",
+    "endereco": "Av. Júlio de Castilho, 1063 – Vila Alba, Campo Grande – MS, 79100-005",
+    "telefone": "(67) 3043-3010",
+    "dentistaResponsavel": "Kelly Regina Alves de Souza CRO-MS 322"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Jundiaí",
+    "endereco": "R. Barão de Jundiaí, 293 – Centro, Jundiaí – SP, 13201-010",
+    "telefone": "1127099777",
+    "dentistaResponsavel": "Camila Terra de Lima"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Jundiaí – Anhangabaú",
+    "endereco": "Av. Jundiaí, 837 – Anhangabaú, Jundiaí – SP, 13208-051",
+    "telefone": "(011) 4087-3611",
+    "dentistaResponsavel": "Dra. Paula Adami de Freitas CRO SP 101933"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Kobrasol",
+    "endereco": "R. Adhemar da Silva, 654 – Kobrasol, São José – SC, 88101-090",
+    "telefone": "(48) 3058-2290",
+    "dentistaResponsavel": "RT Dr. Éder Floriano 13585"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Lajeado",
+    "endereco": "Av. Benjamin Constant, 1294 – Centro, Lajeado – RS, 95900-056",
+    "telefone": "(51) 4064-2860",
+    "dentistaResponsavel": "Raniere Costantin – CRO-RS 18.318"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Lapa",
+    "endereco": "R. George Smith, 194 – Lapa, São Paulo – SP, 05074-010",
+    "telefone": "(11) 3457-9055",
+    "dentistaResponsavel": "Gustavo Amaro Bento Rosa dos Santos – CRO-SP 112.500"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Largo Treze",
+    "endereco": "Rua Barão do Rio Branco, 294 São Paulo – SP. CEP: 04753-000",
+    "telefone": "(11) 5687-0153",
+    "dentistaResponsavel": "Dra. Aline Bonfim de Castro – CRO-SP 92889"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Leme",
+    "endereco": "Av. 29 de Agosto, 141 – Centro, Leme – SP, 13610-210",
+    "telefone": "(19) 3573-8181",
+    "dentistaResponsavel": "Dr. Fernando Oliveira Mesquita – CRO-SP 72.485"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Limeira – Centro",
+    "endereco": "R. Sen. Vergueiro, 740 – Centro, Limeira – SP, 13480-001",
+    "telefone": "(19) 3702-5558",
+    "dentistaResponsavel": "Giovana Meira Querioz- CRO-SP 65663"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Limeira – Graminha",
+    "endereco": "R. Dr. Arlindo Justo Baptistella, 33 – Jardim da Graminha, Limeira – SP, 13481-659",
+    "telefone": "(19) 3445-6857",
+    "dentistaResponsavel": "Dra. Maria Fernanda Fernandes Fagundes – CRO-SP 134.172"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Londrina",
+    "endereco": "R. Mato Grosso, 763 – Centro, Londrina – PR, 86010-180",
+    "telefone": "(43) 3321-0025",
+    "dentistaResponsavel": "Karine Schell de Moraes Nicastro – CRO-PR 16.791"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Louveira",
+    "endereco": "R. Armando Steck, 349 – Vila Bossi, Louveira – SP, 13290-000",
+    "telefone": "(019) 3878-1511",
+    "dentistaResponsavel": "Dra. Ligia Ricardo de Castro CRO-SP 100.574"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Madureira",
+    "endereco": "Rua Maria Freitas, 33 – CEP: 21.351-010",
+    "telefone": "(21) 3151-3489 | (21) 97875-3576",
+    "dentistaResponsavel": "Carlos Diego Rodrigues Fernandes de Oliveira CRO-RJ: 39516"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Marília",
+    "endereco": "R. Bahia, 630 – Centro, Marília – SP, 17509-150",
+    "telefone": "(14) 3316-0433",
+    "dentistaResponsavel": "Dr. Aercio Mateus Tambellini Junior – CRO-SP 82.627"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Maringá – Centro",
+    "endereco": "Av. Paraná, 1118 – 04 – Centro, Maringá – PR, 87020-085",
+    "telefone": "(044) 3030-3600",
+    "dentistaResponsavel": "Dra. Ketlen Barboni – CRO-PR 31.956"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Maringá – Jardim Alvorada",
+    "endereco": "Av. Pedro Taques, 1455 – Vila Morangueira, Maringá – PR, 87030-000",
+    "telefone": "(44) 3040-1787",
+    "dentistaResponsavel": "Luana Martins Baptista – CRO-PR 24.413"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Maringá – Mandacaru",
+    "endereco": "Av. Mandacaru, 1284 – Zona 06, Maringá – PR, 87020-085",
+    "telefone": "(044) 3346-6126",
+    "dentistaResponsavel": "Dra. Karina Salles – CRO-PR 31.920"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Mauá",
+    "endereco": "R. Gen. Osório, 151 – Vila Bocaina, Mauá – SP, 09310-050",
+    "telefone": "(11) 2375-7472 / (11) 97077-0718 / (11) 99997-2512",
+    "dentistaResponsavel": "Dra Juliana Tiski Gattolin – CRO-SP-CD 105.352"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Méier",
+    "endereco": "Rua Constança Barbosa , 125 A Méier Rio de Janeiro – RJ, 20735-090",
+    "telefone": "(21) 3798-0567",
+    "dentistaResponsavel": "Evandro Molina Freitas – CRO 24205"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Mogi das Cruzes",
+    "endereco": "R. Dr. Ricardo Vilela, 170 – Centro, Mogi das Cruzes – SP, 08710-150",
+    "telefone": "(11) 4312-5993",
+    "dentistaResponsavel": "Dra Carolinne Lima – CRO-SP 123.104"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Mogi Guaçu",
+    "endereco": "Rua Marechal Castelo Brancoo, 650. Centro. Mogi Guaçu – SP. CEP: 13840-060",
+    "telefone": "(19) 3841-8363",
+    "dentistaResponsavel": "João Paulo Peria de Sene – CRO-SP 105.087"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Mogi Mirim",
+    "endereco": "R. Dr. Ulhôa Cintra, 567 – Centro, Mogi Mirim – SP, 13800-060",
+    "telefone": "(19) 3805-5085",
+    "dentistaResponsavel": "Rodrigo Calhau – CRO-SP 18.782"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Monte Mor",
+    "endereco": "Praça das Missôes, 26 – Centro, Monte Mor – SP, 13190-000",
+    "telefone": "(019) 3879-4480",
+    "dentistaResponsavel": "Dra. Renata Michelino Urbano de Oliveira CRO: CRO-SP 68.129"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Montes Claros",
+    "endereco": "Rua Dr. Santos, 228. Centro Montes Claros – MG. CEP: 39400-080",
+    "telefone": "(38) 3221-5996",
+    "dentistaResponsavel": "Dra Daniela Bastos Rodrigues – CRO-MG 58338"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Montes Claros – Cula Mangabeira",
+    "endereco": "Av. Cula Mangabeira, 434 – Candida Camara, Montes Claros – MG, 39401-696",
+    "telefone": "(38) 3321-2232",
+    "dentistaResponsavel": "RT CD: Ianka Barbosa CRO-MG: 55.704 EPAO 7581"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Mooca",
+    "endereco": "R. da Mooca, 2425 – Mooca, São Paulo – SP, 03103-003",
+    "telefone": "(11) 2397-0800",
+    "dentistaResponsavel": "Fernanda Formigoni Soares – CRO-SP 106.473"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Naviraí",
+    "endereco": "R. Jamil Selem, 27 – Centro, Naviraí – MS, 79950-000",
+    "telefone": "(67) 3461-3761",
+    "dentistaResponsavel": "Drª Isabela Cristina Costa dos Anjos – CRO/MS 5085"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Niterói – Icaraí",
+    "endereco": "R. Gavião Peixoto, 387 – Icaraí – RJ CEP: 24230-093",
+    "telefone": "(21) 2612-2118",
+    "dentistaResponsavel": "Rodrigo Tenreiro Quintanilha – CRO-RJ 41365"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Niterói Centro",
+    "endereco": "R. da Conceição, 16 – Centro, Niterói – RJ, 24020-081",
+    "telefone": "(21) 3587-9093",
+    "dentistaResponsavel": "Thaylla Núñez Amin Dick CRO-RJ 42384"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Nova Odessa",
+    "endereco": "R. Rio Branco, 328 – Centro, Nova Odessa – SP, 13380-003",
+    "telefone": "(19) 3466-7516",
+    "dentistaResponsavel": "Dra. Miriam de Menezes – CRO-SP 68.121"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Olinda – Bairro Novo",
+    "endereco": "AV. PRES. GETÚLIO VARGAS, 1517 – Bairro Novo, Olinda – PE, 53030-010",
+    "telefone": "(81) 3012-9245",
+    "dentistaResponsavel": "RT: Manuela Gondim CRO-PE 14.254"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Palmas – 104 Sul",
+    "endereco": "Q. 104 Sul Rua SE 5 – Plano Diretor Sul, Palmas – TO, 77020-018",
+    "telefone": "(63) 3322-2844",
+    "dentistaResponsavel": "Sebastião Luiz de Oliveira Neto – CRO-TO 3156"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Paraisópolis",
+    "endereco": "Rua Ernest Renan, 1177 – Vila Andrade, São Paulo – SP, 05659-020",
+    "telefone": "(11) 3507-7207",
+    "dentistaResponsavel": "Aline Gonçalves – CRO-SP 107.019"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Parque das Nações",
+    "endereco": "R. Oratório, 1596 – Parque das Nações, Santo André – SP, 09280-000",
+    "telefone": "(11) 2325-9267",
+    "dentistaResponsavel": "Naiara da Costa Ubeda – CROSP: 138963"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Parque dos Camargos",
+    "endereco": "Estr. Velha de Itapevi, 4384 – Vila Militar, Barueri – SP, 06444-000",
+    "telefone": "(11) 93273-2771",
+    "dentistaResponsavel": "Patricia Midori Massuda Oliveira CROSP – 126555"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Parque São Jorge",
+    "endereco": "Av. Celso Garcia, 3815 – Tatuapé, São Paulo – SP, 03063-000",
+    "telefone": "(011) 2098-3500",
+    "dentistaResponsavel": "Dr. Carlos Eduardo Berger Vissicaro CROSP 110853"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Paulínia",
+    "endereco": "Rua Dr. Silvino de Godoy, 201 – Parque Irmaos Pedroso, Paulínia – SP, 13140-000",
+    "telefone": "(019) 3844-7272",
+    "dentistaResponsavel": "Kátia Coelho Conti CRO-SP 83639"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Penha",
+    "endereco": "R. Padre João, 133 – Penha de França, São Paulo – SP, 03637-000",
+    "telefone": "(110 3539-3606",
+    "dentistaResponsavel": "Tatiane Ferreira Galvez – CRO-SP 61748"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Piracicaba – Vila Rezende",
+    "endereco": "Av. Dona Francisca, 30 – Vila Rezende, Piracicaba – SP, 13405-259",
+    "telefone": "(19)2532-1080",
+    "dentistaResponsavel": "Ricardo Felipe Cursino De Campos CRO-SP 76497"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Piracicaba – Centro",
+    "endereco": "R. Rangel Pestana, 658 – Centro, Piracicaba – SP, 13400-380",
+    "telefone": "(19) 3402-3344",
+    "dentistaResponsavel": "Malina Sega Crepaldi – CRO-SP 70.182"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Pirassununga",
+    "endereco": "R. Andradas, 690 – Centro, Pirassununga – SP, 13630-136",
+    "telefone": "(19) 3563-5100",
+    "dentistaResponsavel": "Andrea Cristina Cerveira – CRO-SP 70651"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Porto Alegre – Azenha",
+    "endereco": "Av. da Azenha, 1166 – Azenha, Porto Alegre – RS, 90160-006",
+    "telefone": "(051) 3026-1111",
+    "dentistaResponsavel": "Dra. Maria Letícia Casagrande – CRO 8909"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Porto Feliz",
+    "endereco": "R. Bandeirantes, 198 – Centro, Porto Feliz – SP, 18540-000",
+    "telefone": "(15) 2107-7482",
+    "dentistaResponsavel": "Dra Clara D’Alencar – CRO-SP 91.950"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Pouso Alegre – Centro",
+    "endereco": "Rua Adolfo Olinto, 223 – Centro, Pouso Alegre – MG, 37550-041",
+    "telefone": "(35) 3311-2100",
+    "dentistaResponsavel": "RT: Ana Julia Gonçalves Moreira – CROMG 56.313"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Quedas do Iguaçu",
+    "endereco": "R. Marfim, 1036 – Centro, Quedas do Iguaçu – PR, 85460-000",
+    "telefone": "(46) 3532-3255",
+    "dentistaResponsavel": "Dra Gabrielle de Almeida Revers – CRO-PR 18.456"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Recife",
+    "endereco": "Av. Conde da Boa Vista, 1425 – Boa Vista, Recife – PE, 50060-003",
+    "telefone": "(81) 3072-5848",
+    "dentistaResponsavel": "Roberta Juliany Medeiros Farias De Oliveira – CRO-PE 14.521"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Ribeirão Preto – Ipiranga",
+    "endereco": "Av. Dom Pedro I, 688 – Ipiranga, Ribeirão Preto – SP, 14055-630",
+    "telefone": "(16) 3235-0783",
+    "dentistaResponsavel": "Adrielle Fracaroli Baltazar – CRO-SP 125.835"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Rio Claro",
+    "endereco": "Av. Visc. de Rio Claro, 1975 – Centro, Rio Claro – SP, 13502-000",
+    "telefone": "(19)3533-3939",
+    "dentistaResponsavel": "Rodrigo Cesar Norder Straccalanano CRO SP – 85651"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Rio Negro",
+    "endereco": "Av. Saturnino Olinto, 2043 – São João, Rio Negro – PR, 83880-000",
+    "telefone": "(47) 3642-0054",
+    "dentistaResponsavel": "Edgard Magalhães de Araújo Goes Junior – CRO-PR 15.530"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Rio Pequeno",
+    "endereco": "Av. do Rio Pequeno, 1376. Rio Pequeno. São Paulo – SP. CEP: 05379-000",
+    "telefone": "(11) 3719-1259",
+    "dentistaResponsavel": "Danielle dos Reis Zamaioli – CRO-SP 129.212"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Rio Verde – Centro",
+    "endereco": "Av. Pres. Vargas, 1701 – Quadra 16, Lote 7 – Jardim Goias, Rio Verde – GO, 75903-290",
+    "telefone": "(64) 9346-9407",
+    "dentistaResponsavel": "Juliana Nogueira Guimarães Horst CRO-GO 18350"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Rondonópolis",
+    "endereco": "R. Cap. Luiz Carlos Bpo. de Camargo, 10 – Coophalis, Rondonópolis – MT, 78740-610",
+    "telefone": "(66) 3425-5163",
+    "dentistaResponsavel": "Julio Tsutomu Nakamuta – CRO-MT 3906"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Salto",
+    "endereco": "Rua Prudente de Moraes, 595. Centro. Salto – SP. CEP: 13320-160",
+    "telefone": "(11) 4021-0500",
+    "dentistaResponsavel": "Dr. Gustavo Andriani de Souza – Cro-SP 74.446"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Santa Bárbara D’Oeste – Centro",
+    "endereco": "Rua Dante Tortelli, 186 – Centro",
+    "telefone": "(19) 3026-6662",
+    "dentistaResponsavel": "Gustavo Leite – CRO 86.999"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Santa Bárbara D’Oeste – Cidade Nova",
+    "endereco": "Rua Belo Horizonte, 586. Cidade Nova. Santa Bárbara D’Oeste – SP. CEP: 13454-330",
+    "telefone": "(19) 3626-4050",
+    "dentistaResponsavel": "Rodrigo Sueitt Braga Leite – CRO-SP 87.059"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Santa Cecília",
+    "endereco": "R. das Palmeiras, 367 – Vila Buarque, São Paulo – SP, 01226-011",
+    "telefone": "(11) 2157-1870",
+    "dentistaResponsavel": "Bruno Scandiuzzi Neves CROSP – 67.322"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Santa Genebra",
+    "endereco": "Avenida Santa Genebra, 255. Bairro Santa Genebra – Campinas/SP. CEP 13080-280",
+    "telefone": "(19)3365-4560",
+    "dentistaResponsavel": "Claudia Marina Ribeiro De Aragão CRO 70115"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Santa Rita do Sapucaí",
+    "endereco": "Av. Dr. Delfim Moreira, 211 – Centro, Santa Rita do Sapucaí – MG, 37540-000",
+    "telefone": "(35) 3471-0453",
+    "dentistaResponsavel": "Lucas de Lima Dias da Costa – CRO-MG 56733"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Santo Amaro",
+    "endereco": "Avenida Adolfo Pinheiro, 824 Santo Amaro – SP. CEP: 004734-001",
+    "telefone": "(11) 5521-7701",
+    "dentistaResponsavel": "Paulo Sérgio Dos Santos Ribeiro – CRO-SP 143.479"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Santo André",
+    "endereco": "Rua Catequese, 279. Bairro Jardim. Santo André – SP. CEP: 09090-400",
+    "telefone": "(11) 4427-3888",
+    "dentistaResponsavel": "Dra Tatiana Aguilar – CRO 70718"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Santo Ângelo",
+    "endereco": "Rua Duque de Caxias, 1006 – Sala 01, Santo Ângelo – RS CEP: 98802-610",
+    "telefone": "(55) 3190-0136",
+    "dentistaResponsavel": "Vicente Colussi Ferreira – CRO-RS 20.459"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "São Bernardo do Campo – Centro",
+    "endereco": "R. João Pessoa, 454 – Centro, São Bernardo do Campo – SP, 09721-160",
+    "telefone": "(11) 4330-2991",
+    "dentistaResponsavel": "Adriana Teixeira Rodrigues – CRO-SP 57.190"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "São Carlos",
+    "endereco": "Rua 15 de Novembro, 1132 B. Centro. São Carlos – SP. CEP: 13561-206",
+    "telefone": "(16) 2106-2166",
+    "dentistaResponsavel": "Deivis Roberto Maranezi Sant’Ana – CRO-SP 110.328"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "São Gonçalo",
+    "endereco": "Rua Dr. Feliciano Sodré, 82 – Loja 01",
+    "telefone": "(21) 2023-5111",
+    "dentistaResponsavel": "RT: Dr. Victor Wandermurem de Oliveira – CRO-RJ 39619"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "São João da Boa Vista",
+    "endereco": "R. Gen. Osório, 297 – São Lazaro, São João da Boa Vista – SP, 13870-431",
+    "telefone": "(19) 3631-5940",
+    "dentistaResponsavel": "Dra. Karen Verdi Bertholini CRO/SP 111146"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "São João da Boa Vista – DER",
+    "endereco": "R. Henrique Cabral de Vasconcelos, 1917 – Jardim Sao Nicolau, São João da Boa Vista – SP, 13876-100",
+    "telefone": "(19) 3631-7047",
+    "dentistaResponsavel": "Dra. Ana Carolina Alayon Lima CRO/SP 123434"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "São João Del Rei",
+    "endereco": "Av. Domingas Alves da Costa, 460 – São João Del Rei, Cuiabá – MT, 78093-085",
+    "telefone": "(65) 3028-9951",
+    "dentistaResponsavel": "IREDIR MARIA LACCAL DA SILVA FERREIRA CROMT- 4286"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "São José do Rio Preto",
+    "endereco": "Rua General Glicério, 3134 Vila Maceno São José do Rio Preto – SP, 15015-400",
+    "telefone": "(17) 3231-1006",
+    "dentistaResponsavel": "CRO-SP 127938 – RT: Michel Silva de Faria"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "São Luis – Cidade Operária",
+    "endereco": "Av. 203, Número 71 Cidade Operária São Luís – MA, 65058-156",
+    "telefone": "(98) 3304-6439",
+    "dentistaResponsavel": "RT Mariana Queiroz CRO/MA: 6527"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "São Miguel Paulista",
+    "endereco": "R. Ten. Luís Fernando Lôbo, 138 – São Miguel Paulista, São Paulo – SP, 08010-060",
+    "telefone": "(11) 2037-1867",
+    "dentistaResponsavel": "Dr. Eleticia Marcelino Moreira – CRO-SP 128996"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "São Sebastião",
+    "endereco": "Av. Comercial, 1481 – St. Tradicional, Brasília – DF, 71691-153",
+    "telefone": "(61) 3081-0403",
+    "dentistaResponsavel": "Bianca Ingryd Palhares De Araujo – CRO-DF 13.198"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Sapopemba",
+    "endereco": "Av. Sapopemba, 7936 – Jardim Planalto, São Paulo – SP, 03988-000",
+    "telefone": "(11) 2703-8835",
+    "dentistaResponsavel": "Silmara Ap. Baptista de Souza – CRO-SP 118.709"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Serra – Laranjeiras",
+    "endereco": "R. Euclídes da Cunha, 435 – Parque Res. Laranjeiras, Serra – ES, 29165-310",
+    "telefone": "(27) 3086-4239",
+    "dentistaResponsavel": "Dra Brenda Cabral Silveira – CRO 8728"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Sete Lagoas",
+    "endereco": "R. Dr. Pedro Luiz, 255 – Sete Lagoas – MG CEP: 35700-004",
+    "telefone": "(31) 2550-0880",
+    "dentistaResponsavel": "Hábia Milena Rabelo Pereira – CRO-MG 59223"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Sidrolândia",
+    "endereco": "Av. Dorvalino dos Santos, 691 – Centro, Sidrolândia – MS, 79170-000",
+    "telefone": "(67) 3272-4494",
+    "dentistaResponsavel": "Bianca B. Paludo Pires CRO/MS 3607"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Sorocaba – Júlio de Mesquita",
+    "endereco": "Rua, Av. Dr. Américo Figueiredo, 2931 – Júlio de Mesquita Filho, Sorocaba – SP, 18053-000",
+    "telefone": "(015) 3358-7010",
+    "dentistaResponsavel": "Dr. Daniel de Oliveira Marques CROSP 86611"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Sorocaba Centro",
+    "endereco": "R. Padre Luiz, 101 – Centro, Sorocaba – SP, 18035-010",
+    "telefone": "3358-7000",
+    "dentistaResponsavel": "Cristiane Martins Hoffmann CRO 53300"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Sorocaba Éden",
+    "endereco": "Ave Independência, 4830 – Éden, Sorocaba – SP, 18103-000",
+    "telefone": "(15) 3357-3769",
+    "dentistaResponsavel": "Aline Fernandes Toledo CRO-SP 112295"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Sorocaba Itavuvu",
+    "endereco": "Av. Itavuvu, 1476 – Jardim Maria Antônia Prado, Sorocaba – SP, 18076-005",
+    "telefone": "(15) 3418-7001",
+    "dentistaResponsavel": "Rogério Luiz Domingues CRO-SP 66727"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Sorriso",
+    "endereco": "Av. Natalino João Brescansin, 2441 – Centro Norte, Sorriso – MT, 78890-000",
+    "telefone": "(66) 3544-1033",
+    "dentistaResponsavel": "Mónica Teixeira Erran – CRO-MT 6970"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Sumaré",
+    "endereco": "R. Dom Barreto, 968 – Centro, Sumaré – SP, 13170-004",
+    "telefone": "(19) 3883-6001",
+    "dentistaResponsavel": "Melissa Lopes da Silva CRO-SP 126828"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Suzano",
+    "endereco": "R. Benjamin Constant, 1194 – Centro, Suzano – SP, 08674-011",
+    "telefone": "(11) 4759-7775",
+    "dentistaResponsavel": "Dra Thais Rodrigues de Castro Baillo – CRO-SP 80588"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Taboão da Serra",
+    "endereco": "Estr. Kizaemon Takeuti, 1660 – Jardim Guaciara, Taboão da Serra – SP, 06775-002",
+    "telefone": "(11) 4245-5686",
+    "dentistaResponsavel": "Juliana Tassone – CRO-SP 74.310"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Taguatinga",
+    "endereco": "QSA 01, Lote 06- Taguatinga, Brasília – DF, 72015-010",
+    "telefone": "(61) 3351-1023",
+    "dentistaResponsavel": "Elen Coutinho Vieira – CRO-DF 11748"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Taquaral",
+    "endereco": "Avenida Nossa Senhora de Fatima, 627 Parque Taquaral Campinas – SP, 13076-000",
+    "telefone": "(19) 99456-6705",
+    "dentistaResponsavel": "Ana Elisa CRO: 137498-SP"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Tatuí",
+    "endereco": "Rua Coronel Bento Pires, 140 – Centro. Tatuí – SP. CEP: 18270-190‎",
+    "telefone": "(15) 3259-5157",
+    "dentistaResponsavel": "Jorge Slonczewski – CRO-SP 84.218"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Teodoro Sampaio",
+    "endereco": "Rua Teodoro Sampaio, 2144 – Pinheiros, São Paulo – SP, 05406-150",
+    "telefone": "(11) 94494-1285",
+    "dentistaResponsavel": "RT: Paulo Henrique de Toledo Scigliano CROSP:75601"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Tietê",
+    "endereco": "Rua Enok Barreira de Macedo, 354 – Centro, Tietê – SP, 18530-000",
+    "telefone": "(15) 2108-0602",
+    "dentistaResponsavel": "Elisangela Viel – CRO-SP 114.927"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Tijuca",
+    "endereco": "Rua Conde de Bonfim, 219 – Tijuca, Rio de Janeiro – RJ, 20520-050",
+    "telefone": "(21) 3228-6780",
+    "dentistaResponsavel": "Evandro Molina Freitas – CRO-RJ 24.205"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Tiradentes",
+    "endereco": "Av. José Nogueira Viêira, 368 – Tiradentes, Campo Grande – MS, 79042-010",
+    "telefone": "(67) 3042-7007",
+    "dentistaResponsavel": "–"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Tremembé",
+    "endereco": "Av. Nova Cantareira, 4957 – Tucuruvi, São Paulo – SP, 02341-002",
+    "telefone": "(11) 2776-7363",
+    "dentistaResponsavel": "Giulianna Gonzalez Cavoli – CR0-SP 109.686"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Tucuruvi",
+    "endereco": "Av. Tucuruvi, 47 – Tucuruvi, São Paulo – SP, 02305-000",
+    "telefone": "(11) 2991-2323",
+    "dentistaResponsavel": "Dra Julhyana Stabile Mantovanelli – CRO 71360"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Uberaba",
+    "endereco": "R. Araguari, 30 – São Benedito, Uberaba – MG, 38020-290",
+    "telefone": "(34) 3316-3300",
+    "dentistaResponsavel": "Carolina Rodrigues Barbosa – CRO-MG 54.827"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Uberlândia – Centro",
+    "endereco": "Av. João Pinheiro, 982 – Centro, Uberlândia – MG, 38400-124",
+    "telefone": "(34) 3221-9636",
+    "dentistaResponsavel": "Thaís Miranda Kaminice CRO MG 47091"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Uberlândia – Jardim Patrícia",
+    "endereco": "Avenida José Fonseca e Silva – 612",
+    "telefone": "(34) 3223-0606",
+    "dentistaResponsavel": "Eduardo Dias Resende CROMG – 23486"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Valinhos",
+    "endereco": "R. Italia, 50 – Jardim Ribeiro, Valinhos – SP, 13270-180",
+    "telefone": "(19) 3829-7190",
+    "dentistaResponsavel": "Thiago Ranzani Leite – CRO-SP 90.056"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Vila Clementino",
+    "endereco": "Rua Pedro de Toledo, 441. Vila Mariana. São Paulo – SP. CEP: 04039-031",
+    "telefone": "(11) 5549-0645",
+    "dentistaResponsavel": "Dra. Tamara Vilela de Pinho Leite – CRO: 121980"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Vila das Mercês",
+    "endereco": "Rua Nossa Senhora das Mercês, 1275 04165-001 São Paulo, SP",
+    "telefone": "(11) 94764-5022",
+    "dentistaResponsavel": "Franklin Moreno CROSP – 109172"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Vila Leopoldina",
+    "endereco": "R. Schilling, 424 – Vila Hamburguesa, São Paulo – SP, 05302-001",
+    "telefone": "(11) 2548-1839",
+    "dentistaResponsavel": "Marianne Coelho Toigo – CRO-SP 125.218"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Vila Maria",
+    "endereco": "Av. Alberto Byington, 1800 – Vila Maria, São Paulo – SP, 02127-001",
+    "telefone": "(11)2614-5550",
+    "dentistaResponsavel": "Luiza Maria Cangueiro CRO-SP 138231"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Vila Mariana Ana Rosa",
+    "endereco": "Rua Domingo de Morais, 725 – Vila Mariana – SP CEP: 04009-000",
+    "telefone": "(11) 3456-2500",
+    "dentistaResponsavel": "Hugo Robertson Sant’Anna – CRO-SP 43140"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Vila Matilde",
+    "endereco": "Av. Dalila, 57 – Vila Dalila, São Paulo – SP, 03520-000",
+    "telefone": "(11) 2645-9910",
+    "dentistaResponsavel": "Andreza Caparroz Garcia CRO-SP 109123"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Vila Prudente",
+    "endereco": "Av. Zelina, 859 – Vila Prudente, São Paulo – SP, 03143-003",
+    "telefone": "(011) 4210-1980",
+    "dentistaResponsavel": "Jose Henrique Melo Cunha CRO-SP: 126751"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Vila Sabrina",
+    "endereco": "Av. Milton da Rocha, 349 – Vila Sabrina, São Paulo – SP, 02138-010",
+    "telefone": "(11)2951-3109",
+    "dentistaResponsavel": "RT: Gabriela Almeida Amorim SP-CD 134118"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Vila Valqueire",
+    "endereco": "Rua Luiz Beltrão, 326 – Loja G – Rio de Janeiro – RJ CEP: 21321-230",
+    "telefone": "(21) 3349-1999",
+    "dentistaResponsavel": "Felippe Deluca – CRO RJ 46.803"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Vinhedo",
+    "endereco": "R. Santos Dumont, 352 – Centro, Vinhedo – SP, 13280-000",
+    "telefone": "(019) 3886-4123",
+    "dentistaResponsavel": "Dr. Leonardo Henrique Vadenal Panza CRO-SP 82.271"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Vitória – Centro",
+    "endereco": "Av. Jerônimo Monteiro, 268 – Loja 1 – Centro, Vitória – ES, 29010-002",
+    "telefone": "(27) 3376-6636",
+    "dentistaResponsavel": "Elisa Vanetti Teixeira – CRO-ES 6534"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Volta Redonda",
+    "endereco": "Av. Amaral Peixoto, 43 – São João, Volta Redonda – RJ, 27253-222",
+    "telefone": "(24) 3345-8034",
+    "dentistaResponsavel": "Jessica de Oliveira Ramos Vieira – CRO-RJ-CD 46.466"
+  },
+  {
+    "franquia": "Odontoclinic S.A.",
+    "nome": "Votorantim",
+    "endereco": "R. João Walter, 34 – Centro, Votorantim – SP, 18110-005",
+    "telefone": "(15) 3023-4420",
+    "dentistaResponsavel": "Larissa da Silva Pauletti CRO-117054"
+  }
+]

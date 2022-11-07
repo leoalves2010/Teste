@@ -1,0 +1,2882 @@
+[
+  {
+    "nome": "Sesc Departamento Regional",
+    "endereco": "Av. Campos Sales, 1111 - Centro - Teresina/Piauí - 64000-300",
+    "telefone": "(86) 3217-2800",
+    "email": "comunicação@pi.sesc.com"
+  },
+  {
+    "nome": "Sesc Paranavaí",
+    "endereco": "Rua Edson Martins, 1760 - Jardim Ouro Branco - Paranavaí/Paraná - 87704-120",
+    "telefone": "(44) 34746-8500",
+    "email": "sac.paranavai@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Ler Maués",
+    "endereco": "Rua Adolfo Carneiro, s/n - Donga Michilles - Maués/Amazonas - 69190-000",
+    "telefone": "(92) 3542-1451",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc São José",
+    "endereco": "Rua João Sandim, 402 - Ipiranga - São José/Santa Catarina - 88111-350",
+    "telefone": "(48) 3258-9454",
+    "email": "saojose@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Mogi das Cruzes",
+    "endereco": "R. Rogerio Tacola, 118 - Socorro - Mogi das Cruzes/São Paulo - 08780-720",
+    "telefone": "(11) 4728-6200",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Ilhotas",
+    "endereco": "Rua Heitor Castelo Branco, 2700 - Ilhotas - Teresina/Piauí - n/a",
+    "telefone": "(86) 3230-9950",
+    "email": "comunicação@pi.sesc.com"
+  },
+  {
+    "nome": "Sesc Morada do Sol",
+    "endereco": "Rua Buenos Aires, Qd. 21 - Setor Morada do Sol - Araguaína/Tocantins - 77828-300",
+    "telefone": "(63) 3416-0150",
+    "email": "n/a"
+  },
+  {
+    "nome": "Tênis Sesc",
+    "endereco": "Avenida Tocantins, esq. com Av. M s/n - Jardim Aureny III - Palmas/Tocantins - 77060-150",
+    "telefone": "(63) 3216-8901",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Laguna – Casa de Cultura",
+    "endereco": "Rua Santo Antônio, 210 - Centro - Laguna/Santa Catarina - 88790-000",
+    "telefone": "(48) 3644-3087",
+    "email": "faleconosco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Complexo Esportivo Aquidabã",
+    "endereco": "Avenida Presidente Castelo Branco, 336 - Aquidabã - Salvador/Bahia - 40025-390",
+    "telefone": "(71) 3254-3958",
+    "email": "aquidaba@sescbahia.com.br"
+  },
+  {
+    "nome": "Hotel Sesc Cabo Frio",
+    "endereco": "Avenida Macário Pinto Lopes, 186 - Algodoal - Cabo Frio/Rio de Janeiro -",
+    "telefone": "(21) 4020-2101",
+    "email": "falecomagente@sescrio.org.br"
+  },
+  {
+    "nome": "Programa Mesa Brasil Sesc",
+    "endereco": "Av. Jequitaia, 123 - Água de Meninos - Salvador/Bahia - 40460-120",
+    "telefone": "(71) 3273-8714",
+    "email": "mesabrasil@sescbahia.com.b"
+  },
+  {
+    "nome": "Sesc Brusque",
+    "endereco": "Rua Arno Carlos Gracher, 211 - Centro - Brusque/Santa Catarina - 88350-310",
+    "telefone": "(47) 3351-2599",
+    "email": "brusque@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Mesa Brasil",
+    "endereco": "R. Joel Dibo, 32 - Centro - Campo Grande/Mato Grosso do Sul - 79002-060",
+    "telefone": "(67) 3311-4300",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Caicó",
+    "endereco": "Rua Washington Luiz, 55 - Boa Passagem - Caicó/Rio Grande do Norte - 59300-000",
+    "telefone": "(84) 3421-2337",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Tubarão",
+    "endereco": "Rua Antônio Hülse, 411 - Dehon - Tubarão/Santa Catarina - 88704-220",
+    "telefone": "(48) 3626-0146",
+    "email": "tubarao@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Venda Nova",
+    "endereco": "Rua Maria Borboleta, s/n - Novo Letícia - Belo Horizonte/Minas Gerais - 31640-120",
+    "telefone": "(31) 3048-7400",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Ler Manacapuru",
+    "endereco": "Av. Barão do Rio Branco, s/n - Centro - Manacapuru/Amazonas - 69400-000",
+    "telefone": "(92) 3361-3013",
+    "email": "n/a"
+  },
+  {
+    "nome": "Academia Biguaçu",
+    "endereco": "Rua Coronel Teixeira de Oliveira, 128 (dentro do supermercado Angeloni, 2º andar) - Centro - Biguaçu/Santa Catarina - 88160-130",
+    "telefone": "(48) 3285-2016",
+    "email": "biguacu@sesc-sc.com.br"
+  },
+  {
+    "nome": "Centro Cultural e Restaurante de Feira de Santana",
+    "endereco": "Praça Carlos Bahia, s/n - Centro - Feira de Santana/Bahia - 44002-772",
+    "telefone": "(75) 3602-0035",
+    "email": "centralfeiracentro@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Nova Iguaçu",
+    "endereco": "Rua Dom Adriano Hipólito, 10 - Moquetá - Nova Iguaçu/Rio de Janeiro - 26285-330",
+    "telefone": "(21) 2797-3001",
+    "email": "sescnovaiguacu@sescrio.org.br"
+  },
+  {
+    "nome": "Sesc Cachoeiro do Itapemirim",
+    "endereco": "Rua Joana Payer, 01/101 - Aeroporto - Cachoeiro de Itapemirim/Espírito Santo - n/a",
+    "telefone": "(28) 3526-3000",
+    "email": "sesccaci@es.sesc.com.br"
+  },
+  {
+    "nome": "Museu de Florianópolis",
+    "endereco": "Praça XV de Novembro, 214 - Centro - Florianópolis/Santa Catarina -",
+    "telefone": "(48) 3222-1333",
+    "email": "museu@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Tupinambás",
+    "endereco": "Rua Tupinambás, 908 - Centro - Belo Horizonte/Minas Gerais - 30120-070",
+    "telefone": "(31) 3279-1586",
+    "email": "ust@sescmg.com.br"
+  },
+  {
+    "nome": "Centro Educacional Sesc Ibiapina",
+    "endereco": "Avenida Deputado Álvaro Soares, s/n - Centro - Ibiapina/Ceará - 62.360-000",
+    "telefone": "(88) 3653-1990",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Foz do Iguaçu",
+    "endereco": "Avenida Tancredo Neves, 222 Vila - A1 - Região Norte, Residencial A - Foz do Iguacu/Paraná - 85867-000",
+    "telefone": "(45) 3576-1300",
+    "email": "sac.foz@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Itaquera",
+    "endereco": "Avenida Fernando Espírito Santo Alves de Mattos, 1000 - Itaquera - São Paulo/São Paulo - 08265-045",
+    "telefone": "(11) 2523-9200",
+    "email": "email@itaquera.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Rio Grande",
+    "endereco": "Av. Silva Paes, 416 - Centro - Rio Grande/Rio Grande do Sul - 96200-340",
+    "telefone": "(53) 3231-6011",
+    "email": "uoriogrande@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Jacarezinho",
+    "endereco": "Rua Dois de Abril, 720 - Centro - Jacarezinho/Paraná - 86400-000",
+    "telefone": "(43) 3511-2700",
+    "email": "sac.jacarezinho@sescpr.com.br"
+  },
+  {
+    "nome": "Centro de Atividades de Sesc Linhares",
+    "endereco": "Rua Augusto Calmon, 1907 - Colina - Linhares/Espírito Santo - 29900-396",
+    "telefone": "27 3264-5820",
+    "email": "sesccal@es.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Almenara",
+    "endereco": "Rua Doutor Sabino da Silva, 142 - Bairro Tereza Cristina - Almenara/Minas Gerais - 39900-000",
+    "telefone": "(33) 3721-9800",
+    "email": ""
+  },
+  {
+    "nome": "Sesc Araraquara",
+    "endereco": "Rua Castro Alves, 1315 - Quitandinha - Araraquara/São Paulo - 14800-140",
+    "telefone": "(11) 3301-7500",
+    "email": "email@araraquara.sescsp.org.br"
+  },
+  {
+    "nome": "Hotel Sesc Venda Nova",
+    "endereco": "Rua Maria Borboleta, s/nº / Rua Dr. José Féliz Martins/ 1.246 - Mantiqueira (portaria 2) - Novo Letícia - Belo Horizonte/Minas Gerais - 31640-120",
+    "telefone": "(31) 3048-7401",
+    "email": "reservasvendanova@sescmg.com.br"
+  },
+  {
+    "nome": "Sesc Guarapuava",
+    "endereco": "Rua Comendador Norberto, 121 - Centro - Guarapuava/Paraná - 5010-140",
+    "telefone": "(42) 3623-4263",
+    "email": "sac.guarapuava@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Ler Guaribas",
+    "endereco": "Rua Paulo Freire, S/N - São João - Guaribas/Piauí - 64.798-000",
+    "telefone": "(89) 3592 0038",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Santo Antonio da Platina",
+    "endereco": "Rua Rui Barbosa, 799 - Centro - Santo Antonio Da Platina/Paraná - 86430-000",
+    "telefone": "(43) 3558-3300",
+    "email": "sac.stoplatina@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Ponta Grossa",
+    "endereco": "Rua Theodoro Rosas, 1247 - Centro - Ponta Grossa/Paraná - 84010-180",
+    "telefone": "(42) 3222-5432",
+    "email": "sac.pontagrossa@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Comunidade Palhoça",
+    "endereco": "Rua Saúl Brandalise - Jardim Eldorado - Palhoça/Santa Catarina - 88133-250",
+    "telefone": "(48) 3341-6029",
+    "email": "faleconosco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Ceilândia",
+    "endereco": "QNN 27, Lote B - n/a - Ceilândia/Distrito Federal - n/a",
+    "telefone": "(61) 3379-9500",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Taquara",
+    "endereco": "Rua Júlio de Castilhos, 2835 - Centro - Taquara/Rio Grande do Sul - 95600-000",
+    "telefone": "(51) 3541-2210",
+    "email": "faleconosco@sesc-rs.com.br"
+  },
+  {
+    "nome": "Núcleo de Saúde do Comércio (Nusoc)",
+    "endereco": "Avenida Dom Pedro I, 576 - Tambiá - João Pessoa/Paraíba - 58020-538",
+    "telefone": "(83) 3612-7600",
+    "email": "nusoc@sescpb.com.br"
+  },
+  {
+    "nome": "Sesc Bagé",
+    "endereco": "Rua Barão do Triunfo, 1280 - Menino de Deus - Porto Alegre/Rio Grande do Sul - 90130-101",
+    "telefone": "",
+    "email": "uobage@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Ceilândia",
+    "endereco": "QNN 27, Lote B - n/a - Ceilândia/Distrito Federal - n/a",
+    "telefone": "(61) 3379-9500",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Doca",
+    "endereco": "Rua Senador Manoel Barata, 1873 - Reduto - Belém/Pará - 66053-320",
+    "telefone": "(91) 4005-9500",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Potilândia",
+    "endereco": "Avenida Senador Salgado Filho, s/n - Potilândia - Natal/Rio Grande do Norte - 59075-000",
+    "telefone": "(84) 3231-3928",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro de Atividades Sesc Araguaína",
+    "endereco": "Rua Joaquim Gava, Chácara 95 BII (Entre a Avenida Filadélfia e a Marginal Neblina) - Jardim América - Araguaína/Tocantins - 77805-206",
+    "telefone": "(63) 3416-0100",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro de Atividades Sesc Nazaré",
+    "endereco": "Av. Joana Angélica, 1541 - Nazaré - Salvador/Bahia - 40050-001",
+    "telefone": "(71) 3254-3915",
+    "email": "nazare@sescbahia.com.br"
+  },
+  {
+    "nome": "Centro de Atividades de Feira de Santana",
+    "endereco": "Rua Guaratatuba, 345 - Tomba - Feira de Santana/Bahia - 44065-320",
+    "telefone": "(75) 3622-1550",
+    "email": "feira@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Taubaté",
+    "endereco": "Avenida Engenheiro Milton de Alvarenga Peixoto, 1264 - Esplanada Santa Terezinha - Taubaté/São Paulo - 12052-230",
+    "telefone": "(12) 3634-4000",
+    "email": "email.taubate@sescsp.org.br"
+  },
+  {
+    "nome": "Pousada Sesc Caxias do Sul",
+    "endereco": "Rua Moreira Cesar, 2462 - Centro - Caxias do Sul/Rio Grande do Sul - 95034-000",
+    "telefone": "(54) 3221-5233",
+    "email": "reservascaxias@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Santana do Livramento",
+    "endereco": "Brigadeiro Canabarro, 650 - Centro - Santana do Livramento/Rio Grande do Sul - 97573-570",
+    "telefone": "(55) 3242-3210",
+    "email": "uosantanadolivramento@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Guarulhos",
+    "endereco": "Rua Guilherme Lino dos Santos, 1.200 - Jardim Flor do Campo - Guarulhos/São Paulo - 07190-010",
+    "telefone": "(11) 2475-5550",
+    "email": "faleconosco@guarulhos.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Rio Negro",
+    "endereco": "Rua Marçal José Pereira, 110 - Estação Nova - Rio Negro/Paraná - 83880-000",
+    "telefone": "(47) 36418550",
+    "email": "sac.rionegro@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Frederico Westphalen",
+    "endereco": "Rua Arthur Milani, 854 - 1º andar - Centro - Frederico Westphalen/Rio Grande do Sul - 98400-000",
+    "telefone": "(55) 3744-7450",
+    "email": "uofredericowestphalen@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Rio Grande",
+    "endereco": "Av. Silva Paes, 416 - Centro - Rio Grande/Rio Grande do Sul - 96200-340",
+    "telefone": "(53) 3231-6011",
+    "email": "uoriogrande@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Criciúma",
+    "endereco": "Rua Pres. Kennedy, 850 - Pio Correia - Criciuma/Santa Catarina - 88811-570",
+    "telefone": "(48) 3403-2650",
+    "email": "criciuma@sesc-sc.com.br"
+  },
+  {
+    "nome": "Complexo Esportivo Aquidabã",
+    "endereco": "Avenida Presidente Castelo Branco, 336 - Aquidabã - Salvador/Bahia - 40025-390",
+    "telefone": "(71) 3254-3958",
+    "email": "aquidaba@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Esplanada",
+    "endereco": "Avenida Presidente Dutra, 4175 - Olaria - Porto Velho/Rondônia - 78902-030",
+    "telefone": "(69) 3229-5882",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Parque Dom Pedro II",
+    "endereco": "Praça São Vito s/n - Centro - São Paulo/São Paulo - 03007-030",
+    "telefone": "(11) 3111-7400",
+    "email": "email@carmo.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Tramandaí",
+    "endereco": "Rua Barão do Rio Branco, 69. - Centro - Tramandaí/Rio Grande do Sul - 95590-000",
+    "telefone": "(51) 3684-3736",
+    "email": "uotramandai@sesc-rs.com.br"
+  },
+  {
+    "nome": "Centro Educacional Sesc São Francisco do Pará",
+    "endereco": "Rodovia PA 320, Km 19 - Lote Agrícola, 11 - São Francisco do Pará/Pará - 68748-000",
+    "telefone": "(91) 3774-1233",
+    "email": "n/a"
+  },
+  {
+    "nome": "Hotel Sesc Cabo Frio",
+    "endereco": "Avenida Macário Pinto Lopes, 186 - Algodoal - Cabo Frio/Rio de Janeiro -",
+    "telefone": "(21) 4020-2101",
+    "email": "falecomagente@sescrio.org.br"
+  },
+  {
+    "nome": "Escola Sesc Zilda Arns",
+    "endereco": "Rua da Jaqueira, 36 - Saúde - Salvador/Bahia - 40040-570",
+    "telefone": "(71) 3242-9815",
+    "email": "educacaonazare@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Porto",
+    "endereco": "Rua São Joaquim, 399 - Porto - Centro Sul/Mato Grosso - 78020-150",
+    "telefone": "(65) 3611-0700",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Joaçaba",
+    "endereco": "Rua Getúlio Vargas, 285 - Centro - Joacaba/Santa Catarina - 89600-000",
+    "telefone": "(49) 3521-2379",
+    "email": "faleconosco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Rio Grande",
+    "endereco": "Av. Silva Paes, 416 - Centro - Rio Grande/Rio Grande do Sul - 96200-340",
+    "telefone": "(53) 3231-6011",
+    "email": "uoriogrande@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Centro de Esporte e Lazer de Cariacica",
+    "endereco": "Rua Manoel Freire Correia, 355 - Santa Bárbara - Cariacica/Espírito Santo - 29145-210",
+    "telefone": "27 3246-1300",
+    "email": "sesccelc@es.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Xanxerê (Educação Infantil)",
+    "endereco": "Rua Coronel Passos Maia, 691 - La Salle - Xanxerê/Santa Catarina - 89820-000",
+    "telefone": "0800 645 5454",
+    "email": "faleconosco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Doca",
+    "endereco": "Rua Senador Manoel Barata, 1873 - Reduto - Belém/Pará - 66053-320",
+    "telefone": "(91) 4005-9500",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Montes Claros",
+    "endereco": "Rua Viúva Francisco Ribeiro, 200 - Centro - Montes Claros/Minas Gerais - 39400-114",
+    "telefone": "(38) 2104-5100",
+    "email": "faleconosco@sescmg.com.br"
+  },
+  {
+    "nome": "Sesc Comunidade São José",
+    "endereco": "Rua Viana do Castelo, s/nº - Forquilhas - São José/Santa Catarina - 88107-395",
+    "telefone": "(48) 3259-4328",
+    "email": "faleconosco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Museu de Florianópolis",
+    "endereco": "Praça XV de Novembro, 214 - Centro - Florianópolis/Santa Catarina -",
+    "telefone": "(48) 3222-1333",
+    "email": "museu@sesc-sc.com.br"
+  },
+  {
+    "nome": "Pousada Sesc Guaxuma",
+    "endereco": "Rua Coronel Mário Saraiva, s/n - Guaxuma - Maceió/Alagoas - 57038-760",
+    "telefone": "n/a",
+    "email": "n/a"
+  },
+  {
+    "nome": "Teatro Sesc Napoleão Ewerton",
+    "endereco": "Av. dos Holandeses, Qd. 24, s/n - Jardim Renascença II - São Luis/Maranhão - 65.075-650",
+    "telefone": "(98) 93215-1554",
+    "email": ""
+  },
+  {
+    "nome": "Sesc Potilândia",
+    "endereco": "Avenida Senador Salgado Filho, s/n - Potilândia - Natal/Rio Grande do Norte - 59075-000",
+    "telefone": "(84) 3231-3928",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Corumbá",
+    "endereco": "R. Antônio Maria Coelho, 493 - Centro - Corumbá/Mato Grosso do Sul - 79301-001",
+    "telefone": "(67) 3311-4300",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Santo Antonio da Platina",
+    "endereco": "Rua Rui Barbosa, 799 - Centro - Santo Antonio Da Platina/Paraná - 86430-000",
+    "telefone": "(43) 3558-3300",
+    "email": "sac.stoplatina@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Iparana Hotel Ecológico",
+    "endereco": "Rua José de Alencar, nº 150 - Iparana - Caucaia/Ceará - 61.627-210",
+    "telefone": "0800 2755250",
+    "email": "reservas-iparana@sesc-ce.com.br"
+  },
+  {
+    "nome": "Sesc Praia",
+    "endereco": "Rua Misael Pedreira da Silva, 138 - Santa Lúcia - Vitória/Espírito Santo - 29056-230",
+    "telefone": "(27) 3134-6533",
+    "email": "sesccap@es.sesc.com.br"
+  },
+  {
+    "nome": "Centro de Atividades Sesc Palmas",
+    "endereco": "Quadra 502 Norte, Av. LO 16, Lote 21-A - Plano Diretor Norte - Palmas/Tocantins - 77006-562",
+    "telefone": "(63) 3212-9900",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Centro Educacional de Parnaíba",
+    "endereco": "Av. Nações Unidas, 580 - Centro - Parnaíba/Piauí - 64200-040",
+    "telefone": "(86) 3315 1765",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro Esportivo Tênis Sesc",
+    "endereco": "Avenida Tocantins, esq. com Av. M s/n - Jardim Aureny III - Palmas/Tocantins - 77060-150",
+    "telefone": "(63) 3216-8901",
+    "email": "n/a"
+  },
+  {
+    "nome": "Teatro Sesc Ginástico",
+    "endereco": "Avenida Graça Aranha, 187 - Centro - Rio de Janeiro/Rio de Janeiro - 20030-003",
+    "telefone": "(21) 2279-4027",
+    "email": ""
+  },
+  {
+    "nome": "Escola de Educar Sesc Unid. II",
+    "endereco": "Avenida João Pessoa, nº 5920 - Damas - Fortaleza/Ceará - 60.425-682",
+    "telefone": "(85) 3292-0100",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Ler São João do Piauí",
+    "endereco": "Travessa Santo Antônio, 749 - Vermelho - São João do Piauí/Piauí - 64770-000",
+    "telefone": "(89) 3483-1410",
+    "email": "comunicação@pi.sesc.com"
+  },
+  {
+    "nome": "Sesc Nova Iguaçu",
+    "endereco": "Rua Dom Adriano Hipólito, 10 - Moquetá - Nova Iguaçu/Rio de Janeiro - 26285-330",
+    "telefone": "(21) 2797-3001",
+    "email": "sescnovaiguacu@sescrio.org.br"
+  },
+  {
+    "nome": "Consultório Odontológico de Ilhéus",
+    "endereco": "Avenida Lindolfo Collor, s/n - Centro de Abastecimento, Pavilhão A 1º andar - Malhado - Ilhéus/Bahia - 45651310",
+    "telefone": "(73) 3231-3120",
+    "email": "odontologiailheus@sescbahia.com.br"
+  },
+  {
+    "nome": "Centro de Atividades Sesc Palmas",
+    "endereco": "Quadra 502 Norte, Av. LO 16, Lote 21-A - Plano Diretor Norte - Palmas/Tocantins - 77006-562",
+    "telefone": "(63) 3212-9900",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro de Atividades do Parque Moscoso",
+    "endereco": "R. Padre José de Anchieta, nº110 - Parque Moscoso - Vitória/Espírito Santo - n/a",
+    "telefone": "(27) 3194-0300",
+    "email": "protocolo@es.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Prainha",
+    "endereco": "Travessa Syriaco Atherino, 100 - Centro - Florianópolis/Santa Catarina - 88020-183",
+    "telefone": "(48) 3229-2200",
+    "email": "prainha@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Avenida",
+    "endereco": "Rua Eunice Weaver, 101 - Centro - Parnaíba/Piauí - 64200-400",
+    "telefone": "(86) 3215-1701",
+    "email": "comunicação@pi.sesc.com"
+  },
+  {
+    "nome": "Sesc Itumbiara",
+    "endereco": "Rua Severiano de Paula, Qd. 02 Lt. 17 - Setor Bela Vista - Itumbiara/Goiás - 75533-260",
+    "telefone": "(64) 3430-5501",
+    "email": "faleconosco@sescgo.com.br"
+  },
+  {
+    "nome": "São João Batista",
+    "endereco": "Avenida Egídio Manoel Cordeiro, 303 - Centro - São João Batista/Santa Catarina - 88240-000",
+    "telefone": "(48) 3265-4252",
+    "email": "saojoaobatista@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Umuarama",
+    "endereco": "Rua Domingos Gonçalves Paula, 2700 - Zona V - Umuarama/Paraná - 87504-190",
+    "telefone": "(44) 36238050",
+    "email": "sac.umuarama@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Manacapuru Casa Restauração",
+    "endereco": "Rua Eduardo Ribeiro, s/n - Centro - Manacapuru/Amazonas - 69050-060",
+    "telefone": "(92) 3361-1464",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Ler Canoinhas",
+    "endereco": "Av. Expedicionário, 2100 - Campo Água Verde - Canoinhas/Santa Catarina - 89466-312",
+    "telefone": "(47) 3622-7026",
+    "email": "canoinhas@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc – Sede Administrativa",
+    "endereco": "Av. Tancredo Neves, 1.109, Edifício Casa do Comércio, 8º andar - Caminho das Árvores - Salvador/Bahia - 41820-021",
+    "telefone": "(71) 3273-8701",
+    "email": "comunic@sescbahia.com.br"
+  },
+  {
+    "nome": "Centro de Atividades Hotel Sesc Atalaia",
+    "endereco": "Av. Santos Dumont, 737 - Atalaia - Aracaju/Sergipe - 49035-250",
+    "telefone": "(79) 3021-9880",
+    "email": "reservas@se.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Almenara",
+    "endereco": "Rua Doutor Sabino da Silva, 142 - Bairro Tereza Cristina - Almenara/Minas Gerais - 39900-000",
+    "telefone": "(33) 3721-9800",
+    "email": ""
+  },
+  {
+    "nome": "Centro de Atividades de Feira de Santana",
+    "endereco": "Rua Guaratuba, 345 - Tomba - Feira de Santana/Bahia - 44090-168",
+    "telefone": "(75) 3622-1550",
+    "email": "feira@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Comunidade Palhoça",
+    "endereco": "Rua Saúl Brandalise - Jardim Eldorado - Palhoça/Santa Catarina - 88133-250",
+    "telefone": "(48) 3341-6029",
+    "email": "faleconosco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Parque Primavera",
+    "endereco": "Quadra A1 Alameda 03, Rua 09  - Setor Parque Primavera - Gurupi/Tocantins - 77413-090",
+    "telefone": "(63) 3316-1388",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Três Lagoas",
+    "endereco": "Rua Elmano Soares, 854 - Centro - Três Lagoas/Mato Grosso do Sul - 79601-110",
+    "telefone": "(67) 3919-1900",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Açude Velho",
+    "endereco": "Rua Paulo de Frontim, 168 - Centro - Campina Grande/Paraíba - 58400-310",
+    "telefone": "(83) 3337-4361",
+    "email": "sesc@sescpb.com.br"
+  },
+  {
+    "nome": "Sesc Santa Rita",
+    "endereco": "Dona Geralda, 320 - Centro Histórico - Largo Santa Rita - Paraty/Rio de Janeiro - 23970-000",
+    "telefone": "(24) 33714516",
+    "email": "sescparaty@sesc.com.br"
+  },
+  {
+    "nome": "Escola Sesc Zilda Arns",
+    "endereco": "Rua da Jaqueira, 36 - Saúde - Salvador/Bahia - 40040-570",
+    "telefone": "(71) 3242-9815",
+    "email": "educacaonazare@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Patos de Minas",
+    "endereco": "Rua Major Gote, 1.411 - Centro - Patos de Minas/Minas Gerais - 38700-001",
+    "telefone": "(34) 3823-6275",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Cabo Branco",
+    "endereco": "Avenida Cabo Branco, 2788 - Cabo Branco - João Pessoa/Paraíba - 58045-010",
+    "telefone": "(83) 3219-3400",
+    "email": "reservas@sescpb.com.br"
+  },
+  {
+    "nome": "Centro de Atividades de Jacobina",
+    "endereco": "Rua Antônio Manoel Alves de Mesquita, 245 - Félix Tomaz - Jacobina/Bahia - 44700-000",
+    "telefone": "(74) 3161-1201",
+    "email": "jacobina@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Corumbá",
+    "endereco": "R. Antônio Maria Coelho, 493 - Centro - Corumbá/Mato Grosso do Sul - 79301-001",
+    "telefone": "(67) 3311-4300",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Osasco",
+    "endereco": "Travessa Gilmar de Franca Crispim, 9 - Jardim das Flores - Osasco/São Paulo - 06114-175",
+    "telefone": "(11) 3184-0900",
+    "email": "n/a"
+  },
+  {
+    "nome": "Hotel Sesc Nogueira",
+    "endereco": "Estrada do Calembe, S/N - Nogueira - Petrópolis/Rio de Janeiro - 25730-360",
+    "telefone": "(24) 2236-1150",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Mossoró",
+    "endereco": "Rua Dr. João Marcelino, 4.000 - Abolição - Mossoró/Rio Grande do Norte - 59610-200",
+    "telefone": "(84) 3312-9811",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Londrina Cadeião",
+    "endereco": "Rua Sergipe, 52 - Centro - Londrina/Paraná - 86010-380",
+    "telefone": "",
+    "email": "sac.ldacadeiao@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Alberto Bins",
+    "endereco": "Av. Alberto Bins, 66 - Porto Alegre - Porto Alegre/Rio Grande do Sul - 90030-142",
+    "telefone": "(51) 3284-2000",
+    "email": "uoalbertobins@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Catanduva",
+    "endereco": "Praça Felício Tonello, 228 - Centro - Catanduva/São Paulo - 15801-321",
+    "telefone": "(17) 3524-9200",
+    "email": "email@catanduva.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Ler São Lourenço da Mata",
+    "endereco": "Avenida das Pêras, 56 - Tiúma - São Lourenço da Mata/Pernambuco - 54735-320",
+    "telefone": "(81) 3525-9033",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Caicó",
+    "endereco": "Rua Washington Luiz, 55 - Boa Passagem - Caicó/Rio Grande do Norte - 59300-000",
+    "telefone": "(84) 3421-2337",
+    "email": "n/a"
+  },
+  {
+    "nome": "Hotel Sesc Contagem",
+    "endereco": "Rua Padre José Maria De Man, 805 - Novo Riacho - Contagem/Minas Gerais - 32280-620",
+    "telefone": "(31) 2108-4500",
+    "email": "hospedagem@sescmg.com.br"
+  },
+  {
+    "nome": "Museu de Florianópolis",
+    "endereco": "Praça XV de Novembro, 214 - Centro - Florianópolis/Santa Catarina -",
+    "telefone": "(48) 3222-1333",
+    "email": "museu@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Tramandaí",
+    "endereco": "Rua Barão do Rio Branco, 69. - Centro - Tramandaí/Rio Grande do Sul - 95590-000",
+    "telefone": "(51) 3684-3736",
+    "email": "uotramandai@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Paranaguá",
+    "endereco": "Rua Domingos Peneda, 947 - Estradinha - Paranaguá/Paraná - 83206-350",
+    "telefone": "(41) 34275200",
+    "email": "paranagua@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Academia Araranguá",
+    "endereco": "Avenida Getúlio Vargas, 1.259 (dentro do supermercado Angeloni) - Centro - Urussanguinha/Santa Catarina - 88905-482",
+    "telefone": "(48) 3524.3268",
+    "email": "ararangua@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Universitário",
+    "endereco": "Avenida Universitária, 1749 - Setor Universitário - Goiânia/Goiás - 74610-100",
+    "telefone": "(62) 3522-6100",
+    "email": "faleconosco@sescgo.com.br"
+  },
+  {
+    "nome": "Centro de Lazer e Hospedagem Sesc Piatã",
+    "endereco": "Avenida Octávio Mangabeira, s/n - Piatã - Salvador/Bahia - 41650-150",
+    "telefone": "(71) 3367-8511",
+    "email": "reserva@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Francisco Beltrão",
+    "endereco": "Avenida Júlio Assis Cavalheiro, 2121 - Centro - Francisco Beltrão/Paraná - 85601-000",
+    "telefone": "(46) 3524-2627",
+    "email": "sac.fbeltrao@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Cachoeirinha",
+    "endereco": "Av. João Pessoa, 27 - Vila Jardim America - Cachoeirinha/Rio Grande do Sul - 94920-340",
+    "telefone": "(51) 3439-1751",
+    "email": "uocachoeirinha@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Patos de Minas",
+    "endereco": "Rua Major Gote, 1.411 - Centro - Patos de Minas/Minas Gerais - 38700-001",
+    "telefone": "(34) 3823-6275",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro Educacional",
+    "endereco": "Avenida Dom Emanuel, nº 1697, Quadra 51, Lote 7A - Senador - Araguaína/Tocantins - 77813-520",
+    "telefone": "(63) 3321-9102",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc União da Vitória",
+    "endereco": "Rua Carlos Cavalcanti, 91 - 1º andar - Centro - União da Vitória/Paraná - 84600-000",
+    "telefone": "(42) 3522-4332",
+    "email": "desideriosanson@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Crato",
+    "endereco": "Rua André Cartaxo, 443 - Palmeiral - Crato/Ceará - 63100-555",
+    "telefone": "n/a",
+    "email": "hpereira@sesc-ce.com.br / marcelobraga@sesc-ce.com.br"
+  },
+  {
+    "nome": "Sesc Bauru",
+    "endereco": "Avenida Aureliano Cardia, 6-71 - Vila Cardia - Bauru/São Paulo - 17013-411",
+    "telefone": "(14) 3235-1750",
+    "email": "email@bauru.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Jaraguá",
+    "endereco": "Rua Tabelião Luiz Vieira, nº 67 - Jaraguá - Maceió/Alagoas - 57025-340",
+    "telefone": "(82) 3201-2590",
+    "email": "duvidas@sescalagoas.com.br"
+  },
+  {
+    "nome": "Sesc Londrina Centro",
+    "endereco": "Rua Fernando de Noronha, 264 - Centro - Londrina/Paraná - 86020-300",
+    "telefone": "",
+    "email": "sac.ldacentro@sescpr.com.br"
+  },
+  {
+    "nome": "Centro de Atividades de Sesc Linhares",
+    "endereco": "Rua Augusto Calmon, 1907 - Colina - Linhares/Espírito Santo - 29900-396",
+    "telefone": "27 3264-5820",
+    "email": "sesccal@es.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Dourados",
+    "endereco": "Rua Toshinobu Katayama, 178 - Centro - Dourados/Mato Grosso do Sul - 79806-030",
+    "telefone": "(67) 3410-0700",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Santo Antonio da Platina",
+    "endereco": "Rua Rui Barbosa, 799 - Centro - Santo Antonio Da Platina/Paraná - 86430-000",
+    "telefone": "(43) 3558-3300",
+    "email": "sac.stoplatina@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Presidente Prudente",
+    "endereco": "Rua Alberto Peters, 111 - Jardim das Rosas - Presidente Prudente/São Paulo - 9060-310",
+    "telefone": "(18) 3226-0400",
+    "email": "email@prudente.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Ler Parintins",
+    "endereco": "Av. Massaranduba, s/n - Djard Vieira - Parintins/Amazonas - 69152-320",
+    "telefone": "(92) 3533-3565",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Santana",
+    "endereco": "Avenida Luiz Dumont Villares, 579 - Santana - São Paulo/São Paulo - 02085-100",
+    "telefone": "(11) 2971-8700",
+    "email": "email@santana.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Ler Alta Floresta",
+    "endereco": "Rua C3, s/n - Setor C - Alta Floresta/Mato Grosso - 78580-000",
+    "telefone": "(66) 3521-7211",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Ler Laranjal do Jarí",
+    "endereco": "Avenida Tancredo Neves, s/n - Loteamento Cajari - Castanheira - Laranjal do Jarí/Amapá - 68920-000",
+    "telefone": "(96) 3621-2369 ‎",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc São Leopoldo",
+    "endereco": "Rua Marquês do Herval, 784 - Centro - São Leopoldo/Rio Grande do Sul - 93010-200",
+    "telefone": "(51) 3592-2129",
+    "email": "uosaoleopoldo@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Dourados",
+    "endereco": "Rua Toshinobu Katayama, 178 - Centro - Dourados/Mato Grosso do Sul - 79806-030",
+    "telefone": "(67) 3410-0700",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro de Formação Artesanal",
+    "endereco": "Rua Francisco Muniz Barreto, 4/6, térreo - Centro Histórico de Salvador - Salvador/Bahia - 40026-230",
+    "telefone": "(71) 3324-4524",
+    "email": "artesanato@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Concórdia",
+    "endereco": "Rua Romano Anselmo, 620 - Centro - Concórdia/Santa Catarina - 89700-095",
+    "telefone": "(49) 3442-0303",
+    "email": "concordia@sesc-sc.com.br"
+  },
+  {
+    "nome": "Consultório Odontológico de Ilhéus",
+    "endereco": "Avenida Lindolfo Collor, s/n - Centro de Abastecimento, Pavilhão A 1º andar - Malhado - Ilhéus/Bahia - 45651310",
+    "telefone": "(73) 3231-3120",
+    "email": "odontologiailheus@sescbahia.com.br"
+  },
+  {
+    "nome": "Hotel Sesc Alpina",
+    "endereco": "Avenida Delfim Moreira, 749 - Várzea - Teresópolis/Rio de Janeiro - 25953-237",
+    "telefone": "(21) 2743-6921",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Anápolis",
+    "endereco": "Avenida Santos Dumont / Esquina com Zeca Louza s/n - Jundiaí - Anápolis/Goiás - 75110-180",
+    "telefone": "(62) 3902-6900",
+    "email": "faleconosco@sescgo.com.br"
+  },
+  {
+    "nome": "Sesc Cornélio Procopio",
+    "endereco": "Avenida Nossa Senhora do Rocio, 696 - Centro - Cornélio Procópio/Paraná - 86300-000",
+    "telefone": "(43) 3904-1600",
+    "email": "sac.cprocopio@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Jaraguá",
+    "endereco": "Rua Tabelião Luiz Vieira, nº 67 - Jaraguá - Maceió/Alagoas - 57025-340",
+    "telefone": "(82) 3201-2590",
+    "email": "duvidas@sescalagoas.com.br"
+  },
+  {
+    "nome": "RPPN Sesc Pantanal",
+    "endereco": "- - Barão de Melgaço/Mato Grosso -",
+    "telefone": "(65) 3688-2000",
+    "email": ""
+  },
+  {
+    "nome": "Sesc Contagem",
+    "endereco": "Rua Padre José Maria De Man, 805 - Novo Riacho - Contagem/Minas Gerais - 32280-620",
+    "telefone": "(31) 2108-4504/4505",
+    "email": "faleconosco@sescmg.com.br"
+  },
+  {
+    "nome": "Sesc Uberaba",
+    "endereco": "Rua Ricardo Misson, 411 - Fabricio - Uberaba/Minas Gerais - 38065-200",
+    "telefone": "(34) 2103-9200",
+    "email": "usubr@sescmg.com.br"
+  },
+  {
+    "nome": "Sesc Londrina Cadeião",
+    "endereco": "Rua Sergipe, 52 - Centro - Londrina/Paraná - 86010-380",
+    "telefone": "",
+    "email": "sac.ldacadeiao@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Palmeira das Missões",
+    "endereco": "Rua Marechal Floriano, 1023 - Centro - Palmeira das Missões/Rio Grande do Sul - 98300-000",
+    "telefone": "(55) 3742.2470",
+    "email": "unidadesescsenacpalmeiradasmissoes@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Três Lagoas",
+    "endereco": "Rua Elmano Soares, 854 - Centro - Três Lagoas/Mato Grosso do Sul - 79601-110",
+    "telefone": "(67) 3919-1900",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Cascavel",
+    "endereco": "Rua Carlos de Carvalho, 3367 - Centro - Cascavel/Paraná - 85801-130",
+    "telefone": "(45) 3225-3828",
+    "email": "sac.cascavel@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Gurupi",
+    "endereco": "Rua D, Qd. 10, Lts. 01 a 05, nº 109 - Setor Engº Waldir Lins - Gurupi/Tocantins - 77423-030",
+    "telefone": "(63) 3301-2100",
+    "email": "n/a"
+  },
+  {
+    "nome": "Hotel Sesc Blumenau",
+    "endereco": "Rua Udo Deeke, 1.330 - Salto do Norte - Blumenau/Santa Catarina - 89065-100",
+    "telefone": "(47) 3334-8100",
+    "email": "hospedagem@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Paraíso do Tocantins",
+    "endereco": "Av. Presidente Medici, Qd. 01, Lts. 1 a 10, 23 a 32 - Setor Jardim Paulista - Paraíso/Tocantins - 77600-000",
+    "telefone": "(63) 3602-4793",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Centro Esportivo de Vila Velha",
+    "endereco": "Rua José Eugênio, 30 - Nossa Senhora da Penha - Vila Velha/Espírito Santo - 29110-240",
+    "telefone": "(27) 3311-2850",
+    "email": "sesccevv@es.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Ler Presidente Médici",
+    "endereco": "Rua Santos Dumont, 3665 - Presidente Médici - Lino Alves Teixeira/Rondônia - 78968-000",
+    "telefone": "(69) 3471-1111",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Santo Amaro",
+    "endereco": "Rua Treze de Maio, 455 - Santo Amaro - Recife/Pernambuco - 50100-170",
+    "telefone": "(81) 3216-1713",
+    "email": "sescsantoamaro@sescpe.com.br"
+  },
+  {
+    "nome": "Sesc Jacarezinho",
+    "endereco": "Rua Dois de Abril, 720 - Centro - Jacarezinho/Paraná - 86400-000",
+    "telefone": "(43) 3527-1232",
+    "email": "jacarezinho@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Portão",
+    "endereco": "Rua João Bettega, 770 - Portão - Curitiba/Paraná - 81070-000",
+    "telefone": "(41) 32208000",
+    "email": "sac.portao@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Sabor e Arte",
+    "endereco": "Av. Afonso Pena, 3469 - Jardim dos Estados - Campo Grande/Mato Grosso do Sul - 79002-072",
+    "telefone": "(67) 3311-4300",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Alberto Bins",
+    "endereco": "Av. Alberto Bins, 66 - Porto Alegre - Porto Alegre/Rio Grande do Sul - 90030-142",
+    "telefone": "(51) 3284-2000",
+    "email": "uoalbertobins@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Avenida",
+    "endereco": "Rua Eunice Weaver, 101 - Centro - Parnaíba/Piauí - 64200-400",
+    "telefone": "(86) 3215-1701",
+    "email": "comunicação@pi.sesc.com"
+  },
+  {
+    "nome": "Sesc São Caetano",
+    "endereco": "Rua Piauí, 554 - Santa Paula - São Caetano do Sul/São Paulo - 09541-150",
+    "telefone": "(11) 4223-8800",
+    "email": "email@scaetano.sescsp.org.br"
+  },
+  {
+    "nome": "Teatro Sesc Senac Pelourinho",
+    "endereco": "Praça José de Alencar, 19 - Centro Histórico de Salvador - Salvador/Bahia - 40025-280",
+    "telefone": "(71) 3324-4520",
+    "email": "teatrosescsenac@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Madureira",
+    "endereco": "Rua Ewbanck da Câmara, 90 - Madureira - Rio de Janeiro/Rio de Janeiro - 21310-150",
+    "telefone": "(21) 3350-7744",
+    "email": "sescmadureira@sescrio.org.br"
+  },
+  {
+    "nome": "Hotel Sesc Olho d’Água",
+    "endereco": "Rua São Carlos, s/n - Olho D’Água - São Luís/Maranhão - 65065-420",
+    "telefone": "(98) 3248-8300 / 8334",
+    "email": "reserva@ma.sesc.com.br"
+  },
+  {
+    "nome": "Academia Jardim Atlântico",
+    "endereco": "Avenida Marinheiro Max Schramm, 3.450 (dentro do supermercado Angeloni) - Jardim Atlântico - Florianópolis/Santa Catarina - 88095-001",
+    "telefone": "(48) 3249-9044",
+    "email": "jardimatlantico@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc São Gonçalo",
+    "endereco": "Avenida Pres. Kennedy, 755 - - São Gonçalo/Rio de Janeiro - 24440-490",
+    "telefone": "(21) 2712-2650",
+    "email": "sescsaogoncalo@sescrio.com.br"
+  },
+  {
+    "nome": "Academia Biguaçu",
+    "endereco": "Rua Coronel Teixeira de Oliveira, 128 (dentro do supermercado Angeloni, 2º andar) - Centro - Biguaçu/Santa Catarina - 88160-130",
+    "telefone": "(48) 3285-2016",
+    "email": "biguacu@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc São Joaquim",
+    "endereco": "Rua Marcos Batista, 1.040 - Centro - São Joaquim/Santa Catarina - 88600-970",
+    "telefone": "(49) 3233-4061",
+    "email": "saojoaquim@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Umuarama",
+    "endereco": "Rua Domingos Gonçalves Paula, 2700 - Zona V - Umuarama/Paraná - 87504-190",
+    "telefone": "(44) 36238050",
+    "email": "sac.umuarama@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Santo Amaro",
+    "endereco": "Rua Amador Bueno, 505 - Santo Amaro - São Paulo/São Paulo - 04752-005",
+    "telefone": "(11) 5541-4000",
+    "email": "email@santoamaro.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Ler Itacoatiara",
+    "endereco": "Rua Doutor Luzardo de Melo, 3465 - Jauari ll - Itacoatiara/Amazonas - 69100-000",
+    "telefone": "(92) 3521- 2466",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Santa Catarina – Departamento Regional",
+    "endereco": "Rua Felipe Schmidt, 785 - Centro - Florianópolis/Santa Catarina - 88010-002",
+    "telefone": "(48) 3251-4802",
+    "email": "faleconosco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Francisco Beltrão",
+    "endereco": "Avenida Júlio Assis Cavalheiro, 2121 - Centro - Francisco Beltrão/Paraná - 85601-000",
+    "telefone": "(46) 3524-2627",
+    "email": "sac.fbeltrao@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc – Sede Administrativa",
+    "endereco": "Av. Tancredo Neves, 1.109, Edifício Casa do Comércio, 8º andar - Caminho das Árvores - Salvador/Bahia - 41820-021",
+    "telefone": "(71) 3273-8701",
+    "email": "comunic@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Ilhotas",
+    "endereco": "Rua Heitor Castelo Branco, 2700 - Ilhotas - Teresina/Piauí - n/a",
+    "telefone": "(86) 3230-9950",
+    "email": "comunicação@pi.sesc.com"
+  },
+  {
+    "nome": "Sesc Ler Oiapoque",
+    "endereco": "BR -156, Loteamento Parque Tumucumaque, Quadra: 18 e 22 - - Oiapoque/Amapá - n/a",
+    "telefone": "",
+    "email": "ascom@sescamapa.com.br"
+  },
+  {
+    "nome": "Hotel Sesc Contagem",
+    "endereco": "Rua Padre José Maria De Man, 805 - Novo Riacho - Contagem/Minas Gerais - 32280-620",
+    "telefone": "(31) 2108-4500",
+    "email": "hospedagem@sescmg.com.br"
+  },
+  {
+    "nome": "Centro Educacional Sesc Aracati",
+    "endereco": "BR 304, km 44 s/n - Pedregal - Aracati/Ceará -",
+    "telefone": "(88) 3421-1274",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Centro de Esporte e Lazer de Cariacica",
+    "endereco": "Rua Manoel Freire Correia, 355 - Santa Bárbara - Cariacica/Espírito Santo - 29145-210",
+    "telefone": "27 3246-1300",
+    "email": "sesccelc@es.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Paraíso do Tocantins",
+    "endereco": "Av. Presidente Medici, Qd. 01, Lts. 1 a 10, 23 a 32 - Setor Jardim Paulista - Paraíso/Tocantins - 77600-000",
+    "telefone": "(63) 3602-4793",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Uruguaiana",
+    "endereco": "Rua Flores da Cunha, 1984 - Centro - Uruguaiana/Rio Grande do Sul - 97501-650",
+    "telefone": "(55) 3412-2482",
+    "email": "uouruguaiana@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Ler Ariquemes",
+    "endereco": "Rua Tancredo Neves, 3998 - Setor Institucional - Ariquemes/Rondônia - 78931-740",
+    "telefone": "(69) 3535-2528",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro Educacional Sesc Salinópolis",
+    "endereco": "Rodovia PA 124 - Vila do Coremas - Salinópolis/Pará - 68721-000",
+    "telefone": "(91) 3859-1144",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Centro",
+    "endereco": "Rua 24 de Maio, 692 - Centro - Fortaleza/Ceará - 60020-000",
+    "telefone": "(85) 3455-2102",
+    "email": "jneves@sesc-ce.com.br / marcelobraga@sesc-ce.com.br"
+  },
+  {
+    "nome": "Sesc Chuí",
+    "endereco": "AV. Uruguai, 2355 - Centro - Chuí/Rio Grande do Sul - 96255-000",
+    "telefone": "(53) 3265-2181",
+    "email": "uochui@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc São Leopoldo",
+    "endereco": "Rua Marquês do Herval, 784 - Centro - São Leopoldo/Rio Grande do Sul - 93010-200",
+    "telefone": "(51) 3592-2129",
+    "email": "uosaoleopoldo@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Ler Caçador",
+    "endereco": "Rua do contestado, s/nº - Berger - Caçador/Santa Catarina - 89500-380",
+    "telefone": "(49) 3563-8783",
+    "email": "cacador@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Itapecuru",
+    "endereco": "BR 222, s/n - Roseana Sarney - Itapecuru/Maranhão - 65485-000",
+    "telefone": "(98) 3463-1200",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Alberto Bins",
+    "endereco": "Av. Alberto Bins, 66 - Porto Alegre - Porto Alegre/Rio Grande do Sul - 90030-142",
+    "telefone": "(51) 3284-2000",
+    "email": "uoalbertobins@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Rondonópolis",
+    "endereco": "Alameda dos cravos s/n qd 197 - Residencial Colina Verde - Rondonópolis/Mato Grosso - 78740-000",
+    "telefone": "(66) 3411-1450",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Frederico Westphalen",
+    "endereco": "Rua Arthur Milani, 854 - 1º andar - Centro - Frederico Westphalen/Rio Grande do Sul - 98400-000",
+    "telefone": "(55) 3744-7450",
+    "email": "uofredericowestphalen@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Blumenau",
+    "endereco": "Rua Dr. Amadeu da Luz, 165 - Centro - Blumenau/Santa Catarina - 89010-160",
+    "telefone": "(47) 3322-5261",
+    "email": "blumenau@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Ler Manacapuru",
+    "endereco": "Av. Barão do Rio Branco, s/n - Centro - Manacapuru/Amazonas - 69400-000",
+    "telefone": "(92) 3361-3013",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Comunidade",
+    "endereco": "Av. Principal, s/n - Raposa - Raposa/Maranhão - 65.138-000",
+    "telefone": "",
+    "email": ""
+  },
+  {
+    "nome": "Pousada Rural Sesc Lages",
+    "endereco": "Rodovia SC 114, Km 219, s/nº - Rincão Comprido - Zona Rural - Distrito Índios - Lages/Santa Catarina - 88533-000",
+    "telefone": "(49) 3224-9988",
+    "email": "pousadalages@sesc-sc.com.br"
+  },
+  {
+    "nome": "Centro de Atividades Manacapuru",
+    "endereco": "Rua Waldemar Ventura, s/nº - São José - Manacapuru/Amazonas - 69400-000",
+    "telefone": "(92) 3361-3013 / 1456",
+    "email": "nilton.teixeira@sesc-am.com.br"
+  },
+  {
+    "nome": "Sesc Pelotas",
+    "endereco": "Rua Gonçalves Chaves, 914 - Centro - Pelotas/Rio Grande do Sul - 96015-560",
+    "telefone": "(53) 3225-6093",
+    "email": "faleconosco@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Cascavel",
+    "endereco": "Rua Carlos de Carvalho, 3367 - Centro - Cascavel/Paraná - 85801-130",
+    "telefone": "(45) 3225-3828",
+    "email": "sac.cascavel@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Santa Rita",
+    "endereco": "Dona Geralda, 320 - Centro Histórico - Largo Santa Rita - Paraty/Rio de Janeiro - 23970-000",
+    "telefone": "(24) 33714516",
+    "email": "sescparaty@sesc.com.br"
+  },
+  {
+    "nome": "Hotel Sesc Torres",
+    "endereco": "Rua Plínio Kroeff, 465 - c-rs.com.br/hotel-sesc-torres/ - Torres/Rio Grande do Sul - 95560-000",
+    "telefone": "51) 3626-9400",
+    "email": "reservastorres@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Vale do Gravataí",
+    "endereco": "Rua Anápio Gomes, 1241 - Centro - Gravataí/Rio Grande do Sul - 94010-011",
+    "telefone": "(51) 3497-6263",
+    "email": "uogravatai@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Taguatinga Norte",
+    "endereco": "CNB 12, AE 2/3 - Taguatinga Norte - Taguatinga Norte/Distrito Federal -  72115-125 ",
+    "telefone": "(61) 3451-9103",
+    "email": "sac@sescdf.com.br"
+  },
+  {
+    "nome": "Sesc Estação 504 Sul",
+    "endereco": "W3 Sul, Quadra 504/505, Bloco “A” Brasília - - Brasília/Distrito Federal - 70331-515 ",
+    "telefone": "(61) 3217-9123",
+    "email": "sac@sescdf.com.br"
+  },
+  {
+    "nome": "Parque Sesc Baía das Pedras",
+    "endereco": "Rodovia MT 370 - Km 42 - - Município de Poconé/Mato Grosso - n/a",
+    "telefone": "(65) 3688-2001",
+    "email": "contato@sescpantanal.com.br"
+  },
+  {
+    "nome": "Sesc Comunidade Palhoça",
+    "endereco": "Rua Saúl Brandalise - Jardim Eldorado - Palhoça/Santa Catarina - 88133-250",
+    "telefone": "(48) 3341-6029",
+    "email": "faleconosco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Rio Preto",
+    "endereco": "Avenida Francisco das Chagas Oliveira, 1333 - Chácara Municipal - São José do Rio Preto/São Paulo - 15090-190",
+    "telefone": "(17) 3216-9300",
+    "email": "email@riopreto.sescsp.org.br"
+  },
+  {
+    "nome": "Centro de Atividades Sesc Araguaína",
+    "endereco": "Rua Joaquim Gava, Chácara 95 BII (Entre a Avenida Filadélfia e a Marginal Neblina) - Jardim América - Araguaína/Tocantins - 77805-206",
+    "telefone": "(63) 3416-0100",
+    "email": "n/a"
+  },
+  {
+    "nome": "Escola Sesc Zilda Arns",
+    "endereco": "Rua da Jaqueira, 36 - Saúde - Salvador/Bahia - 40040-570",
+    "telefone": "(71) 3242-9815",
+    "email": "educacaonazare@sescbahia.com.br"
+  },
+  {
+    "nome": "Pousada Sesc Guaxuma",
+    "endereco": "Rua Coronel Mário Saraiva, s/n - Guaxuma - Maceió/Alagoas - 57038-760",
+    "telefone": "n/a",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Ler Ji Paraná",
+    "endereco": "Av. Dois de Abril, 1950 - Dois de Abril - Ji Paraná/Rondônia - 78962-540",
+    "telefone": "(69) 3422-2414",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Brusque",
+    "endereco": "Rua Arno Carlos Gracher, 211 - Centro - Brusque/Santa Catarina - 88350-310",
+    "telefone": "(47) 3351-2599",
+    "email": "brusque@sesc-sc.com.br"
+  },
+  {
+    "nome": "Centro Educacional Sesc Inhangapi",
+    "endereco": "Travessa Pio XII, s/n - Vila Nova - Inhangapí/Pará - 68770-000",
+    "telefone": "(91) 3809-1229",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Contagem",
+    "endereco": "Rua Padre José Maria De Man, 805 - Novo Riacho - Contagem/Minas Gerais - 32280-620",
+    "telefone": "(31) 2108-4504/4505",
+    "email": "faleconosco@sescmg.com.br"
+  },
+  {
+    "nome": "Sesc Garanhuns",
+    "endereco": "Rua Manoel Clemente, 136 - Centro - Garanhuns/Pernambuco - 55293-040",
+    "telefone": "(87) 3761-2658",
+    "email": "sescgaranhuns@sescpe.com.br"
+  },
+  {
+    "nome": "Sesc Oeiras",
+    "endereco": "Av. Transamazônica, 1600 - Urbano - Oeiras/Piauí - 64500-000",
+    "telefone": "(89) 3462-5700",
+    "email": "sescoeiras@pi.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Paraíso do Tocantins",
+    "endereco": "Av. Presidente Medici, Qd. 01, Lts. 1 a 10, 23 a 32 - Setor Jardim Paulista - Paraíso/Tocantins - 77600-000",
+    "telefone": "(63) 3602-4793",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Praia",
+    "endereco": "Rodovia PI 116 (lado direito), Km 7,5 - Praia do Barro Preto - Luís Correia/Piauí - 64220-000",
+    "telefone": "(86) 3367-8900",
+    "email": "sescpraia@pi.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Bom Retiro",
+    "endereco": "Alameda Nothmann, 185 - Bom Retiro - São Paulo/São Paulo - 01216-000",
+    "telefone": "(11) 3332-3600",
+    "email": "email@bomretiro.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Paranavaí",
+    "endereco": "Rua Edson Martins, 1760 - Jardim Ouro Branco - Paranavaí/Paraná - 87704-120",
+    "telefone": "(44) 34746-8500",
+    "email": "sac.paranavai@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Guarapuava",
+    "endereco": "Rua Comendador Norberto, 121 - Centro - Guarapuava/Paraná - 5010-140",
+    "telefone": "(42) 3623-4263",
+    "email": "sac.guarapuava@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Ler Parintins",
+    "endereco": "Av. Massaranduba, s/n - Djard Vieira - Parintins/Amazonas - 69152-320",
+    "telefone": "(92) 3533-3565",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro Educacional Sesc Aracati",
+    "endereco": "BR 304, km 44 s/n - Pedregal - Aracati/Ceará -",
+    "telefone": "(88) 3421-1274",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Itapecuru",
+    "endereco": "BR 222, s/n - Roseana Sarney - Itapecuru/Maranhão - 65485-000",
+    "telefone": "(98) 3463-1200",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Comunidade Irani",
+    "endereco": "Rua José Kades, 459 - Distrito Industrial I - Irani/Santa Catarina - 89680-000",
+    "telefone": "(49) 3432-0097",
+    "email": "faleconosco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc São João de Meriti",
+    "endereco": "Avenida Automóvel Clube, 66 - São João de Meriti - Rio de Janeiro/Rio de Janeiro - 25515-126",
+    "telefone": "(21) 2755-7070",
+    "email": "sescsaojoaodemeriti@sescrio.org.br"
+  },
+  {
+    "nome": "Sesc Carmo",
+    "endereco": "Rua do Carmo, 147 - Centro - São Paulo/São Paulo - 01019-020",
+    "telefone": "(11) 3111-7000",
+    "email": "email@carmo.sescsp.org.br"
+  },
+  {
+    "nome": "Parque Sesc Serra Azul",
+    "endereco": "Região oeste do município de Rosário Oeste, entre a Serra Azul e a margem esquerda do rio Cuiabazinho - - Rosário Oeste/Mato Grosso - n/a",
+    "telefone": "(65) 3688-2000",
+    "email": "contato@sescpantanal.com.br"
+  },
+  {
+    "nome": "Centro de Atividades",
+    "endereco": "Rua João Barbosa, N°143 - Mecejana - Boa Vista/Roraima - 69304-335",
+    "telefone": "(95) 3212-2800",
+    "email": "gabdiretor@sescrr.com.br"
+  },
+  {
+    "nome": "Sesc Pesqueira",
+    "endereco": "Avenida Luiz de Almeida Maciel, s/n - Baixa Grande - Pesqueira/Pernambuco - 55200-000",
+    "telefone": "(87) 3835-1164",
+    "email": ""
+  },
+  {
+    "nome": "Sesc Rio Preto",
+    "endereco": "Avenida Francisco das Chagas Oliveira, 1333 - Chácara Municipal - São José do Rio Preto/São Paulo - 15090-190",
+    "telefone": "(17) 3216-9300",
+    "email": "email@riopreto.sescsp.org.br"
+  },
+  {
+    "nome": "Centro Cultural e Restaurante de Feira de Santana",
+    "endereco": "Praça Carlos Bahia, s/n - Centro - Feira de Santana/Bahia - 44002-772",
+    "telefone": "(75) 3602-0035",
+    "email": "centralfeiracentro@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Sete Lagoas",
+    "endereco": "Rua Francisco Vicente, 23 - Papavento - Sete Lagoas/Minas Gerais - 35700-475",
+    "telefone": "(31) 2106-8250",
+    "email": "faleconosco@sescmg.com.br"
+  },
+  {
+    "nome": "Centro Educacional Sesc Cidadania",
+    "endereco": "Rua C197, Esq. Av. C198 e Rua C224 - Jardim América - Goiânia/Goiás - 74270-030",
+    "telefone": "(62) 3250-8036/8037",
+    "email": "faleconosco@sescgo.com.br"
+  },
+  {
+    "nome": "Sesc Catanduva",
+    "endereco": "Praça Felício Tonello, 228 - Centro - Catanduva/São Paulo - 15801-321",
+    "telefone": "(17) 3524-9200",
+    "email": "email@catanduva.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Ler Teotônio Vilela",
+    "endereco": "Loteamento Parque do Futuro, rua em projeto, s/nº - São Jorge - Teotônio Vilela/Alagoas - 57265-000",
+    "telefone": "(82) 3543 – 3346",
+    "email": "duvidas@sescalagoas.com.br"
+  },
+  {
+    "nome": "Sesc Governador Valadares",
+    "endereco": "Avenida Veneza, 877 - Grã-Duquesa - Governador Valadares/Minas Gerais - 35057-730",
+    "telefone": "(33) 2102-9800",
+    "email": "faleconosco@sescmg.com.br"
+  },
+  {
+    "nome": "Centro Educacional Sesc Salinópolis",
+    "endereco": "Rodovia PA 124 - Vila do Coremas - Salinópolis/Pará - 68721-000",
+    "telefone": "(91) 3859-1144",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Novo Hamburgo",
+    "endereco": "Rua Bento Gonçalves, 1537 - Boa Vista - Novo Hamburgo/Rio Grande do Sul - 93410-002",
+    "telefone": "(51) 3593-6700",
+    "email": "uonovohamburgo@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Pompéia",
+    "endereco": "Rua Clélia, 93 - Pompeia - São Paulo/São Paulo - 05042-000",
+    "telefone": "(11) 3871-7700",
+    "email": "email@pompeia.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Ivaipora",
+    "endereco": "Avenida Aparício Bittencourt, 960 - Jardim Imperial - Ivaiporã/Paraná - 86870-000",
+    "telefone": "(43) 3472-0607",
+    "email": "sac.ivaipora@sescpr.com.br"
+  },
+  {
+    "nome": "Hotel Sesc Copacabana",
+    "endereco": "Rua Domingos Ferreira, 160 - Copacabana - Rio de Janeiro/Rio de Janeiro - 22050-010",
+    "telefone": "(21) 2548-1088",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Santa Rosa",
+    "endereco": "Rua Concórdia, 114 - Centro - Santa Rosa/Rio Grande do Sul - 98780-349",
+    "telefone": "(55) 3512-6044",
+    "email": "uosantarosa@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Ler Palmeira dos Índios",
+    "endereco": "Rua Genésio Moreira, 1181 - São Francisco - Palmeira dos Índios/Alagoas - 57602-270",
+    "telefone": "(82) 3421-6269",
+    "email": "duvidas@sescalagoas.com.br"
+  },
+  {
+    "nome": "Sesc Navegantes",
+    "endereco": "Av. Brasil, 483 - Navegantes - Porto Alegre/Rio Grande do Sul - 90230-060",
+    "telefone": "(51) 3342- 5603",
+    "email": "uonavegantes@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc São Bento do Sul",
+    "endereco": "Rua Jorge Zipperer, 101 - Centro - Sao Bento Do Sul/Santa Catarina - 89280-490",
+    "telefone": "(47) 3633-0658",
+    "email": "saobentodosul@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Jacarezinho",
+    "endereco": "Rua Dois de Abril, 720 - Centro - Jacarezinho/Paraná - 86400-000",
+    "telefone": "(43) 3527-1232",
+    "email": "jacarezinho@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Londrina Cadeião",
+    "endereco": "Rua Sergipe, 52 - Centro - Londrina/Paraná - 86010-380",
+    "telefone": "",
+    "email": "sac.ldacadeiao@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Cachoeirinha",
+    "endereco": "Av. João Pessoa, 27 - Vila Jardim America - Cachoeirinha/Rio Grande do Sul - 94920-340",
+    "telefone": "(51) 3439-1751",
+    "email": "uocachoeirinha@sesc-rs.com.br"
+  },
+  {
+    "nome": "Estância Ecológica Sesc Tepequém",
+    "endereco": "Gleba Tepequém – s/n - Vila do Paiva - Amajari/Roraima - 69343-000",
+    "telefone": "",
+    "email": "recepcao@sescrr.com.br"
+  },
+  {
+    "nome": "Sesc RioMar Fortaleza",
+    "endereco": "Rua Desembargador Lauro Nogueira, nº 1500, Sala A18, Andar L3 - Papicu - Fortaleza/Ceará - 60.176-065",
+    "telefone": "(85) 3234-2472",
+    "email": "n/a"
+  },
+  {
+    "nome": "Teatro Sesc Senac Pelourinho",
+    "endereco": "Praça José de Alencar, 19 - Centro Histórico de Salvador - Salvador/Bahia - 40025-280",
+    "telefone": "(71) 3324-4520",
+    "email": "teatrosescsenac@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Carazinho",
+    "endereco": "Av. Flores da Cunha, 1975 - Centro - Carazinho/Rio Grande do Sul - 99500-000",
+    "telefone": "(54) 3331-2451 / 2361",
+    "email": "faleconosco@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Jacarezinho",
+    "endereco": "Rua Dois de Abril, 720 - Centro - Jacarezinho/Paraná - 86400-000",
+    "telefone": "(43) 3511-2700",
+    "email": "sac.jacarezinho@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Balneário",
+    "endereco": "Avenida Constantinopla, s/n - em frente ao conjunto Campos Elíseos - Planalto - Manaus/Amazonas - 69045-000",
+    "telefone": "(92) 3656-2399",
+    "email": "n/a"
+  },
+  {
+    "nome": "Escola Sesc Zilda Arns",
+    "endereco": "Rua da Jaqueira, 36 - Saúde - Salvador/Bahia - 40040-570",
+    "telefone": "(71) 3242-9815",
+    "email": "educacaonazare@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Cascavel",
+    "endereco": "Rua Carlos de Carvalho, 3367 - Centro - Cascavel/Paraná - 85801-130",
+    "telefone": "(45) 3225-3828",
+    "email": "sac.cascavel@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Presidente Prudente",
+    "endereco": "Rua Alberto Peters, 111 - Jardim das Rosas - Presidente Prudente/São Paulo - 9060-310",
+    "telefone": "(18) 3226-0400",
+    "email": "email@prudente.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Umuarama",
+    "endereco": "Rua Domingos Gonçalves Paula, 2700 - Zona V - Umuarama/Paraná - 87504-190",
+    "telefone": "(44) 36238050",
+    "email": "sac.umuarama@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Poconé",
+    "endereco": "Av. Generoso Poconé, 37 / Entrada da Rodovia Transpantaneira - Centro - Poconé/Mato Grosso - 78175-000",
+    "telefone": "(65) 3688-2024",
+    "email": "contato@sescpantanal.com.br"
+  },
+  {
+    "nome": "Sesc Bonito",
+    "endereco": "Rodovia MS 178 – KM 01 (Bonito/Guia Lopes da Laguna) - Jardim Andreia - Bonito/Mato Grosso do Sul - 79290-000",
+    "telefone": "(67) 3255-1700",
+    "email": "sescbonito@sescms.com.br"
+  },
+  {
+    "nome": "Sesc São Leopoldo",
+    "endereco": "Rua Marquês do Herval, 784 - Centro - São Leopoldo/Rio Grande do Sul - 93010-200",
+    "telefone": "(51) 3592-2129",
+    "email": "uosaoleopoldo@sesc-rs.com.br"
+  },
+  {
+    "nome": "Centro de Atividades de Feira de Santana",
+    "endereco": "Rua Guaratatuba, 345 - Tomba - Feira de Santana/Bahia - 44065-320",
+    "telefone": "(75) 3622-1550",
+    "email": "feira@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Itaqui",
+    "endereco": "Rua Rodrigues Lima, 1119 - Centro - Itaqui/Rio Grande do Sul - 97650-000",
+    "telefone": "(55) 3433.1164",
+    "email": "unidadesescsenacitaqui@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Araranguá",
+    "endereco": "Avenida Sete de Setembro, 755 - Centro - Araranguá/Santa Catarina - 88900-015",
+    "telefone": "(48) 3524-0189",
+    "email": "ararangua@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Palmeira das Missões",
+    "endereco": "Rua Marechal Floriano, 1023 - Centro - Palmeira das Missões/Rio Grande do Sul - 98300-000",
+    "telefone": "(55) 3742.2470",
+    "email": "unidadesescsenacpalmeiradasmissoes@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Engenho de Dentro",
+    "endereco": "Avenida Amaro Cavalcanti, 1661 - Engenho de Dentro - Rio de Janeiro/Rio de Janeiro - 20735-041",
+    "telefone": "(21) 3822-4830",
+    "email": "engdentro.faleconosco@sescrio.org.br"
+  },
+  {
+    "nome": "Sesc Consolação",
+    "endereco": "Rua Dr. Vila Nova, 245 - Vila Buarque - São Paulo/São Paulo - 01222-020",
+    "telefone": "(11) 3234-3000",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Pinheiros",
+    "endereco": "Rua Paes Leme, 195 - Pinheiros - São Paulo/São Paulo - 05424-150",
+    "telefone": "(11) 3095-9400",
+    "email": "email@pinheiros.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Juiz de Fora",
+    "endereco": "Avenida Barão do Rio Branco, 3090 - Centro - Juiz de Fora/Minas Gerais - 36016-311",
+    "telefone": "(32) 3311-6931",
+    "email": "faleconosco@sescmg.com.br"
+  },
+  {
+    "nome": "Sesc RioMar Kennedy",
+    "endereco": "Avenida Sargento Hermínio Sampaio, nº 3100, Sala A01, Andar L3 - Presidente Kennedy - Fortaleza/Ceará - 60.355-512",
+    "telefone": "(85) 3287-5008",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Catanduva",
+    "endereco": "Praça Felício Tonello, 228 - Centro - Catanduva/São Paulo - 15801-321",
+    "telefone": "(17) 3524-9200",
+    "email": "email@catanduva.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Ler Vilhena",
+    "endereco": "Av. Sabino Bezerra de Queiroz, 3665 - Lote 1, Q. 45 - Setor Jardim América - Vilhena/Rondônia - 78995-000",
+    "telefone": "(69) 3321-2088",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Balneário",
+    "endereco": "Avenida Constantinopla, s/n - em frente ao conjunto Campos Elíseos - Planalto - Manaus/Amazonas - 69045-000",
+    "telefone": "(92) 3656-2399",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Ingleses",
+    "endereco": "Rodovia SC 403, 6.375 (dentro do supermercado Angeloni - Loja 6, 1° piso) - Ingleses - Florianópolis/Santa Catarina - 88058-001",
+    "telefone": "(48) 3266-8429",
+    "email": "ingleses@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Paraíso do Tocantins",
+    "endereco": "Av. Presidente Medici, Qd. 01, Lts. 1 a 10, 23 a 32 - Setor Jardim Paulista - Paraíso/Tocantins - 77600-000",
+    "telefone": "(63) 3602-4793",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Guarabira",
+    "endereco": "Rua Cel. José Maurício da Costa, 290 - São José - Guarabira/Paraíba - 58200-000",
+    "telefone": "(83) 3271-1601",
+    "email": "sescguarabira@sescpb.com.br"
+  },
+  {
+    "nome": "Sesc Jaraguá do Sul",
+    "endereco": "Jorge Czerniewicz,633 - Czerniewicz - Jaragua Do Sul/Santa Catarina - 89255-000",
+    "telefone": "(47) 3275-7800",
+    "email": "jaraguadosul@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Rio Preto",
+    "endereco": "Avenida Francisco das Chagas Oliveira, 1333 - Chácara Municipal - São José do Rio Preto/São Paulo - 15090-190",
+    "telefone": "(17) 3216-9300",
+    "email": "email@riopreto.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Casa do Artesão",
+    "endereco": "Rua 13 de junho, 315 - Porto - Cuiabá/Mato Grosso - 78020-300",
+    "telefone": "(65) 3611-0500",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Sabor e Arte",
+    "endereco": "Av. Afonso Pena, 3469 - Jardim dos Estados - Campo Grande/Mato Grosso do Sul - 79002-072",
+    "telefone": "(67) 3311-4300",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Centro Educacional de Parnaíba",
+    "endereco": "Av. Nações Unidas, 580 - Centro - Parnaíba/Piauí - 64200-040",
+    "telefone": "(86) 3315 1765",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Palhoça",
+    "endereco": "Rua João Pereira dos Santos, 303 - Ponte do Imaruim - Palhoça/Santa Catarina - 88130-475",
+    "telefone": "(48) 3341-7901",
+    "email": "palhoca@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Caicó",
+    "endereco": "Rua Washington Luiz, 55 - Boa Passagem - Caicó/Rio Grande do Norte - 59300-000",
+    "telefone": "(84) 3421-2337",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Vitória",
+    "endereco": "Praça Misael Pena, 54 - - Vitória/Espírito Santo - 29052-270",
+    "telefone": "(27) 3232-3100",
+    "email": "protocolo@es.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Ler Samambaia",
+    "endereco": "Quadra 101, Conjunto 1 Lote 1 - - Samamabaia/Distrito Federal - n/a",
+    "telefone": "(61) 3357-8176",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Joinville",
+    "endereco": "Rua Itaiópolis, 470 - América - Joinville/Santa Catarina - 89204-100",
+    "telefone": "(47) 3441-3300",
+    "email": "joinville@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Concórdia",
+    "endereco": "Rua Romano Anselmo, 620 - Centro - Concórdia/Santa Catarina - 89700-095",
+    "telefone": "(49) 3442-0303",
+    "email": "concordia@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Castanhal",
+    "endereco": "Av. Barão do Rio Branco, 10 - Nova Olinda - Castanhal/Pará - 68743 - 000",
+    "telefone": "(91) 3271-1567",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro Educacional de Teresina",
+    "endereco": "Rua Santa Catarina, 285 - Frei Serafim - Teresina/Piauí - 64.001-530",
+    "telefone": "(86) 3230-9976",
+    "email": "comunicação@pi.sesc.com"
+  },
+  {
+    "nome": "Sesc Blumenau",
+    "endereco": "Rua Dr. Amadeu da Luz, 165 - Centro - Blumenau/Santa Catarina - 89010-160",
+    "telefone": "(47) 3322-5261",
+    "email": "blumenau@sesc-sc.com.br"
+  },
+  {
+    "nome": "Escola Sesc",
+    "endereco": "Rua Jovino Dinoá, 4311 - Beirol - Macapá/Amapá - 68902-030",
+    "telefone": "(96) 3241-4440",
+    "email": "ascom@sescamapa.com.br"
+  },
+  {
+    "nome": "Sesc Cajazeiras",
+    "endereco": "Rua Vitória Bezerra, s/n - São Francisco - Cajazeiras/Paraíba - 58900-000",
+    "telefone": "(83) 3237-5253",
+    "email": "sesc@sescpb.com.br"
+  },
+  {
+    "nome": "Sesc Ijuí",
+    "endereco": "Rua Crisanto Leite, 202 - Centro - Ijui/Rio Grande do Sul - 98700-000",
+    "telefone": "(55) 3332-7511",
+    "email": "uoijui@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Comunidade",
+    "endereco": "Av. Tietê, 560, Qd. 30A, Lote 01 - Setor Araguaína Sul - Araguaína/Tocantins - 77826-120",
+    "telefone": "(63) 3416-0160",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Ler Vilhena",
+    "endereco": "Av. Sabino Bezerra de Queiroz, 3665 - Lote 1, Q. 45 - Setor Jardim América - Vilhena/Rondônia - 78995-000",
+    "telefone": "(69) 3321-2088",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Santa Maria",
+    "endereco": "Av. Itaimbé, 66 - Centro - Santa Maria/Rio Grande do Sul - 97045-260",
+    "telefone": "(55) 3223-2288",
+    "email": "uosantamaria@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Balneário (fechado temporariamente)",
+    "endereco": "Rod. Bonito/Aquidauana, KM 10 - Zona Rural - Bonito/Mato Grosso do Sul - 79.290-000",
+    "telefone": "(67) 3255-1700",
+    "email": "sescbonito@sescms.com.br"
+  },
+  {
+    "nome": "Sesc Floriano",
+    "endereco": "Rua João Gonçalves Filho - Tiberao - Floriano/Piauí - 64800-000",
+    "telefone": "(86) 3515-6204",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Nova Iguaçu",
+    "endereco": "Rua Dom Adriano Hipólito, 10 - Moquetá - Nova Iguaçu/Rio de Janeiro - 26285-330",
+    "telefone": "(21) 2797-3001",
+    "email": "sescnovaiguacu@sescrio.org.br"
+  },
+  {
+    "nome": "Sesc Juazeiro do Norte",
+    "endereco": "Rua da Matriz, 227 - Centro - Juazeiro/Ceará - 63010-040",
+    "telefone": "n/a",
+    "email": "elanebarbosa@sesc-ce.com.br / marcelobraga@sesc-ce.com.br"
+  },
+  {
+    "nome": "Sesc Santo Amaro",
+    "endereco": "Rua Amador Bueno, 505 - Santo Amaro - São Paulo/São Paulo - 04752-005",
+    "telefone": "(11) 5541-4000",
+    "email": "email@santoamaro.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Juiz de Fora",
+    "endereco": "Avenida Barão do Rio Branco, 3090 - Centro - Juiz de Fora/Minas Gerais - 36016-311",
+    "telefone": "(32) 3311-6931",
+    "email": "faleconosco@sescmg.com.br"
+  },
+  {
+    "nome": "Sesc Odontologia Tirol",
+    "endereco": "Av. Campos Sales, 671 Esquina com a Rua Açu - Tirol - Natal/Rio Grande do Norte - 59020-300",
+    "telefone": "(84) 3222-5944",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc União da Vitória",
+    "endereco": "Rua Valentin Varacoski, 185 - Centro - União da Vitória/Paraná - 84600-110",
+    "telefone": "(42) 3903-3800",
+    "email": "sac.uvitoria@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Casa do Artesão",
+    "endereco": "Rua 13 de junho, 315 - Porto - Cuiabá/Mato Grosso - 78020-300",
+    "telefone": "(65) 3611-0500",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Itumbiara",
+    "endereco": "Rua Severiano de Paula, Qd. 02 Lt. 17 - Setor Bela Vista - Itumbiara/Goiás - 75533-260",
+    "telefone": "(64) 3430-5501",
+    "email": "faleconosco@sescgo.com.br"
+  },
+  {
+    "nome": "Sesc Ler Piripiri",
+    "endereco": "Rua 228, R. Gerônimo Bezerra, 172 - Floresta - Piripiri/Piauí - n/a",
+    "telefone": "(86) 3276 4156",
+    "email": "n/a"
+  },
+  {
+    "nome": "Academia Jardim Atlântico",
+    "endereco": "Avenida Marinheiro Max Schramm, 3.450 (dentro do supermercado Angeloni) - Jardim Atlântico - Florianópolis/Santa Catarina - 88095-001",
+    "telefone": "(48) 3249-9044",
+    "email": "jardimatlantico@sesc-sc.com.br"
+  },
+  {
+    "nome": "Centro de Atividades de Sesc Linhares",
+    "endereco": "Rua Augusto Calmon, 1907 - Colina - Linhares/Espírito Santo - 29900-396",
+    "telefone": "27 3264-5820",
+    "email": "sesccal@es.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Ler Indiaroba",
+    "endereco": "Rod. Luiz Eduardo Magalhães, SE 100 - Linha Verde - Indiaroba/Sergipe - 49.250-000",
+    "telefone": "(79) 3543 1722",
+    "email": "contato@se.sesc.com.br"
+  },
+  {
+    "nome": "Complexo Esportivo Aquidabã",
+    "endereco": "Avenida Presidente Castelo Branco, 336 - Aquidabã - Salvador/Bahia - 40025-390",
+    "telefone": "(71) 3254-3958",
+    "email": "aquidaba@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Açude Velho",
+    "endereco": "Rua Paulo de Frontim, 168 - Centro - Campina Grande/Paraíba - 58400-310",
+    "telefone": "(83) 3337-4361",
+    "email": "sesc@sescpb.com.br"
+  },
+  {
+    "nome": "Hotel Sesc Nogueira",
+    "endereco": "Estrada do Calembe, S/N - Nogueira - Petrópolis/Rio de Janeiro - 25730-360",
+    "telefone": "(24) 2236-1150",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro de Atividades Sesc Palmas",
+    "endereco": "Quadra 502 Norte, Av. LO 16, Lote 21-A - Plano Diretor Norte - Palmas/Tocantins - 77006-562",
+    "telefone": "(63) 3212-9900",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Joaçaba",
+    "endereco": "Rua Getúlio Vargas, 285 - Centro - Joacaba/Santa Catarina - 89600-000",
+    "telefone": "(49) 3521-2379",
+    "email": "faleconosco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Centro de Esporte e Lazer Sesc Araguaína",
+    "endereco": "Avenida Tocantins, 1031 - Centro - Araguaína/Tocantins - 77818-550",
+    "telefone": "(63) 3415-3938",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro Educacional Sesc Ibiapina",
+    "endereco": "Avenida Deputado Álvaro Soares, s/n - Centro - Ibiapina/Ceará - 62.360-000",
+    "telefone": "(88) 3653-1990",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Caldas Novas",
+    "endereco": "Avenida Ministro Elias Bufaiçal, no 600 – Turista I - Bairro do Turista I - Caldas Novas/Goiás - 75690-000",
+    "telefone": "",
+    "email": ""
+  },
+  {
+    "nome": "Sesc Centro Histórico",
+    "endereco": "Rua Vigário José Inácio, 7 - Porto Alegre - Porto Alegre/Rio Grande do Sul - 90020-110",
+    "telefone": "(51) 3286-6868",
+    "email": "uocentrohistorico@sesc-rs.com.br"
+  },
+  {
+    "nome": "Centro de Atividades de Feira de Santana",
+    "endereco": "Rua Guaratatuba, 345 - Tomba - Feira de Santana/Bahia - 44065-320",
+    "telefone": "(75) 3622-1550",
+    "email": "feira@sescbahia.com.br"
+  },
+  {
+    "nome": "Hotel Sesc Venda Nova",
+    "endereco": "Rua Maria Borboleta, s/nº / Rua Dr. José Féliz Martins/ 1.246 - Mantiqueira (portaria 2) - Novo Letícia - Belo Horizonte/Minas Gerais - 31640-120",
+    "telefone": "(31) 3048-7401",
+    "email": "reservasvendanova@sescmg.com.br"
+  },
+  {
+    "nome": "Sesc Presidente Prudente",
+    "endereco": "Rua Alberto Peters, 111 - Jardim das Rosas - Presidente Prudente/São Paulo - 9060-310",
+    "telefone": "(18) 3226-0400",
+    "email": "email@prudente.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Santa Maria",
+    "endereco": "Av. Itaimbé, 66 - Centro - Santa Maria/Rio Grande do Sul - 97045-260",
+    "telefone": "(55) 3223-2288",
+    "email": "uosantamaria@sesc-rs.com.br"
+  },
+  {
+    "nome": "Centro de Atividades Sesc Nazaré",
+    "endereco": "Av. Joana Angélica, 1541 - Nazaré - Salvador/Bahia - 40050-001",
+    "telefone": "(71) 3254-3915",
+    "email": "nazare@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Centro de Esporte e Lazer de Cariacica",
+    "endereco": "Rua Manoel Freire Correia, 355 - Santa Bárbara - Cariacica/Espírito Santo - 29145-210",
+    "telefone": "27 3246-1300",
+    "email": "sesccelc@es.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Arcoverde",
+    "endereco": "Rua Capitão Arlindo Pacheco, 364 - Centro - Arcoverde/Pernambuco - n/a",
+    "telefone": "(87) 3821-0864",
+    "email": "sescarcoverde@sescpe.com.br"
+  },
+  {
+    "nome": "Sesc Guará",
+    "endereco": "QE 04, Área Especial -  Guará I - Guará/Distrito Federal - 71010-633",
+    "telefone": "(61) 3383-9101",
+    "email": "sac@sescdf.com.br"
+  },
+  {
+    "nome": "Sesc Piedade",
+    "endereco": "Rua Goiana, s/n - Piedade - Jaboatão dos Guararapes/Pernambuco - 54430-001",
+    "telefone": "(81) 3361-0097",
+    "email": "sescpiedade@sescpe.com.br"
+  },
+  {
+    "nome": "Sesc Santana",
+    "endereco": "Avenida Luiz Dumont Villares, 579 - Santana - São Paulo/São Paulo - 02085-100",
+    "telefone": "(11) 2971-8700",
+    "email": "email@santana.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Bagé",
+    "endereco": "Rua Barão do Triunfo, 1280 - Menino de Deus - Porto Alegre/Rio Grande do Sul - 90130-101",
+    "telefone": "",
+    "email": "uobage@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Escola",
+    "endereco": "Rua Cônego Pereira Mendes, 22 - Dom Aquino - Cuiabá/Mato Grosso - 78015-110",
+    "telefone": "(65) 3611-2300",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Cidade Alta",
+    "endereco": "Rua Coronel Bezerra, 33 - Cidade Alta - Natal/Rio Grande do Norte - 59025-070",
+    "telefone": "(84) 3133-0360",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Centro João Pessoa",
+    "endereco": "Rua Desembargador Souto Maior, 281 - Centro - João Pessoa/Paraíba - 58013-190",
+    "telefone": "(83) 3208-3100",
+    "email": "sesc@sescpb.com.br"
+  },
+  {
+    "nome": "Sesc Crato",
+    "endereco": "Rua André Cartaxo, 443 - Palmeiral - Crato/Ceará - 63100-555",
+    "telefone": "n/a",
+    "email": "hpereira@sesc-ce.com.br / marcelobraga@sesc-ce.com.br"
+  },
+  {
+    "nome": "Sesc Pato Branco",
+    "endereco": "Avenida Tupi, 405 - Trevo Patinhos - Pato Branco/Paraná - 85504-000",
+    "telefone": "(46) 3220-1750",
+    "email": "sac.pbranco@sescpr.com.br"
+  },
+  {
+    "nome": "Centro Educacional Sesc São Francisco do Pará",
+    "endereco": "Rodovia PA 320, Km 19 - Lote Agrícola, 11 - São Francisco do Pará/Pará - 68748-000",
+    "telefone": "(91) 3774-1233",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Norte e Sul",
+    "endereco": "R. dos Mascarenhas, 104 - Joquei Clube - Campo Grande/Mato Grosso do Sul - 79005-500",
+    "telefone": "(67) 3311-4300",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Bom Retiro",
+    "endereco": "Alameda Nothmann, 185 - Bom Retiro - São Paulo/São Paulo - 01216-000",
+    "telefone": "(11) 3332-3600",
+    "email": "email@bomretiro.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Erechim",
+    "endereco": "Rua Portugal, 490 - Centro - Erechim/Rio Grande do Sul - 99700-000",
+    "telefone": "(54) 3522-1309",
+    "email": "uoerechim@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Ler Indiaroba",
+    "endereco": "Rod. Luiz Eduardo Magalhães, SE 100 - Linha Verde - Indiaroba/Sergipe - 49.250-000",
+    "telefone": "(79) 3543 1722",
+    "email": "contato@se.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Poço",
+    "endereco": "Rua Pedro Paulino, 40 - Poço - Maceió/Alagoas - 57025-340",
+    "telefone": "(82) 2123-2440 | 0800 284 2440",
+    "email": "duvidas@sescalagoas.com.br"
+  },
+  {
+    "nome": "Sesc Birigui",
+    "endereco": "Rua Manoel Domingos Ventura, 121 - Vila Xavier - Birigui/São Paulo - 16203-085",
+    "telefone": "(18) 3649-4730",
+    "email": "email@birigui.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc RioMar Kennedy",
+    "endereco": "Avenida Sargento Hermínio Sampaio, nº 3100, Sala A01, Andar L3 - Presidente Kennedy - Fortaleza/Ceará - 60.355-512",
+    "telefone": "(85) 3287-5008",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Umuarama",
+    "endereco": "Rua Domingos Gonçalves Paula, 2700 - Zona V - Umuarama/Paraná - 87504-190",
+    "telefone": "(44) 36238050",
+    "email": "sac.umuarama@sescpr.com.br"
+  },
+  {
+    "nome": "Escola de Educ. Inf. e Ens. Fundamental Sesc Sobral",
+    "endereco": "Rua Dom Lourenço, nº 855 - Junco Campo dos Velhos - Sobral/Ceará - 62.030-190",
+    "telefone": "(88) 3611-0827",
+    "email": "n/a"
+  },
+  {
+    "nome": "Núcleo de Saúde do Comércio (Nusoc)",
+    "endereco": "Avenida Dom Pedro I, 576 - Tambiá - João Pessoa/Paraíba - 58020-538",
+    "telefone": "(83) 3612-7600",
+    "email": "nusoc@sescpb.com.br"
+  },
+  {
+    "nome": "Sesc São Joaquim",
+    "endereco": "Rua Marcos Batista, 1.040 - Centro - São Joaquim/Santa Catarina - 88600-970",
+    "telefone": "(49) 3233-4061",
+    "email": "saojoaquim@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Canoas",
+    "endereco": "Av. Guilherme Schell, 5340 - Centro - Canoas/Rio Grande do Sul - 92310-022",
+    "telefone": "(51) 3456-2013",
+    "email": "uocanoas@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Caruaru",
+    "endereco": "Rua Rui Limeira Rosal, s/n - Petrópolis - Caruaru/Pernambuco - 55030-000",
+    "telefone": "(81) 3721-3967",
+    "email": "sesccaruaru@sescpe.com.br"
+  },
+  {
+    "nome": "Sesc Interlagos",
+    "endereco": "Avenida Manuel Alves Soares, 1100 - Parque Colonial - São Paulo/São Paulo - 04821-270",
+    "telefone": "(11) 5662-9500",
+    "email": "email@interlagos.sescsp.org.br"
+  },
+  {
+    "nome": "Estância Ecológica Sesc Tepequém",
+    "endereco": "Gleba Tepequém – s/n - Vila do Paiva - Amajari/Roraima - 69343-000",
+    "telefone": "",
+    "email": "recepcao@sescrr.com.br"
+  },
+  {
+    "nome": "Centro de Turismo Social e Lazer de Domingos Martins",
+    "endereco": "R. Ayrton Senna, s/nº - Distrito de Soído - Domingos Martins/Espírito Santo - 29260-000",
+    "telefone": "(27) 3268-5400",
+    "email": "reservasdomingosmartins@es.sesc.com.br"
+  },
+  {
+    "nome": "Restaurante Padre Eutíquio",
+    "endereco": "Rua Padre Eutíquio, 1405 - Batista Campos - Belém/Pará - 66023-710",
+    "telefone": "(91) 3252-0227",
+    "email": "sesc@pa.sesc.com.br"
+  },
+  {
+    "nome": "Centro de Esporte e Lazer Sesc Araguaína",
+    "endereco": "Avenida Tocantins, 1031 - Centro - Araguaína/Tocantins - 77818-550",
+    "telefone": "(63) 3415-3938",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Rio Negro",
+    "endereco": "Rua Marçal José Pereira, 110 - Estação Nova - Rio Negro/Paraná - 83880-000",
+    "telefone": "(47) 36418550",
+    "email": "sac.rionegro@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Ler Parintins",
+    "endereco": "Av. Massaranduba, s/n - Djard Vieira - Parintins/Amazonas - 69152-320",
+    "telefone": "(92) 3533-3565",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Laguna",
+    "endereco": "Rua Tenente Bessa, 211 - Centro - Laguna/Santa Catarina - 88790-000",
+    "telefone": "(48) 3644-0152",
+    "email": "laguna@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Campestre",
+    "endereco": "Rodovia BR 364 , Km 12 - Saída para Cuiabá - Campestre - Porto Velho/Rondônia - 78912-190",
+    "telefone": "(69) 3225-0330",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Socorro",
+    "endereco": "Av. Perimetral, B,250 - Conjunto Marcos Freire II - Nossa Senhora do Socorro/Sergipe - 49.160-000",
+    "telefone": "(79) 3279 3801",
+    "email": "contato@se.sesc.com.br"
+  },
+  {
+    "nome": "Centro Educacional Sesc Ibiapina",
+    "endereco": "Avenida Deputado Álvaro Soares, s/n - Centro - Ibiapina/Ceará - 62.360-000",
+    "telefone": "(88) 3653-1990",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Curitibanos",
+    "endereco": "Rua Francisco Rauen, nº 675 - Nossa Senhora Aparecida - Curitibanos/Santa Catarina - 89520-000",
+    "telefone": "(49) 3245-1858",
+    "email": "curitibanos@sesc-sc.com.br"
+  },
+  {
+    "nome": "Centro de Atividades de Feira de Santana",
+    "endereco": "Rua Guaratuba, 345 - Tomba - Feira de Santana/Bahia - 44090-168",
+    "telefone": "(75) 3622-1550",
+    "email": "feira@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Comunidade Joinville",
+    "endereco": "Rua Alwin Pasold, s/nº - Vila Nova - Joinville/Santa Catarina - 89237-410",
+    "telefone": "(47) 3434-6991",
+    "email": "faleconosco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Camillo Boni",
+    "endereco": "Av. Afonso Pena, 3469 - Jardim dos Estados - Campo Grande/Mato Grosso do Sul - 79002-072",
+    "telefone": "(67) 3311-4300",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Belenzinho",
+    "endereco": "Rua Padre Adelino, 1.000 - Belenzinho - São Paulo/São Paulo - 03303-000",
+    "telefone": "(11) 2076-9700",
+    "email": "email@belenzinho.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Barra Mansa",
+    "endereco": "Avenida Tenente José Eduardo, 560 - Ano Bom - Barra Mansa/Rio de Janeiro - 27323-240",
+    "telefone": "(24) 3324-2807",
+    "email": "sescbarramansa@sescrio.com.br"
+  },
+  {
+    "nome": "Sesc Ler Iracema",
+    "endereco": "Rua Princesa Isabel, s/n - Centro - Iracema/Roraima - 69348-000",
+    "telefone": "(95) 3543-1517",
+    "email": "ibezerra@sescrr.com.br"
+  },
+  {
+    "nome": "Sesc Arapiraca",
+    "endereco": "Rua Manoel Cazuza, S/N - Santa Edwiges - Arapiraca/Alagoas - 57310-260",
+    "telefone": "(82) 3482-2405",
+    "email": "duvidas@sescalagoas.com.br"
+  },
+  {
+    "nome": "Sesc Santa Catarina – Departamento Regional",
+    "endereco": "Rua Felipe Schmidt, 785 - Centro - Florianópolis/Santa Catarina - 88010-002",
+    "telefone": "(48) 3251-4802",
+    "email": "faleconosco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Hotel Sesc Alpina",
+    "endereco": "Avenida Delfim Moreira, 749 - Várzea - Teresópolis/Rio de Janeiro - 25953-237",
+    "telefone": "(21) 2743-6921",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Protásio Alves",
+    "endereco": "Av. Protásio Alves, 6220 - Petrópolis - Porto Alegre/Rio Grande do Sul - 91310-001",
+    "telefone": "(51) 3382-8800",
+    "email": "uoprotasioalves@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Blumenau",
+    "endereco": "Rua Dr. Amadeu da Luz, 165 - Centro - Blumenau/Santa Catarina - 89010-160",
+    "telefone": "(47) 3322-5261",
+    "email": "blumenau@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Escola Horto",
+    "endereco": "Rua Anhanduí, 200 - Centro - Campo Grande/Mato Grosso do Sul - 79002-072",
+    "telefone": "(67) 3311-4300",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc São José dos Campos",
+    "endereco": "Avenida Adhemar de Barros, 999 - Jardim São Dimas - São José dos Campos/São Paulo - 12245-010",
+    "telefone": "(12) 3904-2000",
+    "email": "email@sjcampos.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Avenida Paulista",
+    "endereco": "Avenida Paulista, 119 - Bela Vista - São Paulo/São Paulo - 01311-903",
+    "telefone": "(11) 3170-0800",
+    "email": "email@avenidapaulista.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Ceilândia",
+    "endereco": "QNN 27, Lote B - n/a - Ceilândia/Distrito Federal - n/a",
+    "telefone": "(61) 3379-9500",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Protásio Alves",
+    "endereco": "Av. Protásio Alves, 6220 - Petrópolis - Porto Alegre/Rio Grande do Sul - 91310-001",
+    "telefone": "(51) 3382-8800",
+    "email": "uoprotasioalves@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Turismo",
+    "endereco": "Av. São Carlos s/n - Jardim Paulista - Olho D'Água/Maranhão - 65.065-420",
+    "telefone": "(98) 3248-8300",
+    "email": ""
+  },
+  {
+    "nome": "Sesc Santos",
+    "endereco": "Rua Conselheiro Ribas, 136 - Aparecida - Santos/São Paulo - 11040-900",
+    "telefone": "(13) 3278-9800",
+    "email": "email@santos.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Blumenau – Vila Nova",
+    "endereco": "Rua Joinville, 524 - Vila Nova - Blumenau/Santa Catarina - 89035-200",
+    "telefone": "(47) 3308-7057",
+    "email": "vilanova@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Jaraguá",
+    "endereco": "Rua Tabelião Luiz Vieira, nº 67 - Jaraguá - Maceió/Alagoas - 57025-340",
+    "telefone": "(82) 3201-2590",
+    "email": "duvidas@sescalagoas.com.br"
+  },
+  {
+    "nome": "Sesc Ivaipora",
+    "endereco": "Avenida Aparício Bittencourt, 960 - Jardim Imperial - Ivaiporã/Paraná - 86870-000",
+    "telefone": "(43) 3472-0607",
+    "email": "sac.ivaipora@sescpr.com.br"
+  },
+  {
+    "nome": "Centro de Atividades do Parque Moscoso",
+    "endereco": "R. Padre José de Anchieta, nº110 - Parque Moscoso - Vitória/Espírito Santo - n/a",
+    "telefone": "(27) 3194-0300",
+    "email": "protocolo@es.sesc.com.br"
+  },
+  {
+    "nome": "Hotel Sesc Porto Alegre",
+    "endereco": "Av. Protásio Alves, 6220 - Alto Petrópolis - Porto Alegre/Rio Grande do Sul - 91310-002",
+    "telefone": "(51) 3382-8801",
+    "email": "reservasportoalegre@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Governador Valadares",
+    "endereco": "Avenida Veneza, 877 - Grã-Duquesa - Governador Valadares/Minas Gerais - 35057-730",
+    "telefone": "(33) 2102-9800",
+    "email": "faleconosco@sescmg.com.br"
+  },
+  {
+    "nome": "Sesc Vacaria",
+    "endereco": "Av. Moreira Paz, 264 - Centro - Vacaria/Rio Grande do Sul - 95200-000",
+    "telefone": "(54) 3232 8075",
+    "email": "unidadesescsenacvacaria@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Registro",
+    "endereco": "Avenida Prefeito Jonas Banks Leite, 57 - Centro - São Paulo/São Paulo - 11900-000",
+    "telefone": "(13) 3828-4950",
+    "email": "email@registro.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Catanduva",
+    "endereco": "Praça Felício Tonello, 228 - Centro - Catanduva/São Paulo - 15801-321",
+    "telefone": "(17) 3524-9200",
+    "email": "email@catanduva.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Estacao Saudade",
+    "endereco": "Rua Fernandes Pinheiro, 77 - Centro - Ponta Grossa/Paraná - 84010-135",
+    "telefone": "",
+    "email": "sac.estacaosaudade@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Ler Poxoréu",
+    "endereco": "Rua Graciliano Ramos, s/n - Jardim Tropical - Poxoréu/Mato Grosso - 78800-000",
+    "telefone": "(66) 3436-2301",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Ler Paulo Afonso",
+    "endereco": "Rua Verdes Campos, quadra 69-A - BTN 2 - Paulo Afonso/Bahia - 48609-136",
+    "telefone": "(75) 3282-6377",
+    "email": "pauloafonso@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Bom Retiro",
+    "endereco": "Alameda Nothmann, 185 - Bom Retiro - São Paulo/São Paulo - 01216-000",
+    "telefone": "(11) 3332-3600",
+    "email": "email@bomretiro.sescsp.org.br"
+  },
+  {
+    "nome": "Centro de Turismo Social e Lazer de Domingos Martins",
+    "endereco": "R. Ayrton Senna, s/nº - Distrito de Soído - Domingos Martins/Espírito Santo - 29260-000",
+    "telefone": "(27) 3268-5400",
+    "email": "reservasdomingosmartins@es.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Campestre",
+    "endereco": "Rodovia BR 364 , Km 12 - Saída para Cuiabá - Campestre - Porto Velho/Rondônia - 78912-190",
+    "telefone": "(69) 3225-0330",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Petrolina",
+    "endereco": "Rua Dr. Pacífico da Luz, 618 - Centro - Petrolina/Pernambuco - n/a",
+    "telefone": "(87) 3866-7474",
+    "email": "sescpetrolina@sescpe.com.br"
+  },
+  {
+    "nome": "Sesc Venâncio Aires",
+    "endereco": "Av. Jacob Becker, 1676 - Centro - Venâncio Aires/Rio Grande do Sul - 95800-000",
+    "telefone": "(51) 3741-5668",
+    "email": "uovenancioaires@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Comércio Restaurante",
+    "endereco": "Rua Torquato Bahia, 3, Edif. Quirino José Gomes, 1º andar - Comércio - Salvador/Bahia - 40015-110",
+    "telefone": "(71) 3254-3925",
+    "email": "comercio@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Santo Ângelo",
+    "endereco": "Rua 15 de Novembro, 1500 - Centro - Santo Ângelo/Rio Grande do Sul - 98801-613",
+    "telefone": "(55) 3312-4411",
+    "email": "uosantoangelo@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Ler Rorainópolis",
+    "endereco": "Rua Ayrton Senna, s/n - Campolândia - Rorainópolis/Roraima - 69373-000",
+    "telefone": "(95) 3212-2800",
+    "email": "ibezerra@sescrr.com.br"
+  },
+  {
+    "nome": "Sesc Vila Velha",
+    "endereco": "Rua 7 de Setembro, 275 - Xanxere - Vila Velha/Espírito Santo - 29100-301",
+    "telefone": "(27) 3149-0150",
+    "email": "sesccavv@es.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Paracatu",
+    "endereco": "Rua Euridamas Avelino Barros, 347 - Lavrado - Paracatu/Minas Gerais - 38600-000",
+    "telefone": "(38) 3311-3800",
+    "email": "faleconosco@sescmg.com.br"
+  },
+  {
+    "nome": "Sesc Lages",
+    "endereco": "Av. Dom Pedro II, 1693 - Universitário - Lages/Santa Catarina - 88509-001",
+    "telefone": "0800 645 5454",
+    "email": "lages@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Canoas",
+    "endereco": "Av. Guilherme Schell, 5340 - Centro - Canoas/Rio Grande do Sul - 92310-022",
+    "telefone": "(51) 3456-2013",
+    "email": "uocanoas@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Santo André",
+    "endereco": "Rua Tamarutaca, 302 - Vila Guiomar - Santo André/São Paulo - 09071-130",
+    "telefone": "(11) 4469-1200",
+    "email": "email@santoandre.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Ler São Lourenço da Mata",
+    "endereco": "Avenida das Pêras, 56 - Tiúma - São Lourenço da Mata/Pernambuco - 54735-320",
+    "telefone": "(81) 3525-9033",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc São José dos Pinhais",
+    "endereco": "Av. Rocha Pombo, 2864 - Águas Belas - São José dos Pinhais/Paraná - 83005-280",
+    "telefone": "(41) 35865250",
+    "email": "sac.saojose@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Ler Belo Jardim",
+    "endereco": "Rua Pedro Leite Cavalcante, s/n - Cohab II - Belo Jardim/Pernambuco - 55152-655",
+    "telefone": "(81) 3726-1576",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Paraíso do Tocantins",
+    "endereco": "Av. Presidente Medici, Qd. 01, Lts. 1 a 10, 23 a 32 - Setor Jardim Paulista - Paraíso/Tocantins - 77600-000",
+    "telefone": "(63) 3602-4793",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Guará",
+    "endereco": "QE 04, Área Especial -  Guará I - Guará/Distrito Federal - 71010-633",
+    "telefone": "(61) 3383-9101",
+    "email": "sac@sescdf.com.br"
+  },
+  {
+    "nome": "Sesc Paço da Liberdade",
+    "endereco": "Praca Generoso Marques,189 - Centro - Curitiba/Paraná - 80020-230",
+    "telefone": "(41) 3234-4200",
+    "email": "sac.pacodaliberdade@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Paranavaí",
+    "endereco": "Rua Edson Martins, 1760 - Jardim Ouro Branco - Paranavaí/Paraná - 87704-120",
+    "telefone": "(44) 3423-3132",
+    "email": "sac.paranavai@sescpr.com.br"
+  },
+  {
+    "nome": "Academia Biguaçu",
+    "endereco": "Rua Coronel Teixeira de Oliveira, 128 (dentro do supermercado Angeloni, 2º andar) - Centro - Biguaçu/Santa Catarina - 88160-130",
+    "telefone": "(48) 3285-2016",
+    "email": "biguacu@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Rio Branco",
+    "endereco": "Avenida Rio Branco, 375 - Centro - Natal/Rio Grande do Norte - 59025-002",
+    "telefone": "(84) 3216-2400",
+    "email": ""
+  },
+  {
+    "nome": "Centro de Turismo e Lazer Sesc Cabo Branco",
+    "endereco": "Avenida Cabo Branco, 2.788 - Cabo Branco - João Pessoa/Paraíba - 58045-010",
+    "telefone": "(83) 3208-3100",
+    "email": "sesc@sescpb.com.br"
+  },
+  {
+    "nome": "Sesc Centro",
+    "endereco": "Rua Senador Rollemberg, 301 - São José - Aracaju/Sergipe - 49.015-120",
+    "telefone": "(79) 3216 2727",
+    "email": "contato@se.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Ler Bodocó",
+    "endereco": "Rua Luzia Couto Lóssio de Alencar, s/n - São Francisco - Bodocó/Pernambuco - 56220-000",
+    "telefone": "(87) 3878-1724",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sede Administrativa",
+    "endereco": "Rua Araújo Filho, Nº 947 - Centro - Boa Vista/Roraima - 69301-090",
+    "telefone": "(95) 3212-2800",
+    "email": "gabdiretor@sescrr.com.br"
+  },
+  {
+    "nome": "Sesc Maringá",
+    "endereco": "Av. Gov. Bentro Munhoz da Rocha Netto, 857 - Zona 07 - Maringá/Paraná - 87020-020",
+    "telefone": "(44) 3262-3232",
+    "email": "maringa@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Uberlândia",
+    "endereco": "Rua Benjamim Constant, 844 - Aparecida - Uberlândia/Minas Gerais - 38400-678",
+    "telefone": "(34) 3304-1200",
+    "email": "faleconosco@sescmg.com.br"
+  },
+  {
+    "nome": "Sesc Bagé",
+    "endereco": "Rua Barão do Triunfo, 1280 - Menino de Deus - Porto Alegre/Rio Grande do Sul - 90130-101",
+    "telefone": "",
+    "email": "uobage@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Sete Lagoas",
+    "endereco": "Rua Francisco Vicente, 23 - Papavento - Sete Lagoas/Minas Gerais - 35700-475",
+    "telefone": "(31) 2106-8250",
+    "email": "faleconosco@sescmg.com.br"
+  },
+  {
+    "nome": "Sesc Guarabira",
+    "endereco": "Rua Cel. José Maurício da Costa, 290 - São José - Guarabira/Paraíba - 58200-000",
+    "telefone": "(83) 3271-1601",
+    "email": "sescguarabira@sescpb.com.br"
+  },
+  {
+    "nome": "Sesc Colatina",
+    "endereco": "Rua Clothildes Guimarães Tozzi, 100 - Centro - Colatina/Espírito Santo -",
+    "telefone": "27 3770-3300",
+    "email": "claudia.tonon@es.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Ler Tefé",
+    "endereco": "Estrada do Aeroporto, 1950 - São Raimundo - Tefé/Amazonas - 69470-000",
+    "telefone": "(97) 3343-4561",
+    "email": "biblioteca.sesc@sesc-am.com.br"
+  },
+  {
+    "nome": "Sesc Redenção",
+    "endereco": "Av. João Pessoa, 835 - Farroupilha - Porto Alegre/Rio Grande do Sul - 90040-000",
+    "telefone": "(51) 3226-0631",
+    "email": "uoredencao@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Chapecó",
+    "endereco": "Rua Brasília, 475-D - Jardim Itália - Chapeco/Santa Catarina - 89802-330",
+    "telefone": "(49) 3319-9100",
+    "email": "chapeco@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Birigui",
+    "endereco": "Rua Manoel Domingos Ventura, 121 - Vila Xavier - Birigui/São Paulo - 16203-085",
+    "telefone": "(18) 3649-4730",
+    "email": "email@birigui.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Santarém",
+    "endereco": "Rua Floriano Peixoto, 535 - Centro - Santarém/Pará - 68005-060",
+    "telefone": "(93) 3522-5126",
+    "email": ""
+  },
+  {
+    "nome": "Sesc Ler Canoinhas",
+    "endereco": "Av. Expedicionário, 2100 - Campo Água Verde - Canoinhas/Santa Catarina - 89466-312",
+    "telefone": "(47) 3622-7026",
+    "email": "canoinhas@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Balneário (fechado temporariamente)",
+    "endereco": "Rod. Bonito/Aquidauana, KM 10 - Zona Rural - Bonito/Mato Grosso do Sul - 79.290-000",
+    "telefone": "(67) 3255-1700",
+    "email": "sescbonito@sescms.com.br"
+  },
+  {
+    "nome": "Sesc Mossoró",
+    "endereco": "Rua Dr. João Marcelino, 4.000 - Abolição - Mossoró/Rio Grande do Norte - 59610-200",
+    "telefone": "(84) 3312-9811",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Navegantes",
+    "endereco": "Av. Brasil, 483 - Navegantes - Porto Alegre/Rio Grande do Sul - 90230-060",
+    "telefone": "(51) 3342- 5603",
+    "email": "uonavegantes@sesc-rs.com.br"
+  },
+  {
+    "nome": "Centro Educacional Sesc Cidadania",
+    "endereco": "Rua C197, Esq. Av. C198 e Rua C224 - Jardim América - Goiânia/Goiás - 74270-030",
+    "telefone": "(62) 3250-8036/8037",
+    "email": "faleconosco@sescgo.com.br"
+  },
+  {
+    "nome": "Sesc Ponta Grossa",
+    "endereco": "Rua Theodoro Rosas, 1247 - Centro - Ponta Grossa/Paraná - 84010-180",
+    "telefone": "(42) 3222-5432",
+    "email": "sac.pontagrossa@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Oeiras",
+    "endereco": "Av. Transamazônica, 1600 - Urbano - Oeiras/Piauí - 64500-000",
+    "telefone": "(89) 3462-5700",
+    "email": "sescoeiras@pi.sesc.com.br"
+  },
+  {
+    "nome": "Sesc Itajaí",
+    "endereco": "Rua Almirante Tamandaré, 259 - Centro - Itajaí/Santa Catarina - 88301-430",
+    "telefone": "(47) 3249-3850",
+    "email": "itajai@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Ceilândia",
+    "endereco": "QNN 27, Lote B - n/a - Ceilândia/Distrito Federal - n/a",
+    "telefone": "(61) 3379-9500",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Ribeirão Preto",
+    "endereco": "Rua Tibiriça, 50 - Centro - Ribeirão Preto/São Paulo - 14010-090",
+    "telefone": "(16) 3977-4477",
+    "email": "email@ribeirao.sescsp.org.br"
+  },
+  {
+    "nome": "Escola de Educar Sesc Unid. II",
+    "endereco": "Avenida João Pessoa, nº 5920 - Damas - Fortaleza/Ceará - 60.425-682",
+    "telefone": "(85) 3292-0100",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Três Lagoas",
+    "endereco": "Rua Elmano Soares, 854 - Centro - Três Lagoas/Mato Grosso do Sul - 79601-110",
+    "telefone": "(67) 3919-1900",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Palmeira das Missões",
+    "endereco": "Rua Marechal Floriano, 1023 - Centro - Palmeira das Missões/Rio Grande do Sul - 98300-000",
+    "telefone": "(55) 3742.2470",
+    "email": "unidadesescsenacpalmeiradasmissoes@sesc-rs.com.br"
+  },
+  {
+    "nome": "Hotel Sesc Cacupé",
+    "endereco": "Rodovia Haroldo Soares Glavan, 1.670 - Cacupé - Florianópolis/Santa Catarina - 88050-005",
+    "telefone": "(48) 3231-3205",
+    "email": "hospedagem@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Xanxerê",
+    "endereco": "Rua Cel. Passos Maia, 691 - Centro - Xanxerê/Santa Catarina - 89820-000",
+    "telefone": "(49) 3433 5990",
+    "email": "xanxere@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Jequié",
+    "endereco": "Rua Doutor Nélson Aguiar Ribeiro, 405 - São Judas Tadeu - Jequié/Bahia - 45200-000",
+    "telefone": "(73) 3525-5007",
+    "email": "jequie@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Estação 504 Sul",
+    "endereco": "W3 Sul, Quadra 504/505, Bloco “A” Brasília - - Brasília/Distrito Federal - 70331-515 ",
+    "telefone": "(61) 3217-9123",
+    "email": "sac@sescdf.com.br"
+  },
+  {
+    "nome": "Hotel Sesc Gramado",
+    "endereco": "Av. das Hortências, 4150 - Centro - Gramado/Rio Grande do Sul - 95670-000",
+    "telefone": "(54) 3905-3500",
+    "email": "reservasgramado@sesc-rs.com.br"
+  },
+  {
+    "nome": "Sesc Presidente Prudente",
+    "endereco": "Rua Alberto Peters, 111 - Jardim das Rosas - Presidente Prudente/São Paulo - 9060-310",
+    "telefone": "(18) 3226-0400",
+    "email": "email@prudente.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Paço da Liberdade",
+    "endereco": "Praca Generoso Marques,189 - Centro - Curitiba/Paraná - 80020-230",
+    "telefone": "(41) 3234-4200",
+    "email": "sac.pacodaliberdade@sescpr.com.br"
+  },
+  {
+    "nome": "Hotel Sesc Copacabana",
+    "endereco": "Rua Domingos Ferreira, 160 - Copacabana - Rio de Janeiro/Rio de Janeiro - 22050-010",
+    "telefone": "(21) 2548-1088",
+    "email": "n/a"
+  },
+  {
+    "nome": "Teatro Sesc Senac Pelourinho",
+    "endereco": "Praça José de Alencar, 19 - Centro Histórico de Salvador - Salvador/Bahia - 40025-280",
+    "telefone": "(71) 3324-4520",
+    "email": "teatrosescsenac@sescbahia.com.br"
+  },
+  {
+    "nome": "Centro Educacional Sesc São Gonçalo do Amarante",
+    "endereco": "Rua Filomeno Martins, s/n - Conj. São Gonçalo - São Gonçalo do Amarante/Ceará - n/a",
+    "telefone": "(88) 3315-4462",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro Educacional Sesc Crateús",
+    "endereco": "Rua Padre Cícero, 290 - Fátima I - Crateús/Ceará - 63.700-000",
+    "telefone": "(88) 3691-8000",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc São Joaquim",
+    "endereco": "Rua Marcos Batista, 1.040 - Centro - São Joaquim/Santa Catarina - 88600-970",
+    "telefone": "(49) 3233-4061",
+    "email": "saojoaquim@sesc-sc.com.br"
+  },
+  {
+    "nome": "Sesc Santo Amaro",
+    "endereco": "Rua Amador Bueno, 505 - Santo Amaro - São Paulo/São Paulo - 04752-005",
+    "telefone": "(11) 5541-4000",
+    "email": "email@santoamaro.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Cultura",
+    "endereco": "Av. Afonso Pena, 2270 - Centro - Campo Grande/Mato Grosso do Sul - 79072-444",
+    "telefone": "(67) 3311-4300",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro de Esporte e Lazer Sesc Araguaína",
+    "endereco": "Avenida Tocantins, 1031 - Centro - Araguaína/Tocantins - 77818-550",
+    "telefone": "(63) 3415-3938",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Osasco",
+    "endereco": "Travessa Gilmar de Franca Crispim, 9 - Jardim das Flores - Osasco/São Paulo - 06114-175",
+    "telefone": "(11) 3184-0900",
+    "email": "n/a"
+  },
+  {
+    "nome": "Sesc Pompéia",
+    "endereco": "Rua Clélia, 93 - Pompeia - São Paulo/São Paulo - 05042-000",
+    "telefone": "(11) 3871-7700",
+    "email": "email@pompeia.sescsp.org.br"
+  },
+  {
+    "nome": "Programa Mesa Brasil Sesc",
+    "endereco": "Av. Jequitaia, 123 - Água de Meninos - Salvador/Bahia - 40460-120",
+    "telefone": "(71) 3273-8714",
+    "email": "mesabrasil@sescbahia.com.b"
+  },
+  {
+    "nome": "Parque Sesc Baía das Pedras",
+    "endereco": "Rodovia MT 370 - Km 42 - - Município de Poconé/Mato Grosso - n/a",
+    "telefone": "(65) 3688-2001",
+    "email": "contato@sescpantanal.com.br"
+  },
+  {
+    "nome": "Sesc Cachoeira do Sul",
+    "endereco": "Rua 7 de setembro, 1324 - Centro - Cachoeira do Sul/Rio Grande do Sul - 96508-010",
+    "telefone": "(51) 3722-5795",
+    "email": "uocachoeiradosul@sesc-rs.com.br"
+  },
+  {
+    "nome": "Centro de Atividades Sesc Palmas",
+    "endereco": "Quadra 502 Norte, Av. LO 16, Lote 21-A - Plano Diretor Norte - Palmas/Tocantins - 77006-562",
+    "telefone": "(63) 3212-9900",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro Cultural e Restaurante de Feira de Santana",
+    "endereco": "Praça Carlos Bahia, s/n - Centro - Feira de Santana/Bahia - 44002-772",
+    "telefone": "(75) 3602-0035",
+    "email": "centralfeiracentro@sescbahia.com.br"
+  },
+  {
+    "nome": "Sesc Setor de Indústria",
+    "endereco": "SIA Trecho 4, Lotes 80/90 - - Guará/Distrito Federal -",
+    "telefone": "(61) 3403-9101",
+    "email": ""
+  },
+  {
+    "nome": "Centro Educacional Sesc Inhangapi",
+    "endereco": "Travessa Pio XII, s/n - Vila Nova - Inhangapí/Pará - 68770-000",
+    "telefone": "(91) 3809-1229",
+    "email": "n/a"
+  },
+  {
+    "nome": "CineSesc",
+    "endereco": "Rua Augusta, 2075 - Cerqueira César - São Paulo/São Paulo - 01413-000",
+    "telefone": "(11) 3087-0500",
+    "email": "email@cinesesc.sescsp.org.br"
+  },
+  {
+    "nome": "Sesc Paranaguá",
+    "endereco": "Rua Domingos Peneda, 947 - Estradinha - Paranaguá/Paraná - 83206-350",
+    "telefone": "(41) 34275200",
+    "email": "paranagua@sescpr.com.br"
+  },
+  {
+    "nome": "Sesc Cidade Alta",
+    "endereco": "Rua Coronel Bezerra, 33 - Cidade Alta - Natal/Rio Grande do Norte - 59025-070",
+    "telefone": "(84) 3133-0360",
+    "email": "n/a"
+  },
+  {
+    "nome": "Centro de Turismo Social e Lazer de Praia Formosa",
+    "endereco": "Rodovia do Sol (ES-010), km 35 - Santa Cruz - Aracruz/Espírito Santo - 29196-000",
+    "telefone": "(27) 3250-6999 / 3302-8840",
+    "email": "reservaspraiaformosa@es.sesc.com.br"
+  },
+  {
+    "nome": "Centro de Turismo e Lazer Sesc Cabo Branco",
+    "endereco": "Avenida Cabo Branco, 2.788 - Cabo Branco - João Pessoa/Paraíba - 58045-010",
+    "telefone": "(83) 3208-3100",
+    "email": "sesc@sescpb.com.br"
+  },
+  {
+    "nome": "Sesc Centro de Excelência em Saúde",
+    "endereco": "Rua Viana do Castelo, 490 - São Francisco - Belo Horizonte/Minas Gerais - 31255-160",
+    "telefone": "(31) 3270-8100",
+    "email": "faleconosco@sescmg.com.br"
+  }
+]

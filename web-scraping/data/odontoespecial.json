@@ -1,0 +1,174 @@
+[
+  {
+    "nome": "Odonto Special Balsas",
+    "endereco": "Endereço: R. José Leão, 399 - Centro, Balsas - MA, 65800-000 "
+  },
+  {
+    "nome": "Odonto Special Bom Jesus do Araguaia",
+    "endereco": "Endereço: R. Quatro - Centro, Bom Jesus do Araguaia - MT, 78678-000 "
+  },
+  {
+    "nome": "Av. Presidente Kennedy, 2296 - Centro",
+    "endereco": "Endereço, Av. Presidente Kennedy, 2296 - Centro, Rondonópolis - MT, 78715-201"
+  },
+  {
+    "nome": "Odonto Special Sinop",
+    "endereco": "Endereço: Av. dos Ingás, 3.338 - St. Comercial, Sinop - MT, 78555-002 "
+  },
+  {
+    "nome": "Odonto Special Centro Campo Grande MS",
+    "endereco": "Endereço: R. José Antônio, 1229 - Centro, Campo Grande - MS, 79010-190 "
+  },
+  {
+    "nome": "Odonto Special MS - Mundo Novo",
+    "endereco": "Endereço: Av. Juscelino Kubitscheck, 905 - centro, Mundo Novo - MS, 79980-000 "
+  },
+  {
+    "nome": "Odonto Special Curitiba Batel",
+    "endereco": "Endereço: Av. Visc. de Guarapuava, 5090 - Batel, Curitiba - PR, 80240-010 "
+  },
+  {
+    "nome": "Av. Brasília, 6543 - Novo Mundo",
+    "endereco": "Endereço, Av. Brasília, 6543 - Novo Mundo, Curitiba - PR, 81020-010"
+  },
+  {
+    "nome": "Odonto Special",
+    "endereco": "Endereço: Shopping Downtown - Avenida das Américas, 500 Bloco 9, Sala 109 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-100 "
+  },
+  {
+    "nome": "Odonto Special Candelária",
+    "endereco": "Endereço: Av. Júlio de Castilhos, 807 - Centro, Candelária - RS, 96930-000 "
+  },
+  {
+    "nome": "R. Botafogo, 700 - Menino Deus",
+    "endereco": "Endereço, R. Botafogo, 700 - Menino Deus, Porto Alegre - RS, 90150-050"
+  },
+  {
+    "nome": "Odonto Special Chapecó",
+    "endereco": "Endereço: Av. Cel. Licínio Córdova, 375 - São Cristóvão, Chapecó - SC, 89803-210 "
+  },
+  {
+    "nome": "Odonto Special",
+    "endereco": "Endereço: R. Irmão Joaquim, 114 - Centro, Florianópolis - SC, 88020-620 "
+  },
+  {
+    "nome": "Dentista Ingleses Odonto Special by Sabrina Sato",
+    "endereco": "Endereço: Rod. Armando Calil Bulos, 5405 - Sala 02 - Ingleses Norte, Florianópolis - SC, 88058-001 "
+  },
+  {
+    "nome": "Odonto Special Lages",
+    "endereco": "Endereço: R. Cel. Serafim de Moura, 1 - SOBRELOJA B - Centro, Lages - SC, 88502-185 "
+  },
+  {
+    "nome": "Odonto Special Palhoça",
+    "endereco": "Endereço: R. Caetano Silveira de Matos, 2400 - Centro, Palhoça - SC, 88130-005 "
+  },
+  {
+    "nome": "Odonto Special São José - Dentistas no Kobrasol",
+    "endereco": "Endereço: R: Adhemar da Silva, 235 - loja 03 - Kobrasol, São José - SC, 88101-090 "
+  },
+  {
+    "nome": "Odonto Special Ipanema/MG",
+    "endereco": "Endereço: R. Duque de Caxias, 127 - Centro, Ipanema - MG, 36950-000 "
+  },
+  {
+    "nome": "R. Graciliano Ramos, 507 - Cidade Nobre",
+    "endereco": "Endereço, R. Graciliano Ramos, 507 - Cidade Nobre, Ipatinga - MG, 35162-373"
+  },
+  {
+    "nome": "Odonto Special",
+    "endereco": "Endereço: Praça Dr. César Leite, Nº422 - Centro, Manhuaçu - MG, 36900-073 "
+  },
+  {
+    "nome": "Odonto Special Santa Bárbara",
+    "endereco": "Endereço: R. Antônio Pereira Rocha, 640 - União, Santa Bárbara - MG, 35960-000 "
+  },
+  {
+    "nome": "Clínica Odonto Special",
+    "endereco": "Endereço: esquina com a Avenida - Avenida Cipriano Del Favero n°363, R. Duque de Caxias, n°95 - Centro, Uberlândia - MG, 38400-106 "
+  },
+  {
+    "nome": "Odonto Special Nova Venécia",
+    "endereco": "Endereço: Av. Vitória, 350 - 1 Andar - Centro, Nova Venécia - ES, 29830-000 "
+  },
+  {
+    "nome": "Odonto Special - Barueri",
+    "endereco": "Endereço: R. Jandira Guerra, 25 - Vila Sao Joao, Barueri - SP, 06401-210 "
+  },
+  {
+    "nome": "Odonto Special Campinas Castelo",
+    "endereco": "Endereço: Av. Dr. Alberto Sarmento, 997 - Castelo, Campinas - SP, 13070-711 "
+  },
+  {
+    "nome": "R. Dr. Hamilton Prado, 77 - Centro",
+    "endereco": "Endereço, R. Dr. Hamilton Prado, 77 - Centro, Franco da Rocha - SP, 07801-000"
+  },
+  {
+    "nome": "Av. Uberaba, 567 - Vila Virginia",
+    "endereco": "Endereço, Av. Uberaba, 567 - Vila Virginia, Itaquaquecetuba - SP, 08573-070"
+  },
+  {
+    "nome": "R. Carlos de Campos, 165 - Parque Sao Vicente",
+    "endereco": "Endereço, R. Carlos de Campos, 165 - Parque Sao Vicente, Mauá - SP, 09371-310"
+  },
+  {
+    "nome": "Odonto Special Mogi das Cruzes",
+    "endereco": "Endereço: R. Dr. Paulo Frontin, 76 - Centro, Mogi das Cruzes - SP, 08710-050 "
+  },
+  {
+    "nome": "Odonto Special Osasco",
+    "endereco": "Endereço: Rua Tomás Spitaletti, 75 - Centro, Osasco - SP, 06010-140 "
+  },
+  {
+    "nome": "Odonto Special - Paulínia",
+    "endereco": "Endereço: Av. Pres. Getúlio Vargas, 653 - Nova Paulínia, Paulínia - SP, 13140-000 "
+  },
+  {
+    "nome": "Clínica Odonto Special - Dentistas em Piraju",
+    "endereco": "Endereço: R. Cel. Joaquim Teotônio de Araújo, 175 - Centro, Piraju - SP, 18800-021 "
+  },
+  {
+    "nome": "Odonto Special Campo Belo",
+    "endereco": "Endereço: R. Dr. Jesuíno Maciel, 984 - Campo Belo, São Paulo - SP, 04615-002 "
+  },
+  {
+    "nome": "Odonto Special Lapa",
+    "endereco": "Endereço: R. Nossa Sra. da Lapa, 748 - Lapa, São Paulo - SP, 05072-000 "
+  },
+  {
+    "nome": "Odonto Special Moema",
+    "endereco": "Endereço: Alameda dos Maracatins, 114 - Indianópolis, São Paulo - SP, 04089-000 "
+  },
+  {
+    "nome": "Odonto Special Perdizes",
+    "endereco": "Endereço: R. Caraíbas, 356 - Perdizes, São Paulo - SP, 05020-000 "
+  },
+  {
+    "nome": "Rua Miguel Ângelo Lapena, 228 - São Miguel Paulista",
+    "endereco": "Endereço, Rua Miguel Ângelo Lapena, 228 - São Miguel Paulista, São Paulo - SP, 08010-040"
+  },
+  {
+    "nome": "Clínica Odonto Special - Dentistas no Tatuapé",
+    "endereco": "Endereço: RUA: Azevedo Soares, 1185 - Tatuapé, São Paulo - SP, 03322-001 "
+  },
+  {
+    "nome": "Odonto Special Vila Leopoldina | São Paulo",
+    "endereco": "Endereço: R. Carlos Weber, 1539 - Vila Leopoldina, São Paulo - SP, 05303-000 "
+  },
+  {
+    "nome": "Odonto Special Vila Mascote",
+    "endereco": "Endereço: Av. Santa Catarina, 2005 - Vila Mascote, São Paulo - SP, 04378-400 "
+  },
+  {
+    "nome": "Odonto Special São Roque",
+    "endereco": "Endereço: R. Marino Camurça, 126 - Centro, São Roque - SP, 18130-515 "
+  },
+  {
+    "nome": "Odonto Special Sorocaba",
+    "endereco": "Endereço: Av.Antônio Carlos Comitre 510 , Edifício Dallas, sala 10 - Parque Campolim, Sorocaba - SP, 18047-620 "
+  },
+  {
+    "nome": "Odonto Special Suzano",
+    "endereco": "Endereço: R. Tiradentes, 11 A - Centro, Suzano - SP, 08674-195 "
+  }
+]

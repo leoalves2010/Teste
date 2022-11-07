@@ -1,0 +1,587 @@
+[
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Ariosto da Riva, 2659 - J",
+    "cidadeFull": "Alta Floresta - MT, 78580-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Rua Capitão Aragão, 551 - Alto da Balança",
+    "cidadeFull": "Fortaleza - CE, 60851-150"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. de Cillo, 34 - Cidade Jardim I",
+    "cidadeFull": "Americana - SP, 13466-550"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Treze de Maio, 175 - Centro",
+    "cidadeFull": "Amparo - SP, 13900-005"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Campos Belos, 13 - Jardim Luz",
+    "cidadeFull": "Aparecida de Goiânia - GO, 74915-013"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Rua Itabaiana, 634 - São José",
+    "cidadeFull": "Aracaju - SE, 49015-110"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Gen. Glicério, 1073 - Centro",
+    "cidadeFull": "Araçatuba - SP, 16010-080"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. 13 de Maio, 916 - Vila Rosario",
+    "cidadeFull": "Araguaína - TO, 77823-090"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Pedro Nasciuti, 861 - Centro",
+    "cidadeFull": "Araguari - MG, 38440-134"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. São Bento, 1622 - Araraquara",
+    "cidadeFull": "SP, 14801-300"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Abondio Marcheti, 11 - Jardim Jose Ometto III",
+    "cidadeFull": "Araras - SP, 13606-226"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. São João, 135 - Centro",
+    "cidadeFull": "Atibaia - SP, 12940-260"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Alvin Bauer, 185 - Centro",
+    "cidadeFull": "Balneário Camboriú - SC"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Avenida Brasil 345, Centro",
+    "cidadeFull": "Balsa Nova - PR"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Rua Treze de Maio 65, Castelo",
+    "cidadeFull": "Batatais - SP"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Tavares Bastos, 609 - Marambaia",
+    "cidadeFull": "Belém - PA, 66615-005"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Rua Lúcio Born, 137 - Centro",
+    "cidadeFull": "Biguaçu - SC, 88160-126"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Nereu Ramos, 61 - Centro",
+    "cidadeFull": "Blumenau - SC, 89010-400"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Sete de Setembro, 400 - Centro",
+    "cidadeFull": "Boa Esperança do Sul - SP, 14930-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Pref. Tônico de Barros, 400 - Centro",
+    "cidadeFull": "Botucatu - SP, 18600-110"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Prof. Luiz Nardy, 147 - Centro",
+    "cidadeFull": "Bragança Paulista - SP, 12900-020"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Rua Idalina Von Buettner 25, Centro I",
+    "cidadeFull": "Brusque - SC"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Cel. João Dias Guimarães, 179 - Centro",
+    "cidadeFull": "Caçapava - SP, 12281-350"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Monte Castelo, 12 - Independência",
+    "cidadeFull": "Cachoeiro de Itapemirim - ES, 29306-500"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Prof. Duílio Calderari, 1829 - Jardim Paulista",
+    "cidadeFull": "Campina Grande do Sul - PR, 83430-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Bandeirantes, 3445 - Amambai",
+    "cidadeFull": "Campo Grande - MS, 79006-001"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Mal. Deodoro, 888 - Centro",
+    "cidadeFull": "Campo Largo - PR, 83601-020"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Rio Grande do Sul, 2805 - Mathias Velho",
+    "cidadeFull": "Canoas - RS, 92330-001"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Os Dezoito do Forte, 2585 - São Pelegrino",
+    "cidadeFull": "Caxias do Sul - RS, 95020-472"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Ataliba Vieira de Almeida, 1625",
+    "cidadeFull": "Chapadinha - MA, 65500-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Quinze de Novembro, 670 - Centro",
+    "cidadeFull": "Corumbá - MS, 79321-045"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. José Ferreira da Costa, 1932 - Vila Santana",
+    "cidadeFull": "Costa Rica - MS, 79550-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Diogo Domingos Ferreira, 558 - Bandeirantes",
+    "cidadeFull": "Cuiabá - MT, 78010-090"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Maestro Carlos Frank, 2250 - Boqueirão",
+    "cidadeFull": "Curitiba - PR, 81750-400"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. XV de Novembro, 177 - Centro",
+    "cidadeFull": "Curitiba - PR, 80020-310"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Ver. Toaldo Túlio, 2801 - Santa Felicidade",
+    "cidadeFull": "Curitiba - PR, 82320-010"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Rua Helena Carcereri Piekarski 79, Uberaba",
+    "cidadeFull": "Curitiba - PR"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Dona Ruyce Ferraz Alvim, 2008 - Serraria",
+    "cidadeFull": "Diadema - SP, 09981-360"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Oliveira Marques, 2079 - Jardim Central",
+    "cidadeFull": "Dourados - MS, 79805-021"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Hercílio Luz, 826 - Centro",
+    "cidadeFull": "Florianópolis - SC, 88020-001"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Campos Sáles, 2159 - Centro",
+    "cidadeFull": "Franca - SP, 14400-710"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Qd 1",
+    "cidadeFull": "St. Sul Q 1 Conj. A - Gama, Brasília - DF, 72405-610"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. 7 de Setembro, 79 - Sete de Setembro",
+    "cidadeFull": "Gaspar - SC, 89114-840"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. T-9, 2310 - Jardim América",
+    "cidadeFull": "Goiânia - GO, 74255-220"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Praça São Gonçalo, 68 - São Benedito",
+    "cidadeFull": "Guaratinguetá - SP, 12502-150"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. João Camilo de Camargo, 105 - Lot. Remanso Campineiro",
+    "cidadeFull": "Hortolândia - SP, 13184-290"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Des. João Paes, 110 - Ibiranga",
+    "cidadeFull": "Itambé - PE, 55920-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Nereu Ramos, 586 - Centro",
+    "cidadeFull": "Imbituba - SC, 88780-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Maria Simão, 36 - Nações",
+    "cidadeFull": "Indaial - SC, 89082-115"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Bahia, 201 - Vila Padre Cicero",
+    "cidadeFull": "Iporá - GO, 76200-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Pres. Costa e Silva, 117 - Centro",
+    "cidadeFull": "Itaboraí - RJ, 24800-041"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Samuel Heusi, 440 - Centro",
+    "cidadeFull": "Itajaí - SC, 88301-320"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Rua 252, n 107 sala 04 107, Meia Praia",
+    "cidadeFull": "Itapema - SC"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. José de Paula Andrade, 5 - Jardim Belem",
+    "cidadeFull": "Itatiba - SP, 13256-320"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Vinte e Quatro de Maio, 400 - Centro",
+    "cidadeFull": "Jaboticabal - SP, 14870-350"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Mal. Bitencourt, 599 - Centro",
+    "cidadeFull": "Jaú - SP, 17201-430"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Treze de Maio, 314 - Centro",
+    "cidadeFull": "Joaçaba - SC, 89600-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Dr. João Colin, 222 - Centro",
+    "cidadeFull": "Joinville - SC, 89201-300"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Fernando Lôbo, 102 - Centro",
+    "cidadeFull": "Juiz de Fora - MG, 36016-230"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. do Retiro, 383 - Vila Virginia",
+    "cidadeFull": "Jundiaí - SP, 13209-355"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Frei Justino, 87 - Centro",
+    "cidadeFull": "Lages - SC, 88502-025"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Joaquim Mourão, 58 - Centro",
+    "cidadeFull": "Leme - SP, 13610-070"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "EDIFICIO DIAMANTE DE GOULD",
+    "cidadeFull": "R. Ver. Basílio Sautchuk, 901 - Zona 01, Maringá - PR, 87013-190"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Cesário Motta, 926 - Centro",
+    "cidadeFull": "Matão - SP, 15990-050"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Domingos de Bem, 192 - Mato Verde",
+    "cidadeFull": "MG, 39527-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Rua General Carneiro, 117 - Morrinhos",
+    "cidadeFull": "Montes Claros - MG, 39400-737"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Avenida 1 675, Conjunto João Alves Filho",
+    "cidadeFull": "Nossa Senhora do Socorro - SE"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. dos Flamboyants, 169 - Centro",
+    "cidadeFull": "Nova Mutum - MT, 78450-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Cônego Afonso, 52 - Centro",
+    "cidadeFull": "Osasco - SP, 06010-080"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Caetano Silveira de Matos, 2583 - Centro",
+    "cidadeFull": "Palhoça - SC, 88130-005"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Floriano Peixoto, 90 - Vila Sao Vicente",
+    "cidadeFull": "Paranavaí - PR"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Santo Antônio, 21 - Centro",
+    "cidadeFull": "Passos - MG, 37900-082"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Mandaguaçu, 866 - Emiliano Perneta",
+    "cidadeFull": "Pinhais - PR, 83324-434"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Rua Treze de Maio 1727, Cidade Alta",
+    "cidadeFull": "Piracicaba - SP"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Avenida Independência Quadra 18, Setor Tradicional (Planaltina)",
+    "cidadeFull": "Brasília - DF"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Cel. Procópio de Carvalho, 102 - Centro",
+    "cidadeFull": "Porto Ferreira - SP, 13660-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Tamekichi Takano, 739 - Centro",
+    "cidadeFull": "Registro - SP, 11900-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Visc. de Inhaúma, 574 - Centro",
+    "cidadeFull": "Ribeirão Preto - SP, 14010-100"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Dom Pedro I, 1394 - Ipiranga",
+    "cidadeFull": "Ribeirão Preto - SP, 14055-630"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Bernardino de Campos, 1336 - Centro",
+    "cidadeFull": "Ribeirão Preto - SP, 14020-093"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Tv. Campo do Rio Branco, 451 - Capoeira",
+    "cidadeFull": "Rio Branco - AC, 69905-022"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Cesário de Melo, 2623 - Campo Grande",
+    "cidadeFull": "Rio de Janeiro - RJ, 23052-102"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Calçadão Osny Gonçalves, 105 - Centro",
+    "cidadeFull": "Rio do Sul - SC, 89160-151"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Pedro Guimarães, 1159 - Centro",
+    "cidadeFull": "Rondonópolis - MT, 78700-380"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Sete de Setembro, 906 - Dois de Julho",
+    "cidadeFull": "Salvador - BA, 40060-001"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Caetano Marques 0, Centro",
+    "cidadeFull": "Santa Quitéria do Maranhão - MA"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Sezefredo Jaques Ourique, 6236 - centro",
+    "cidadeFull": "Santo Antônio das Missões - RS, 97870-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Dr. Jorge Tibiriçá, 541",
+    "cidadeFull": "Santo Antônio de Posse - SP, 13830-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Bernardo Lima, 1095 - Centro",
+    "cidadeFull": "São Bernardo - MA, 65550-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Francisco Prestes Maia, 741 - Centro",
+    "cidadeFull": "São Bernardo do Campo - SP, 09770-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Brasilpinho, 330 - Kobrasol",
+    "cidadeFull": "São José - SC, 88102-300"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Gen. Glicério, 3566 - Centro",
+    "cidadeFull": "São José do Rio Preto - SP, 15015-400"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Luís Jacinto, 286 - Centro",
+    "cidadeFull": "São José dos Campos - SP, 12245-710"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Visc. do Rio Branco, 2075 - Centro",
+    "cidadeFull": "São José dos Pinhais - PR, 83005-420"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Rua José do Patrocínio 12, Cohama",
+    "cidadeFull": "São Luís - MA"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. do Jangadeiro, 585 - Interlagos",
+    "cidadeFull": "São Paulo - SP, 04815-020"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Doze de Outubro, 63 - Lapa",
+    "cidadeFull": "São Paulo - SP, 05073-001"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. São Miguel, 923 - Vila Marieta",
+    "cidadeFull": "São Paulo - SP, 36190-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Alexandrina Pereira Novaes, 17 - Vila Nova Pauliceia",
+    "cidadeFull": "São Paulo - SP, 03267-050"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Aroeira, 43 - Res. Jardim Canedo I",
+    "cidadeFull": "Sen. Canedo - GO, 75250-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Dom Pedro II, 93 - Parque Res. Laranjeiras",
+    "cidadeFull": "Serra - ES, 29165-370"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Juca Preto, 538 - Jardim Vania",
+    "cidadeFull": "Serra Negra - SP, 13930-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Sebastião Sampaio, 752 - Centro",
+    "cidadeFull": "Sertãozinho - SP, 14160-050"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. das Sibipirunas, 3237 - Jardim Botânico",
+    "cidadeFull": "Sinop - MT, 78550-230"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Prof. Toledo, 497 - Centro",
+    "cidadeFull": "Sorocaba - SP, 18035-110"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. AntonÍo de Carvalho, 374 - Centro",
+    "cidadeFull": "Sumaré - SP, 13170-032"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. São Carlos, 318 - Vila Dr. Laurindo",
+    "cidadeFull": "Tatuí - SP, 18271-380"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Anísio de Abreu, 729 - Centro (Sul)",
+    "cidadeFull": "Teresina - PI, 64000-330"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Feliciano Sodré, 1054 - Várzea",
+    "cidadeFull": "Teresópolis - RJ, 25963-025"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "Av. Bayer Filho, 645",
+    "cidadeFull": "Tijucas - SC, 88200-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Paranaíba, 1187 - Jardim Primaveril",
+    "cidadeFull": "Três Lagoas - MS, 79603-090"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. São José, 355 - Uba",
+    "cidadeFull": "Ubá - MG, 36500-000"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Conceição das Alagoas, 727 - São Benedito",
+    "cidadeFull": "Uberaba - MG, 38022-080"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Ten. Virmondes, 824 - Centro",
+    "cidadeFull": "Uberlândia - MG, 38400-110"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Salim Nadaf, 525 - Centro Norte",
+    "cidadeFull": "Várzea Grande - MT, 78110-500"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Jaú, 33a - Jardim da Glória",
+    "cidadeFull": "Vespasiano - MG, 33206-066"
+  },
+  {
+    "franquia": "RedeOrto",
+    "enderecoFull": "R. Siqueira Campos, 199 - Centro",
+    "cidadeFull": "Vitória da Conquista - BA, 45000-455"
+  }
+]

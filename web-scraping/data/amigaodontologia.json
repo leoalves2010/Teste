@@ -1,0 +1,138 @@
+[
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Itajubá",
+    "endereco": "Av. Cel. Carneiro Jr., 71 – 1º andar – Centro – Itajubá/MG",
+    "telefone1": "(35) 3623-2261",
+    "telefone2": "(35) 98464-3784",
+    "dentistaResponsavel": "Lisanias Pereira Maciel"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Muriaé",
+    "endereco": "Praça João Pinheiro, 17 – 1º andar – Centro – Muriaé/MG",
+    "telefone1": "(32) 98800-2006",
+    "telefone2": "(32) 98856-8493",
+    "dentistaResponsavel": "Leonardo Moreira Peregrino"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Patos de Minas",
+    "endereco": "Rua Major Gote, 731 – 1º andarCentro – Patos de Minas/MG",
+    "telefone1": "(34) 3825-5353",
+    "telefone2": "(34) 99978-8807",
+    "dentistaResponsavel": "Silvio Roberto Alves Pinto"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Pouso Alegre",
+    "endereco": "Av. Dr. Lisboa, 334 – Sala 01 – Centro – Pouso Alegre",
+    "telefone1": "(35) 3422-2261",
+    "telefone2": "(35) 98863-5535",
+    "dentistaResponsavel": "Rafael Cordeiro Massaro "
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Angra dos Reis",
+    "endereco": "Rua do Comércio, 84 – 1º andar – Centro – Angra dos Reis/RJ",
+    "telefone1": "(24) 3365-1628",
+    "telefone2": "(24) 99819-0844",
+    "dentistaResponsavel": "Rafael Cordeiro Massaro"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Cabo Frio",
+    "endereco": "Rua Silva Jardim, 78 – 1º andar – Centro – Cabo Frio/RJ",
+    "telefone1": "(22) 2643-2274",
+    "telefone2": "(22) 2643-2274",
+    "dentistaResponsavel": "Mateus Ferreira Assis"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Macaé",
+    "endereco": "Avenida Rui Barbosa, 536 – 1º andar – Centro – Macaé/RJ",
+    "telefone1": "(22) 2772-4761",
+    "telefone2": "(22) 99735 9091",
+    "dentistaResponsavel": "RENAN ASSIS DE SOUZA FERREIRA"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Niterói",
+    "endereco": "Rua São João, 10 – 1º andar – Centro – Niterói/RJ",
+    "telefone1": "(21) 2721-0384",
+    "telefone2": "(21) 96763-4818",
+    "dentistaResponsavel": "Nicimar M. de Souza"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Resende",
+    "endereco": "Rua Alfredo Whately, 33 – 1º andar – Campos Elíseos – Resende/RJ",
+    "telefone1": "(24) 3359-3983",
+    "telefone2": "(24) 99276-9918",
+    "dentistaResponsavel": "Janiel Junqueira Polo Junior"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Rio Bonito",
+    "endereco": "Rua XV de Novembro, 110 – 1º andar – Centro – Rio Bonito/RJ",
+    "telefone1": "(21) 2734-1082",
+    "telefone2": "(21) 98900-2882",
+    "dentistaResponsavel": "Rodrigo Junqueira Ferraz Merkel"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Rio das Ostras",
+    "endereco": "Rua Washington Vianna, 30 – 1º andar – Centro – Rio das Ostras/RJ",
+    "telefone1": "(22) 2760-7358",
+    "telefone2": "(22) 98836-3223",
+    "dentistaResponsavel": "Claudia Emerich dos Santos"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "São Pedro da Aldeia",
+    "endereco": "Rua Dr. Antonio Alves, 140 – 1º andar – Centro – São Pedro da Aldeia/RJ",
+    "telefone1": "(22) 2627-6281",
+    "telefone2": "(22) 99775-6540",
+    "dentistaResponsavel": "Priscila Marques Mialich"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Volta Redonda",
+    "endereco": "Avenida Amaral Peixoto, 382 – 1º andar – Centro – Volta Redonda/RJ",
+    "telefone1": "(24) 3342-9716",
+    "telefone2": "24998383094",
+    "dentistaResponsavel": "Thomas Vieira Garcia"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Americana",
+    "endereco": "Rua Fernando de Camargo, 155 – 1º andar – Centro – Americana/SP",
+    "telefone1": "(19) 3012-0033",
+    "telefone2": "(19) 99344-2565",
+    "dentistaResponsavel": "Vinicius Santos Gomes"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Guaratinguetá",
+    "endereco": "Praça Conselheiro Rodrigues Alves, 23 – 1º Andar – Centro – Guaratinguetá/SP",
+    "telefone1": "(12) 3132-6415",
+    "telefone2": "(12) 97410-6969",
+    "dentistaResponsavel": "Maxmiler Barbosa Silva"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Sertãozinho",
+    "endereco": "Rua Barão do Rio Branco, 1156 – 1º andar – Centro – Sertãozinho/SP",
+    "telefone1": "(16) 3041-2929",
+    "telefone2": "(16) 98133-1850",
+    "dentistaResponsavel": "Silvio Roberto A. P. Junior"
+  },
+  {
+    "franquia": "Amiga Odontologia",
+    "nome": "Ubatuba",
+    "endereco": "Rua Hans Staden, 380 – 1º andar – Centro – Ubatuba/SP",
+    "telefone1": "(12) 3833-7612",
+    "telefone2": "(12) 99640-0101",
+    "dentistaResponsavel": "Ricardo Augusto Oliveira de Moraes"
+  }
+]
